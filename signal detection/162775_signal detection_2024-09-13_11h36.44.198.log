@@ -1,0 +1,185 @@
+41.8312 	DEBUG 	Fullscreen settings ignored as running in pilot mode.
+41.8331 	INFO 	Loaded monitor calibration from ['2024_08_09 11:23']
+42.1718 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x12a941780>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x12a941720>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x12a941570>, gamma=None, gammaErrorPolicy='raise', infoMsg=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x12a777f70>, multiSample=False, name='window1', numSamples=2, pos=[520.0, 300.0], screen=0, size=array([1600, 1200]), stencilBits=0, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=True, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+42.1719 	EXP 	window1: backgroundImage = ''
+42.1720 	EXP 	window1: backgroundFit = 'none'
+42.1724 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x12a9418a0>
+42.1728 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x12a9418a0>
+42.1800 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x12a9418a0>
+42.1815 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x12a9418a0>
+42.2176 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+42.2191 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+42.2205 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+42.2222 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+42.2238 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+42.2245 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+42.2258 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+42.2275 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+42.2280 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+42.2287 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+42.2300 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+42.2312 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+42.2322 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+42.2334 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+42.2344 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+42.2356 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+42.2368 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+42.2374 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+42.2381 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+42.2396 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+42.2403 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+42.2442 	DEBUG 	Uploading Texture Font fontname to graphics card
+42.2476 	DEBUG 	Upload of Texture Font fontname complete
+42.2500 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x12a9418a0>
+42.2502 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x12a9418a0>
+42.2512 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x12a9418a0>
+42.2521 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x12a9418a0>
+42.2584 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+42.2600 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+42.2614 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+42.2617 	DEBUG 	Uploading Texture Font fontname to graphics card
+42.2627 	DEBUG 	Upload of Texture Font fontname complete
+42.2656 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+42.2656 	EXP 	window1: recordFrameIntervals = False
+42.5446 	EXP 	window1: recordFrameIntervals = True
+42.7671 	EXP 	Screen (0) actual frame rate measured at 91.27Hz
+42.7672 	EXP 	window1: recordFrameIntervals = False
+42.7683 	EXP 	window1: mouseVisible = False
+42.7689 	EXP 	window1: mouseVisible = False
+42.7691 	EXP 	window1: mouseVisible = False
+42.7712 	EXP 	window1: mouseVisible = False
+42.7733 	EXP 	window1: mouseVisible = False
+42.7827 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+42.7837 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+42.7853 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+42.7871 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+42.7887 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+42.7903 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+42.7910 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+42.7923 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+42.7938 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+42.7952 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+42.7956 	DEBUG 	Uploading Texture Font fontname to graphics card
+42.7990 	DEBUG 	Upload of Texture Font fontname complete
+42.8014 	EXP 	window1: mouseVisible = False
+42.8016 	EXP 	window1: mouseVisible = False
+42.8024 	EXP 	window1: mouseVisible = False
+42.8032 	EXP 	window1: mouseVisible = False
+42.8299 	WARNING 	launchHubServer: If using the iohub mouse or eyetracker devices, fullScr should be True.
+49.1713 	INFO 	keyboard.Keyboard is using iohub backend.
+49.1715 	INFO 	keyboard.Keyboard is using iohub backend.
+49.1716 	EXP 	signal detection: status = STARTED
+49.1740 	EXP 	window1: mouseVisible = False
+49.1854 	EXP 	Created fixation = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=0.0, draggable=False, fillColor=array([1, 1, 1]), fillColorSpace='rgb', fillRGB=array([1, 1, 1]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1, 1, 1]), lineWidth=1.0, name='fixation', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([10., 10.]), units='pix', vertices=ndarray(...), win=Window(...), windingRule=None)
+49.1858 	EXP 	window1: mouseVisible = False
+49.1925 	EXP 	Created grating = GratingStim(__class__=<class 'psychopy.visual.grating.GratingStim'>, anchor='center', autoDraw=False, autoLog=True, blendmode='avg', color=array([0.3, 0.3, 0.3]), colorSpace='rgb', contrast=0.3, depth=-1.0, draggable=False, interpolate=True, mask='gauss', maskParams=None, name='grating', opacity=1, ori=1.0, phase=array([0., 0.]), pos=array([0., 0.]), rgbPedestal=array([0., 0., 0.]), sf=array([5., 5.]), size=array([0.2, 0.2]), tex='sin', texRes=128.0, units='height', win=Window(...))
+0.0399 	EXP 	New trial (rep=0, index=0): <Trial 0 (0 in rep 0) data={'thisN': 0, 'thisTrialN': 0, 'thisRepN': 0}>
+0.0540 	EXP 	grating: ori = 0.0
+0.0540 	EXP 	fixation: autoDraw = True
+1.0200 	INFO 	Keyboard events cleared
+1.0189 	EXP 	grating: autoDraw = True
+1.0189 	EXP 	grating: tex = 'sin'
+1.0675 	EXP 	fixation: autoDraw = False
+1.3211 	EXP 	grating: autoDraw = False
+8.9053 	EXP 	New trial (rep=1, index=0): <Trial 1 (0 in rep 1) data={'thisN': 1, 'thisTrialN': 0, 'thisRepN': 1}>
+8.9376 	DATA 	Keypress: down
+8.9471 	EXP 	fixation: autoDraw = False
+8.9471 	EXP 	grating: autoDraw = False
+8.9471 	EXP 	grating: ori = -3.0
+8.9471 	EXP 	fixation: autoDraw = True
+9.9083 	INFO 	Keyboard events cleared
+9.9073 	EXP 	grating: autoDraw = True
+9.9496 	EXP 	fixation: autoDraw = False
+10.2076 	EXP 	grating: autoDraw = False
+12.2301 	EXP 	New trial (rep=2, index=0): <Trial 2 (0 in rep 2) data={'thisN': 2, 'thisTrialN': 0, 'thisRepN': 2}>
+12.2356 	DATA 	Keypress: down
+12.2438 	EXP 	fixation: autoDraw = False
+12.2438 	EXP 	grating: autoDraw = False
+12.2438 	EXP 	grating: ori = 0.0
+12.2438 	EXP 	fixation: autoDraw = True
+12.3105 	DATA 	Keypress: down
+13.2396 	INFO 	Keyboard events cleared
+13.2385 	EXP 	grating: autoDraw = True
+13.2531 	EXP 	fixation: autoDraw = False
+13.5630 	EXP 	grating: autoDraw = False
+22.9833 	EXP 	New trial (rep=3, index=0): <Trial 3 (0 in rep 3) data={'thisN': 3, 'thisTrialN': 0, 'thisRepN': 3}>
+22.9862 	DATA 	Keypress: down
+22.9939 	EXP 	fixation: autoDraw = False
+22.9939 	EXP 	grating: autoDraw = False
+22.9939 	EXP 	grating: ori = 0.0
+22.9939 	EXP 	fixation: autoDraw = True
+23.9958 	INFO 	Keyboard events cleared
+23.9949 	EXP 	fixation: autoDraw = False
+23.9949 	EXP 	grating: autoDraw = True
+24.3054 	EXP 	grating: autoDraw = False
+41.1550 	DATA 	Mouse: Left button down, pos=(249,346)
+41.2461 	DATA 	Mouse:  Left button up, pos=(249,346)
+58.8859 	EXP 	New trial (rep=4, index=0): <Trial 4 (0 in rep 4) data={'thisN': 4, 'thisTrialN': 0, 'thisRepN': 4}>
+58.8890 	DATA 	Keypress: down
+58.8974 	EXP 	fixation: autoDraw = False
+58.8974 	EXP 	grating: autoDraw = False
+58.8974 	EXP 	grating: ori = 0.0
+58.8974 	EXP 	fixation: autoDraw = True
+59.0922 	DATA 	Keypress: down
+59.8942 	INFO 	Keyboard events cleared
+59.8930 	EXP 	grating: autoDraw = True
+59.9076 	EXP 	fixation: autoDraw = False
+60.2115 	EXP 	grating: autoDraw = False
+62.4683 	EXP 	New trial (rep=5, index=0): <Trial 5 (0 in rep 5) data={'thisN': 5, 'thisTrialN': 0, 'thisRepN': 5}>
+62.4706 	DATA 	Keypress: down
+62.4791 	EXP 	fixation: autoDraw = False
+62.4791 	EXP 	grating: autoDraw = False
+62.4791 	EXP 	grating: ori = 0.0
+62.4791 	EXP 	fixation: autoDraw = True
+63.4698 	INFO 	Keyboard events cleared
+63.4688 	EXP 	grating: autoDraw = True
+63.4822 	EXP 	fixation: autoDraw = False
+63.7643 	EXP 	grating: autoDraw = False
+136.7956 	EXP 	New trial (rep=6, index=0): <Trial 6 (0 in rep 6) data={'thisN': 6, 'thisTrialN': 0, 'thisRepN': 6}>
+136.8036 	DATA 	Keypress: down
+136.8131 	EXP 	fixation: autoDraw = False
+136.8131 	EXP 	grating: autoDraw = False
+136.8131 	EXP 	grating: ori = 0.0
+136.8131 	EXP 	fixation: autoDraw = True
+137.8066 	INFO 	Keyboard events cleared
+137.8057 	EXP 	grating: autoDraw = True
+137.8206 	EXP 	fixation: autoDraw = False
+138.1072 	EXP 	grating: autoDraw = False
+142.4263 	EXP 	New trial (rep=7, index=0): <Trial 7 (0 in rep 7) data={'thisN': 7, 'thisTrialN': 0, 'thisRepN': 7}>
+142.4299 	DATA 	Keypress: down
+142.4377 	EXP 	fixation: autoDraw = False
+142.4377 	EXP 	grating: autoDraw = False
+142.4377 	EXP 	grating: ori = 4.0
+142.4377 	EXP 	fixation: autoDraw = True
+143.4243 	INFO 	Keyboard events cleared
+143.4232 	EXP 	grating: autoDraw = True
+143.4383 	EXP 	fixation: autoDraw = False
+143.7275 	EXP 	grating: autoDraw = False
+162.4942 	EXP 	New trial (rep=8, index=0): <Trial 8 (0 in rep 8) data={'thisN': 8, 'thisTrialN': 0, 'thisRepN': 8}>
+162.4964 	DATA 	Keypress: down
+162.5045 	EXP 	fixation: autoDraw = False
+162.5045 	EXP 	grating: autoDraw = False
+162.5045 	EXP 	grating: ori = 0.0
+162.5045 	EXP 	fixation: autoDraw = True
+163.4964 	INFO 	Keyboard events cleared
+163.4952 	EXP 	grating: autoDraw = True
+163.5104 	EXP 	fixation: autoDraw = False
+163.8036 	EXP 	grating: autoDraw = False
+163.9025 	EXP 	New trial (rep=9, index=0): <Trial 9 (0 in rep 9) data={'thisN': 9, 'thisTrialN': 0, 'thisRepN': 9}>
+163.9055 	DATA 	Keypress: down
+163.9141 	EXP 	fixation: autoDraw = False
+163.9141 	EXP 	grating: autoDraw = False
+163.9141 	EXP 	grating: ori = 0.0
+163.9141 	EXP 	fixation: autoDraw = True
+164.9130 	INFO 	Keyboard events cleared
+164.9114 	EXP 	grating: autoDraw = True
+164.9264 	EXP 	fixation: autoDraw = False
+165.2107 	EXP 	grating: autoDraw = False
+165.6000 	DATA 	Keypress: down
+165.6080 	EXP 	fixation: autoDraw = False
+165.6080 	EXP 	grating: autoDraw = False
+165.6140 	EXP 	signal detection: status = STOPPED
+165.6196 	INFO 	saved data to '/Users/shrutigupta/Desktop/data/162775_signal detection_2024-09-13_11h36.44.198.csv'
+165.6242 	INFO 	saved data to /Users/shrutigupta/Desktop/data/162775_signal detection_2024-09-13_11h36.44.198.psydat
+165.6539 	EXP 	window1: mouseVisible = True
+166.2155 	DEBUG 	Saving data for signal detection ExperimentHandler
