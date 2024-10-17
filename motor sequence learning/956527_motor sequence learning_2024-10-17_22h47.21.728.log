@@ -1,0 +1,1649 @@
+48.1854 	DEBUG 	Fullscreen settings ignored as running in pilot mode.
+48.1871 	INFO 	Loaded monitor calibration from ['2024_08_09 11:23']
+48.5259 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x1376c7af0>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x1376c7b50>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x1376c7d30>, gamma=None, gammaErrorPolicy='raise', infoMsg=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x13776a380>, multiSample=False, name='window1', numSamples=2, pos=[520.0, 300.0], screen=0, size=array([1600, 1200]), stencilBits=0, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=True, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+48.5261 	EXP 	window1: backgroundImage = ''
+48.5261 	EXP 	window1: backgroundFit = 'none'
+48.5265 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x1376c79d0>
+48.5267 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x1376c79d0>
+48.5340 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x1376c79d0>
+48.5352 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x1376c79d0>
+48.5611 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+48.5626 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+48.5639 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+48.5661 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+48.5680 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+48.5687 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+48.5700 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+48.5717 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+48.5722 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+48.5729 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+48.5741 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+48.5752 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+48.5762 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+48.5773 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+48.5783 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+48.5795 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+48.5806 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+48.5812 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+48.5819 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+48.5834 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+48.5841 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+48.5873 	DEBUG 	Uploading Texture Font fontname to graphics card
+48.5905 	DEBUG 	Upload of Texture Font fontname complete
+48.5929 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x1376c79d0>
+48.5931 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x1376c79d0>
+48.5940 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x1376c79d0>
+48.5950 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x1376c79d0>
+48.6021 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+48.6039 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+48.6055 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+48.6061 	DEBUG 	Uploading Texture Font fontname to graphics card
+48.6073 	DEBUG 	Upload of Texture Font fontname complete
+48.6104 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+48.6104 	EXP 	window1: recordFrameIntervals = False
+48.8733 	EXP 	window1: recordFrameIntervals = True
+50.0341 	WARNING 	Couldn't measure a consistent frame rate!
+  - Is your graphics card set to sync to vertical blank?
+  - Are you running other processes on your computer?
+
+50.0345 	EXP 	window1: mouseVisible = False
+50.0357 	EXP 	window1: mouseVisible = False
+50.0362 	EXP 	window1: mouseVisible = False
+50.0377 	EXP 	window1: mouseVisible = False
+50.0387 	EXP 	window1: mouseVisible = False
+50.0467 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+50.0478 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+50.0494 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+50.0515 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+50.0543 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+50.0578 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+50.0590 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+50.0606 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+50.0624 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+50.0642 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+50.0650 	DEBUG 	Uploading Texture Font fontname to graphics card
+50.0693 	DEBUG 	Upload of Texture Font fontname complete
+50.0725 	EXP 	window1: mouseVisible = False
+50.0727 	EXP 	window1: mouseVisible = False
+50.0739 	EXP 	window1: mouseVisible = False
+50.0750 	EXP 	window1: mouseVisible = False
+50.1070 	WARNING 	launchHubServer: If using the iohub mouse or eyetracker devices, fullScr should be True.
+56.2762 	INFO 	keyboard.Keyboard is using iohub backend.
+56.2763 	INFO 	keyboard.Keyboard is using iohub backend.
+56.2764 	EXP 	motor sequence learning: status = STARTED
+56.2779 	EXP 	window1: mouseVisible = False
+56.2887 	EXP 	Created fixation = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=0.0, draggable=False, fillColor=array([1, 1, 1]), fillColorSpace='rgb', fillRGB=array([1, 1, 1]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1, 1, 1]), lineWidth=1.0, name='fixation', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([10., 10.]), units='pix', vertices=ndarray(...), win=Window(...), windingRule=None)
+56.2890 	EXP 	window1: mouseVisible = False
+56.2912 	EXP 	Created line1 = Rect(__class__=<class 'psychopy.visual.rect.Rect'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=-1.0, draggable=False, fillColor=array([1, 1, 1]), fillColorSpace='rgb', fillRGB=array([1, 1, 1]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1, 1, 1]), lineWidth=1.0, name='line1', opacity=1, ori=90.0, pos=array([-150.,    0.]), size=array([100.,  10.]), units='pix', vertices=ndarray(...), win=Window(...))
+56.2914 	EXP 	window1: mouseVisible = False
+56.2935 	EXP 	Created line2 = Rect(__class__=<class 'psychopy.visual.rect.Rect'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=-2.0, draggable=False, fillColor=array([1, 1, 1]), fillColorSpace='rgb', fillRGB=array([1, 1, 1]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1, 1, 1]), lineWidth=1.0, name='line2', opacity=1, ori=90.0, pos=array([-50.,   0.]), size=array([100.,  10.]), units='pix', vertices=ndarray(...), win=Window(...))
+56.2937 	EXP 	window1: mouseVisible = False
+56.2957 	EXP 	Created line3 = Rect(__class__=<class 'psychopy.visual.rect.Rect'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=-3.0, draggable=False, fillColor=array([1, 1, 1]), fillColorSpace='rgb', fillRGB=array([1, 1, 1]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1, 1, 1]), lineWidth=1.0, name='line3', opacity=1, ori=90.0, pos=array([50.,  0.]), size=array([100.,  10.]), units='pix', vertices=ndarray(...), win=Window(...))
+56.2959 	EXP 	window1: mouseVisible = False
+56.2980 	EXP 	Created line4 = Rect(__class__=<class 'psychopy.visual.rect.Rect'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=-4.0, draggable=False, fillColor=array([1, 1, 1]), fillColorSpace='rgb', fillRGB=array([1, 1, 1]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1, 1, 1]), lineWidth=1.0, name='line4', opacity=1, ori=90.0, pos=array([150.,   0.]), size=array([100.,  10.]), units='pix', vertices=ndarray(...), win=Window(...))
+56.2983 	EXP 	window1: mouseVisible = False
+56.3007 	EXP 	Created probe = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=-5.0, draggable=False, fillColor=array([1, 1, 1]), fillColorSpace='rgb', fillRGB=array([1, 1, 1]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1, 1, 1]), lineWidth=1.0, name='probe', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([10., 10.]), units='pix', vertices=ndarray(...), win=Window(...), windingRule=None)
+56.3009 	EXP 	window1: mouseVisible = False
+56.3033 	EXP 	Created fixation = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=0.0, draggable=False, fillColor=array([1, 1, 1]), fillColorSpace='rgb', fillRGB=array([1, 1, 1]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1, 1, 1]), lineWidth=1.0, name='fixation', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([10., 10.]), units='pix', vertices=ndarray(...), win=Window(...), windingRule=None)
+56.3034 	EXP 	window1: mouseVisible = False
+56.3054 	EXP 	Created line1 = Rect(__class__=<class 'psychopy.visual.rect.Rect'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=-1.0, draggable=False, fillColor=array([1, 1, 1]), fillColorSpace='rgb', fillRGB=array([1, 1, 1]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1, 1, 1]), lineWidth=1.0, name='line1', opacity=1, ori=90.0, pos=array([-150.,    0.]), size=array([100.,  10.]), units='pix', vertices=ndarray(...), win=Window(...))
+56.3056 	EXP 	window1: mouseVisible = False
+56.3075 	EXP 	Created line2 = Rect(__class__=<class 'psychopy.visual.rect.Rect'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=-2.0, draggable=False, fillColor=array([1, 1, 1]), fillColorSpace='rgb', fillRGB=array([1, 1, 1]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1, 1, 1]), lineWidth=1.0, name='line2', opacity=1, ori=90.0, pos=array([-50.,   0.]), size=array([100.,  10.]), units='pix', vertices=ndarray(...), win=Window(...))
+56.3076 	EXP 	window1: mouseVisible = False
+56.3097 	EXP 	Created line3 = Rect(__class__=<class 'psychopy.visual.rect.Rect'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=-3.0, draggable=False, fillColor=array([1, 1, 1]), fillColorSpace='rgb', fillRGB=array([1, 1, 1]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1, 1, 1]), lineWidth=1.0, name='line3', opacity=1, ori=90.0, pos=array([50.,  0.]), size=array([100.,  10.]), units='pix', vertices=ndarray(...), win=Window(...))
+56.3099 	EXP 	window1: mouseVisible = False
+56.3118 	EXP 	Created line4 = Rect(__class__=<class 'psychopy.visual.rect.Rect'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=-4.0, draggable=False, fillColor=array([1, 1, 1]), fillColorSpace='rgb', fillRGB=array([1, 1, 1]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1, 1, 1]), lineWidth=1.0, name='line4', opacity=1, ori=90.0, pos=array([150.,   0.]), size=array([100.,  10.]), units='pix', vertices=ndarray(...), win=Window(...))
+56.3119 	EXP 	window1: mouseVisible = False
+56.3141 	EXP 	Created probe = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=-5.0, draggable=False, fillColor=array([1, 1, 1]), fillColorSpace='rgb', fillRGB=array([1, 1, 1]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1, 1, 1]), lineWidth=1.0, name='probe', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([10., 10.]), units='pix', vertices=ndarray(...), win=Window(...), windingRule=None)
+0.0471 	DEBUG 	Read csv file with pandas: /Users/shrutigupta/Downloads/sequence condition(Sheet1).csv
+0.0486 	DEBUG 	Clearing unnamed columns from /Users/shrutigupta/Downloads/sequence condition(Sheet1).csv
+0.0491 	EXP 	Imported /Users/shrutigupta/Downloads/sequence condition(Sheet1).csv as conditions, 4 conditions, 2 params
+0.0504 	EXP 	New trial (rep=0, index=0): <Trial 0 (0 in rep 0) data={'pos': -50, 'corr_resp': 'x', 'thisN': 0, 'thisTrialN': 0, 'thisRepN': 0}>
+0.0645 	WARNING 	t of last frame was 45.62ms (=1/21)
+0.0645 	EXP 	fixation: autoDraw = True
+0.2627 	WARNING 	t of last frame was 24.64ms (=1/40)
+0.4299 	WARNING 	t of last frame was 26.01ms (=1/38)
+0.6467 	WARNING 	t of last frame was 27.07ms (=1/36)
+1.0045 	EXP 	line1: autoDraw = True
+1.0045 	EXP 	line2: autoDraw = True
+1.0045 	EXP 	line3: autoDraw = True
+1.0045 	EXP 	line4: autoDraw = True
+1.0739 	EXP 	fixation: autoDraw = False
+1.1953 	WARNING 	Multiple dropped frames have occurred - I'll stop bothering you about them!
+2.0075 	INFO 	Keyboard events cleared
+2.0065 	EXP 	probe: autoDraw = True
+4.6155 	EXP 	New trial (rep=0, index=1): <Trial 1 (1 in rep 0) data={'pos': 150, 'corr_resp': 'v', 'thisN': 1, 'thisTrialN': 1, 'thisRepN': 0}>
+4.6325 	DATA 	Keypress: x
+4.6423 	EXP 	fixation: autoDraw = False
+4.6423 	EXP 	line1: autoDraw = False
+4.6423 	EXP 	line2: autoDraw = False
+4.6423 	EXP 	line3: autoDraw = False
+4.6423 	EXP 	line4: autoDraw = False
+4.6423 	EXP 	probe: autoDraw = False
+4.6423 	EXP 	fixation: autoDraw = True
+5.6150 	EXP 	line1: autoDraw = True
+5.6150 	EXP 	line2: autoDraw = True
+5.6150 	EXP 	line3: autoDraw = True
+5.6150 	EXP 	line4: autoDraw = True
+5.6440 	EXP 	fixation: autoDraw = False
+6.6182 	INFO 	Keyboard events cleared
+6.6168 	EXP 	probe: autoDraw = True
+8.4798 	EXP 	New trial (rep=0, index=2): <Trial 2 (2 in rep 0) data={'pos': 50, 'corr_resp': 'c', 'thisN': 2, 'thisTrialN': 2, 'thisRepN': 0}>
+8.4835 	DATA 	Keypress: v
+8.4922 	EXP 	fixation: autoDraw = False
+8.4922 	EXP 	line1: autoDraw = False
+8.4922 	EXP 	line2: autoDraw = False
+8.4922 	EXP 	line3: autoDraw = False
+8.4922 	EXP 	line4: autoDraw = False
+8.4922 	EXP 	probe: autoDraw = False
+8.4922 	EXP 	fixation: autoDraw = True
+9.4836 	EXP 	line1: autoDraw = True
+9.4836 	EXP 	line2: autoDraw = True
+9.4836 	EXP 	line3: autoDraw = True
+9.4836 	EXP 	line4: autoDraw = True
+9.4971 	EXP 	fixation: autoDraw = False
+10.4803 	INFO 	Keyboard events cleared
+10.4791 	EXP 	probe: autoDraw = True
+12.6086 	EXP 	New trial (rep=0, index=3): <Trial 3 (3 in rep 0) data={'pos': -150, 'corr_resp': 'z', 'thisN': 3, 'thisTrialN': 3, 'thisRepN': 0}>
+12.6112 	DATA 	Keypress: c
+12.6196 	EXP 	fixation: autoDraw = False
+12.6196 	EXP 	line1: autoDraw = False
+12.6196 	EXP 	line2: autoDraw = False
+12.6196 	EXP 	line3: autoDraw = False
+12.6196 	EXP 	line4: autoDraw = False
+12.6196 	EXP 	probe: autoDraw = False
+12.6196 	EXP 	fixation: autoDraw = True
+13.6077 	EXP 	line1: autoDraw = True
+13.6077 	EXP 	line2: autoDraw = True
+13.6077 	EXP 	line3: autoDraw = True
+13.6077 	EXP 	line4: autoDraw = True
+13.6210 	EXP 	fixation: autoDraw = False
+14.6102 	INFO 	Keyboard events cleared
+14.6092 	EXP 	probe: autoDraw = True
+15.4398 	EXP 	New trial (rep=1, index=0): <Trial 4 (0 in rep 1) data={'pos': -50, 'corr_resp': 'x', 'thisN': 4, 'thisTrialN': 0, 'thisRepN': 1}>
+15.4431 	DATA 	Keypress: z
+15.4515 	EXP 	fixation: autoDraw = False
+15.4515 	EXP 	line1: autoDraw = False
+15.4515 	EXP 	line2: autoDraw = False
+15.4515 	EXP 	line3: autoDraw = False
+15.4515 	EXP 	line4: autoDraw = False
+15.4515 	EXP 	probe: autoDraw = False
+15.4515 	EXP 	fixation: autoDraw = True
+16.4427 	EXP 	line1: autoDraw = True
+16.4427 	EXP 	line2: autoDraw = True
+16.4427 	EXP 	line3: autoDraw = True
+16.4427 	EXP 	line4: autoDraw = True
+16.4567 	EXP 	fixation: autoDraw = False
+17.4444 	INFO 	Keyboard events cleared
+17.4432 	EXP 	probe: autoDraw = True
+18.2536 	EXP 	New trial (rep=1, index=1): <Trial 5 (1 in rep 1) data={'pos': 150, 'corr_resp': 'v', 'thisN': 5, 'thisTrialN': 1, 'thisRepN': 1}>
+18.2564 	DATA 	Keypress: x
+18.2647 	EXP 	fixation: autoDraw = False
+18.2647 	EXP 	line1: autoDraw = False
+18.2647 	EXP 	line2: autoDraw = False
+18.2647 	EXP 	line3: autoDraw = False
+18.2647 	EXP 	line4: autoDraw = False
+18.2647 	EXP 	probe: autoDraw = False
+18.2647 	EXP 	fixation: autoDraw = True
+19.2512 	EXP 	line1: autoDraw = True
+19.2512 	EXP 	line2: autoDraw = True
+19.2512 	EXP 	line3: autoDraw = True
+19.2512 	EXP 	line4: autoDraw = True
+19.2642 	EXP 	fixation: autoDraw = False
+20.2596 	INFO 	Keyboard events cleared
+20.2585 	EXP 	probe: autoDraw = True
+21.1613 	EXP 	New trial (rep=1, index=2): <Trial 6 (2 in rep 1) data={'pos': 50, 'corr_resp': 'c', 'thisN': 6, 'thisTrialN': 2, 'thisRepN': 1}>
+21.1641 	DATA 	Keypress: v
+21.1722 	EXP 	fixation: autoDraw = False
+21.1722 	EXP 	line1: autoDraw = False
+21.1722 	EXP 	line2: autoDraw = False
+21.1722 	EXP 	line3: autoDraw = False
+21.1722 	EXP 	line4: autoDraw = False
+21.1722 	EXP 	probe: autoDraw = False
+21.1722 	EXP 	fixation: autoDraw = True
+22.1633 	EXP 	line1: autoDraw = True
+22.1633 	EXP 	line2: autoDraw = True
+22.1633 	EXP 	line3: autoDraw = True
+22.1633 	EXP 	line4: autoDraw = True
+22.1768 	EXP 	fixation: autoDraw = False
+23.1616 	INFO 	Keyboard events cleared
+23.1606 	EXP 	probe: autoDraw = True
+23.6905 	EXP 	New trial (rep=1, index=3): <Trial 7 (3 in rep 1) data={'pos': -150, 'corr_resp': 'z', 'thisN': 7, 'thisTrialN': 3, 'thisRepN': 1}>
+23.6937 	DATA 	Keypress: c
+23.7022 	EXP 	fixation: autoDraw = False
+23.7022 	EXP 	line1: autoDraw = False
+23.7022 	EXP 	line2: autoDraw = False
+23.7022 	EXP 	line3: autoDraw = False
+23.7022 	EXP 	line4: autoDraw = False
+23.7022 	EXP 	probe: autoDraw = False
+23.7022 	EXP 	fixation: autoDraw = True
+24.6881 	EXP 	line1: autoDraw = True
+24.6881 	EXP 	line2: autoDraw = True
+24.6881 	EXP 	line3: autoDraw = True
+24.6881 	EXP 	line4: autoDraw = True
+24.7025 	EXP 	fixation: autoDraw = False
+25.6891 	INFO 	Keyboard events cleared
+25.6877 	EXP 	probe: autoDraw = True
+26.3532 	EXP 	New trial (rep=2, index=0): <Trial 8 (0 in rep 2) data={'pos': -50, 'corr_resp': 'x', 'thisN': 8, 'thisTrialN': 0, 'thisRepN': 2}>
+26.3558 	DATA 	Keypress: z
+26.3638 	EXP 	fixation: autoDraw = False
+26.3638 	EXP 	line1: autoDraw = False
+26.3638 	EXP 	line2: autoDraw = False
+26.3638 	EXP 	line3: autoDraw = False
+26.3638 	EXP 	line4: autoDraw = False
+26.3638 	EXP 	probe: autoDraw = False
+26.3638 	EXP 	fixation: autoDraw = True
+27.3639 	EXP 	fixation: autoDraw = False
+27.3639 	EXP 	line1: autoDraw = True
+27.3639 	EXP 	line2: autoDraw = True
+27.3639 	EXP 	line3: autoDraw = True
+27.3639 	EXP 	line4: autoDraw = True
+28.3540 	INFO 	Keyboard events cleared
+28.3526 	EXP 	probe: autoDraw = True
+29.3529 	EXP 	New trial (rep=2, index=1): <Trial 9 (1 in rep 2) data={'pos': 150, 'corr_resp': 'v', 'thisN': 9, 'thisTrialN': 1, 'thisRepN': 2}>
+29.3561 	DATA 	Keypress: x
+29.3645 	EXP 	fixation: autoDraw = False
+29.3645 	EXP 	line1: autoDraw = False
+29.3645 	EXP 	line2: autoDraw = False
+29.3645 	EXP 	line3: autoDraw = False
+29.3645 	EXP 	line4: autoDraw = False
+29.3645 	EXP 	probe: autoDraw = False
+29.3645 	EXP 	fixation: autoDraw = True
+30.3617 	EXP 	fixation: autoDraw = False
+30.3617 	EXP 	line1: autoDraw = True
+30.3617 	EXP 	line2: autoDraw = True
+30.3617 	EXP 	line3: autoDraw = True
+30.3617 	EXP 	line4: autoDraw = True
+31.3617 	INFO 	Keyboard events cleared
+31.3607 	EXP 	probe: autoDraw = True
+32.2689 	EXP 	New trial (rep=2, index=2): <Trial 10 (2 in rep 2) data={'pos': 50, 'corr_resp': 'c', 'thisN': 10, 'thisTrialN': 2, 'thisRepN': 2}>
+32.2725 	DATA 	Keypress: v
+32.2805 	EXP 	fixation: autoDraw = False
+32.2805 	EXP 	line1: autoDraw = False
+32.2805 	EXP 	line2: autoDraw = False
+32.2805 	EXP 	line3: autoDraw = False
+32.2805 	EXP 	line4: autoDraw = False
+32.2805 	EXP 	probe: autoDraw = False
+32.2805 	EXP 	fixation: autoDraw = True
+33.2752 	EXP 	line1: autoDraw = True
+33.2752 	EXP 	line2: autoDraw = True
+33.2752 	EXP 	line3: autoDraw = True
+33.2752 	EXP 	line4: autoDraw = True
+33.3000 	EXP 	fixation: autoDraw = False
+34.2765 	INFO 	Keyboard events cleared
+34.2755 	EXP 	probe: autoDraw = True
+35.6412 	EXP 	New trial (rep=2, index=3): <Trial 11 (3 in rep 2) data={'pos': -150, 'corr_resp': 'z', 'thisN': 11, 'thisTrialN': 3, 'thisRepN': 2}>
+35.6451 	DATA 	Keypress: c
+35.6537 	EXP 	fixation: autoDraw = False
+35.6537 	EXP 	line1: autoDraw = False
+35.6537 	EXP 	line2: autoDraw = False
+35.6537 	EXP 	line3: autoDraw = False
+35.6537 	EXP 	line4: autoDraw = False
+35.6537 	EXP 	probe: autoDraw = False
+35.6537 	EXP 	fixation: autoDraw = True
+36.6498 	EXP 	line1: autoDraw = True
+36.6498 	EXP 	line2: autoDraw = True
+36.6498 	EXP 	line3: autoDraw = True
+36.6498 	EXP 	line4: autoDraw = True
+36.6631 	EXP 	fixation: autoDraw = False
+37.6498 	INFO 	Keyboard events cleared
+37.6487 	EXP 	probe: autoDraw = True
+38.6050 	EXP 	New trial (rep=3, index=0): <Trial 12 (0 in rep 3) data={'pos': -50, 'corr_resp': 'x', 'thisN': 12, 'thisTrialN': 0, 'thisRepN': 3}>
+38.6077 	DATA 	Keypress: z
+38.6162 	EXP 	fixation: autoDraw = False
+38.6162 	EXP 	line1: autoDraw = False
+38.6162 	EXP 	line2: autoDraw = False
+38.6162 	EXP 	line3: autoDraw = False
+38.6162 	EXP 	line4: autoDraw = False
+38.6162 	EXP 	probe: autoDraw = False
+38.6162 	EXP 	fixation: autoDraw = True
+39.6105 	EXP 	line1: autoDraw = True
+39.6105 	EXP 	line2: autoDraw = True
+39.6105 	EXP 	line3: autoDraw = True
+39.6105 	EXP 	line4: autoDraw = True
+39.6246 	EXP 	fixation: autoDraw = False
+40.6134 	INFO 	Keyboard events cleared
+40.6123 	EXP 	probe: autoDraw = True
+41.5888 	EXP 	New trial (rep=3, index=1): <Trial 13 (1 in rep 3) data={'pos': 150, 'corr_resp': 'v', 'thisN': 13, 'thisTrialN': 1, 'thisRepN': 3}>
+41.5920 	DATA 	Keypress: x
+41.6002 	EXP 	fixation: autoDraw = False
+41.6002 	EXP 	line1: autoDraw = False
+41.6002 	EXP 	line2: autoDraw = False
+41.6002 	EXP 	line3: autoDraw = False
+41.6002 	EXP 	line4: autoDraw = False
+41.6002 	EXP 	probe: autoDraw = False
+41.6002 	EXP 	fixation: autoDraw = True
+42.5918 	EXP 	line1: autoDraw = True
+42.5918 	EXP 	line2: autoDraw = True
+42.5918 	EXP 	line3: autoDraw = True
+42.5918 	EXP 	line4: autoDraw = True
+42.6167 	EXP 	fixation: autoDraw = False
+43.5958 	INFO 	Keyboard events cleared
+43.5948 	EXP 	probe: autoDraw = True
+45.5537 	EXP 	New trial (rep=3, index=2): <Trial 14 (2 in rep 3) data={'pos': 50, 'corr_resp': 'c', 'thisN': 14, 'thisTrialN': 2, 'thisRepN': 3}>
+45.5578 	DATA 	Keypress: v
+45.5681 	EXP 	fixation: autoDraw = False
+45.5681 	EXP 	line1: autoDraw = False
+45.5681 	EXP 	line2: autoDraw = False
+45.5681 	EXP 	line3: autoDraw = False
+45.5681 	EXP 	line4: autoDraw = False
+45.5681 	EXP 	probe: autoDraw = False
+45.5681 	EXP 	fixation: autoDraw = True
+46.5640 	EXP 	fixation: autoDraw = False
+46.5640 	EXP 	line1: autoDraw = True
+46.5640 	EXP 	line2: autoDraw = True
+46.5640 	EXP 	line3: autoDraw = True
+46.5640 	EXP 	line4: autoDraw = True
+47.5623 	INFO 	Keyboard events cleared
+47.5611 	EXP 	probe: autoDraw = True
+57.7093 	EXP 	New trial (rep=3, index=3): <Trial 15 (3 in rep 3) data={'pos': -150, 'corr_resp': 'z', 'thisN': 15, 'thisTrialN': 3, 'thisRepN': 3}>
+57.7122 	DATA 	Keypress: c
+57.7208 	EXP 	fixation: autoDraw = False
+57.7208 	EXP 	line1: autoDraw = False
+57.7208 	EXP 	line2: autoDraw = False
+57.7208 	EXP 	line3: autoDraw = False
+57.7208 	EXP 	line4: autoDraw = False
+57.7208 	EXP 	probe: autoDraw = False
+57.7208 	EXP 	fixation: autoDraw = True
+58.7106 	EXP 	line1: autoDraw = True
+58.7106 	EXP 	line2: autoDraw = True
+58.7106 	EXP 	line3: autoDraw = True
+58.7106 	EXP 	line4: autoDraw = True
+58.7251 	EXP 	fixation: autoDraw = False
+59.7123 	INFO 	Keyboard events cleared
+59.7114 	EXP 	probe: autoDraw = True
+60.6309 	EXP 	New trial (rep=4, index=0): <Trial 16 (0 in rep 4) data={'pos': -50, 'corr_resp': 'x', 'thisN': 16, 'thisTrialN': 0, 'thisRepN': 4}>
+60.6350 	DATA 	Keypress: z
+60.6438 	EXP 	fixation: autoDraw = False
+60.6438 	EXP 	line1: autoDraw = False
+60.6438 	EXP 	line2: autoDraw = False
+60.6438 	EXP 	line3: autoDraw = False
+60.6438 	EXP 	line4: autoDraw = False
+60.6438 	EXP 	probe: autoDraw = False
+60.6438 	EXP 	fixation: autoDraw = True
+61.6376 	EXP 	line1: autoDraw = True
+61.6376 	EXP 	line2: autoDraw = True
+61.6376 	EXP 	line3: autoDraw = True
+61.6376 	EXP 	line4: autoDraw = True
+61.6517 	EXP 	fixation: autoDraw = False
+62.6438 	INFO 	Keyboard events cleared
+62.6423 	EXP 	probe: autoDraw = True
+63.4029 	EXP 	New trial (rep=4, index=1): <Trial 17 (1 in rep 4) data={'pos': 150, 'corr_resp': 'v', 'thisN': 17, 'thisTrialN': 1, 'thisRepN': 4}>
+63.4056 	DATA 	Keypress: x
+63.4135 	EXP 	fixation: autoDraw = False
+63.4135 	EXP 	line1: autoDraw = False
+63.4135 	EXP 	line2: autoDraw = False
+63.4135 	EXP 	line3: autoDraw = False
+63.4135 	EXP 	line4: autoDraw = False
+63.4135 	EXP 	probe: autoDraw = False
+63.4135 	EXP 	fixation: autoDraw = True
+64.4106 	EXP 	fixation: autoDraw = False
+64.4106 	EXP 	line1: autoDraw = True
+64.4106 	EXP 	line2: autoDraw = True
+64.4106 	EXP 	line3: autoDraw = True
+64.4106 	EXP 	line4: autoDraw = True
+65.4112 	INFO 	Keyboard events cleared
+65.4101 	EXP 	probe: autoDraw = True
+66.1920 	EXP 	New trial (rep=4, index=2): <Trial 18 (2 in rep 4) data={'pos': 50, 'corr_resp': 'c', 'thisN': 18, 'thisTrialN': 2, 'thisRepN': 4}>
+66.1955 	DATA 	Keypress: v
+66.2045 	EXP 	fixation: autoDraw = False
+66.2045 	EXP 	line1: autoDraw = False
+66.2045 	EXP 	line2: autoDraw = False
+66.2045 	EXP 	line3: autoDraw = False
+66.2045 	EXP 	line4: autoDraw = False
+66.2045 	EXP 	probe: autoDraw = False
+66.2045 	EXP 	fixation: autoDraw = True
+67.1975 	EXP 	line1: autoDraw = True
+67.1975 	EXP 	line2: autoDraw = True
+67.1975 	EXP 	line3: autoDraw = True
+67.1975 	EXP 	line4: autoDraw = True
+67.2113 	EXP 	fixation: autoDraw = False
+68.1944 	INFO 	Keyboard events cleared
+68.1933 	EXP 	probe: autoDraw = True
+68.9622 	EXP 	New trial (rep=4, index=3): <Trial 19 (3 in rep 4) data={'pos': -150, 'corr_resp': 'z', 'thisN': 19, 'thisTrialN': 3, 'thisRepN': 4}>
+68.9663 	DATA 	Keypress: c
+68.9748 	EXP 	fixation: autoDraw = False
+68.9748 	EXP 	line1: autoDraw = False
+68.9748 	EXP 	line2: autoDraw = False
+68.9748 	EXP 	line3: autoDraw = False
+68.9748 	EXP 	line4: autoDraw = False
+68.9748 	EXP 	probe: autoDraw = False
+68.9748 	EXP 	fixation: autoDraw = True
+69.9629 	EXP 	line1: autoDraw = True
+69.9629 	EXP 	line2: autoDraw = True
+69.9629 	EXP 	line3: autoDraw = True
+69.9629 	EXP 	line4: autoDraw = True
+69.9782 	EXP 	fixation: autoDraw = False
+70.9678 	INFO 	Keyboard events cleared
+70.9666 	EXP 	probe: autoDraw = True
+71.7485 	EXP 	New trial (rep=5, index=0): <Trial 20 (0 in rep 5) data={'pos': -50, 'corr_resp': 'x', 'thisN': 20, 'thisTrialN': 0, 'thisRepN': 5}>
+71.7519 	DATA 	Keypress: z
+71.7603 	EXP 	fixation: autoDraw = False
+71.7603 	EXP 	line1: autoDraw = False
+71.7603 	EXP 	line2: autoDraw = False
+71.7603 	EXP 	line3: autoDraw = False
+71.7603 	EXP 	line4: autoDraw = False
+71.7603 	EXP 	probe: autoDraw = False
+71.7603 	EXP 	fixation: autoDraw = True
+72.7677 	EXP 	fixation: autoDraw = False
+72.7677 	EXP 	line1: autoDraw = True
+72.7677 	EXP 	line2: autoDraw = True
+72.7677 	EXP 	line3: autoDraw = True
+72.7677 	EXP 	line4: autoDraw = True
+73.7490 	INFO 	Keyboard events cleared
+73.7480 	EXP 	probe: autoDraw = True
+74.5531 	EXP 	New trial (rep=5, index=1): <Trial 21 (1 in rep 5) data={'pos': 150, 'corr_resp': 'v', 'thisN': 21, 'thisTrialN': 1, 'thisRepN': 5}>
+74.5557 	DATA 	Keypress: x
+74.5639 	EXP 	fixation: autoDraw = False
+74.5639 	EXP 	line1: autoDraw = False
+74.5639 	EXP 	line2: autoDraw = False
+74.5639 	EXP 	line3: autoDraw = False
+74.5639 	EXP 	line4: autoDraw = False
+74.5639 	EXP 	probe: autoDraw = False
+74.5639 	EXP 	fixation: autoDraw = True
+75.5530 	EXP 	line1: autoDraw = True
+75.5530 	EXP 	line2: autoDraw = True
+75.5530 	EXP 	line3: autoDraw = True
+75.5530 	EXP 	line4: autoDraw = True
+75.5673 	EXP 	fixation: autoDraw = False
+76.5624 	INFO 	Keyboard events cleared
+76.5614 	EXP 	probe: autoDraw = True
+77.5595 	EXP 	New trial (rep=5, index=2): <Trial 22 (2 in rep 5) data={'pos': 50, 'corr_resp': 'c', 'thisN': 22, 'thisTrialN': 2, 'thisRepN': 5}>
+77.5621 	DATA 	Keypress: v
+77.5705 	EXP 	fixation: autoDraw = False
+77.5705 	EXP 	line1: autoDraw = False
+77.5705 	EXP 	line2: autoDraw = False
+77.5705 	EXP 	line3: autoDraw = False
+77.5705 	EXP 	line4: autoDraw = False
+77.5705 	EXP 	probe: autoDraw = False
+77.5705 	EXP 	fixation: autoDraw = True
+78.5572 	EXP 	line1: autoDraw = True
+78.5572 	EXP 	line2: autoDraw = True
+78.5572 	EXP 	line3: autoDraw = True
+78.5572 	EXP 	line4: autoDraw = True
+78.5704 	EXP 	fixation: autoDraw = False
+79.5654 	INFO 	Keyboard events cleared
+79.5641 	EXP 	probe: autoDraw = True
+80.5433 	EXP 	New trial (rep=5, index=3): <Trial 23 (3 in rep 5) data={'pos': -150, 'corr_resp': 'z', 'thisN': 23, 'thisTrialN': 3, 'thisRepN': 5}>
+80.5463 	DATA 	Keypress: c
+80.5545 	EXP 	fixation: autoDraw = False
+80.5545 	EXP 	line1: autoDraw = False
+80.5545 	EXP 	line2: autoDraw = False
+80.5545 	EXP 	line3: autoDraw = False
+80.5545 	EXP 	line4: autoDraw = False
+80.5545 	EXP 	probe: autoDraw = False
+80.5545 	EXP 	fixation: autoDraw = True
+81.5644 	EXP 	fixation: autoDraw = False
+81.5644 	EXP 	line1: autoDraw = True
+81.5644 	EXP 	line2: autoDraw = True
+81.5644 	EXP 	line3: autoDraw = True
+81.5644 	EXP 	line4: autoDraw = True
+82.5528 	INFO 	Keyboard events cleared
+82.5515 	EXP 	probe: autoDraw = True
+83.4313 	EXP 	New trial (rep=6, index=0): <Trial 24 (0 in rep 6) data={'pos': -50, 'corr_resp': 'x', 'thisN': 24, 'thisTrialN': 0, 'thisRepN': 6}>
+83.4353 	DATA 	Keypress: z
+83.4434 	EXP 	fixation: autoDraw = False
+83.4434 	EXP 	line1: autoDraw = False
+83.4434 	EXP 	line2: autoDraw = False
+83.4434 	EXP 	line3: autoDraw = False
+83.4434 	EXP 	line4: autoDraw = False
+83.4434 	EXP 	probe: autoDraw = False
+83.4434 	EXP 	fixation: autoDraw = True
+84.4392 	EXP 	line1: autoDraw = True
+84.4392 	EXP 	line2: autoDraw = True
+84.4392 	EXP 	line3: autoDraw = True
+84.4392 	EXP 	line4: autoDraw = True
+84.4522 	EXP 	fixation: autoDraw = False
+85.4435 	INFO 	Keyboard events cleared
+85.4422 	EXP 	probe: autoDraw = True
+86.3210 	EXP 	New trial (rep=6, index=1): <Trial 25 (1 in rep 6) data={'pos': 150, 'corr_resp': 'v', 'thisN': 25, 'thisTrialN': 1, 'thisRepN': 6}>
+86.3238 	DATA 	Keypress: x
+86.3322 	EXP 	fixation: autoDraw = False
+86.3322 	EXP 	line1: autoDraw = False
+86.3322 	EXP 	line2: autoDraw = False
+86.3322 	EXP 	line3: autoDraw = False
+86.3322 	EXP 	line4: autoDraw = False
+86.3322 	EXP 	probe: autoDraw = False
+86.3322 	EXP 	fixation: autoDraw = True
+87.3239 	EXP 	line1: autoDraw = True
+87.3239 	EXP 	line2: autoDraw = True
+87.3239 	EXP 	line3: autoDraw = True
+87.3239 	EXP 	line4: autoDraw = True
+87.3412 	EXP 	fixation: autoDraw = False
+88.3244 	INFO 	Keyboard events cleared
+88.3240 	EXP 	probe: autoDraw = True
+89.2230 	EXP 	New trial (rep=6, index=2): <Trial 26 (2 in rep 6) data={'pos': 50, 'corr_resp': 'c', 'thisN': 26, 'thisTrialN': 2, 'thisRepN': 6}>
+89.2257 	DATA 	Keypress: v
+89.2339 	EXP 	fixation: autoDraw = False
+89.2339 	EXP 	line1: autoDraw = False
+89.2339 	EXP 	line2: autoDraw = False
+89.2339 	EXP 	line3: autoDraw = False
+89.2339 	EXP 	line4: autoDraw = False
+89.2339 	EXP 	probe: autoDraw = False
+89.2339 	EXP 	fixation: autoDraw = True
+90.2277 	EXP 	line1: autoDraw = True
+90.2277 	EXP 	line2: autoDraw = True
+90.2277 	EXP 	line3: autoDraw = True
+90.2277 	EXP 	line4: autoDraw = True
+90.2424 	EXP 	fixation: autoDraw = False
+91.2274 	INFO 	Keyboard events cleared
+91.2264 	EXP 	probe: autoDraw = True
+92.3637 	EXP 	New trial (rep=6, index=3): <Trial 27 (3 in rep 6) data={'pos': -150, 'corr_resp': 'z', 'thisN': 27, 'thisTrialN': 3, 'thisRepN': 6}>
+92.3672 	DATA 	Keypress: c
+92.3755 	EXP 	fixation: autoDraw = False
+92.3755 	EXP 	line1: autoDraw = False
+92.3755 	EXP 	line2: autoDraw = False
+92.3755 	EXP 	line3: autoDraw = False
+92.3755 	EXP 	line4: autoDraw = False
+92.3755 	EXP 	probe: autoDraw = False
+92.3755 	EXP 	fixation: autoDraw = True
+93.3636 	EXP 	line1: autoDraw = True
+93.3636 	EXP 	line2: autoDraw = True
+93.3636 	EXP 	line3: autoDraw = True
+93.3636 	EXP 	line4: autoDraw = True
+93.3771 	EXP 	fixation: autoDraw = False
+94.3619 	INFO 	Keyboard events cleared
+94.3609 	EXP 	probe: autoDraw = True
+95.4551 	EXP 	New trial (rep=7, index=0): <Trial 28 (0 in rep 7) data={'pos': -50, 'corr_resp': 'x', 'thisN': 28, 'thisTrialN': 0, 'thisRepN': 7}>
+95.4579 	DATA 	Keypress: z
+95.4663 	EXP 	fixation: autoDraw = False
+95.4663 	EXP 	line1: autoDraw = False
+95.4663 	EXP 	line2: autoDraw = False
+95.4663 	EXP 	line3: autoDraw = False
+95.4663 	EXP 	line4: autoDraw = False
+95.4663 	EXP 	probe: autoDraw = False
+95.4663 	EXP 	fixation: autoDraw = True
+96.4624 	EXP 	fixation: autoDraw = False
+96.4624 	EXP 	line1: autoDraw = True
+96.4624 	EXP 	line2: autoDraw = True
+96.4624 	EXP 	line3: autoDraw = True
+96.4624 	EXP 	line4: autoDraw = True
+97.4649 	INFO 	Keyboard events cleared
+97.4637 	EXP 	probe: autoDraw = True
+98.1535 	EXP 	New trial (rep=7, index=1): <Trial 29 (1 in rep 7) data={'pos': 150, 'corr_resp': 'v', 'thisN': 29, 'thisTrialN': 1, 'thisRepN': 7}>
+98.1562 	DATA 	Keypress: x
+98.1642 	EXP 	fixation: autoDraw = False
+98.1642 	EXP 	line1: autoDraw = False
+98.1642 	EXP 	line2: autoDraw = False
+98.1642 	EXP 	line3: autoDraw = False
+98.1642 	EXP 	line4: autoDraw = False
+98.1642 	EXP 	probe: autoDraw = False
+98.1642 	EXP 	fixation: autoDraw = True
+99.1660 	EXP 	line1: autoDraw = True
+99.1660 	EXP 	line2: autoDraw = True
+99.1660 	EXP 	line3: autoDraw = True
+99.1660 	EXP 	line4: autoDraw = True
+99.1836 	EXP 	fixation: autoDraw = False
+100.1565 	INFO 	Keyboard events cleared
+100.1554 	EXP 	probe: autoDraw = True
+101.0399 	EXP 	New trial (rep=7, index=2): <Trial 30 (2 in rep 7) data={'pos': 50, 'corr_resp': 'c', 'thisN': 30, 'thisTrialN': 2, 'thisRepN': 7}>
+101.0425 	DATA 	Keypress: v
+101.0512 	EXP 	fixation: autoDraw = False
+101.0512 	EXP 	line1: autoDraw = False
+101.0512 	EXP 	line2: autoDraw = False
+101.0512 	EXP 	line3: autoDraw = False
+101.0512 	EXP 	line4: autoDraw = False
+101.0512 	EXP 	probe: autoDraw = False
+101.0512 	EXP 	fixation: autoDraw = True
+102.0491 	EXP 	line1: autoDraw = True
+102.0491 	EXP 	line2: autoDraw = True
+102.0491 	EXP 	line3: autoDraw = True
+102.0491 	EXP 	line4: autoDraw = True
+102.0658 	EXP 	fixation: autoDraw = False
+103.0436 	INFO 	Keyboard events cleared
+103.0423 	EXP 	probe: autoDraw = True
+103.8278 	EXP 	New trial (rep=7, index=3): <Trial 31 (3 in rep 7) data={'pos': -150, 'corr_resp': 'z', 'thisN': 31, 'thisTrialN': 3, 'thisRepN': 7}>
+103.8315 	DATA 	Keypress: c
+103.8402 	EXP 	fixation: autoDraw = False
+103.8402 	EXP 	line1: autoDraw = False
+103.8402 	EXP 	line2: autoDraw = False
+103.8402 	EXP 	line3: autoDraw = False
+103.8402 	EXP 	line4: autoDraw = False
+103.8402 	EXP 	probe: autoDraw = False
+103.8402 	EXP 	fixation: autoDraw = True
+104.8251 	EXP 	line1: autoDraw = True
+104.8251 	EXP 	line2: autoDraw = True
+104.8251 	EXP 	line3: autoDraw = True
+104.8251 	EXP 	line4: autoDraw = True
+104.8398 	EXP 	fixation: autoDraw = False
+105.8261 	INFO 	Keyboard events cleared
+105.8251 	EXP 	probe: autoDraw = True
+106.6475 	EXP 	New trial (rep=8, index=0): <Trial 32 (0 in rep 8) data={'pos': -50, 'corr_resp': 'x', 'thisN': 32, 'thisTrialN': 0, 'thisRepN': 8}>
+106.6508 	DATA 	Keypress: z
+106.6588 	EXP 	fixation: autoDraw = False
+106.6588 	EXP 	line1: autoDraw = False
+106.6588 	EXP 	line2: autoDraw = False
+106.6588 	EXP 	line3: autoDraw = False
+106.6588 	EXP 	line4: autoDraw = False
+106.6588 	EXP 	probe: autoDraw = False
+106.6588 	EXP 	fixation: autoDraw = True
+107.6567 	EXP 	line1: autoDraw = True
+107.6567 	EXP 	line2: autoDraw = True
+107.6567 	EXP 	line3: autoDraw = True
+107.6567 	EXP 	line4: autoDraw = True
+107.6689 	EXP 	fixation: autoDraw = False
+108.6502 	INFO 	Keyboard events cleared
+108.6489 	EXP 	probe: autoDraw = True
+109.3884 	EXP 	New trial (rep=8, index=1): <Trial 33 (1 in rep 8) data={'pos': 150, 'corr_resp': 'v', 'thisN': 33, 'thisTrialN': 1, 'thisRepN': 8}>
+109.3920 	DATA 	Keypress: x
+109.4007 	EXP 	fixation: autoDraw = False
+109.4007 	EXP 	line1: autoDraw = False
+109.4007 	EXP 	line2: autoDraw = False
+109.4007 	EXP 	line3: autoDraw = False
+109.4007 	EXP 	line4: autoDraw = False
+109.4007 	EXP 	probe: autoDraw = False
+109.4007 	EXP 	fixation: autoDraw = True
+110.3997 	EXP 	line1: autoDraw = True
+110.3997 	EXP 	line2: autoDraw = True
+110.3997 	EXP 	line3: autoDraw = True
+110.3997 	EXP 	line4: autoDraw = True
+110.4132 	EXP 	fixation: autoDraw = False
+111.4065 	INFO 	Keyboard events cleared
+111.4035 	EXP 	probe: autoDraw = True
+112.1241 	EXP 	New trial (rep=8, index=2): <Trial 34 (2 in rep 8) data={'pos': 50, 'corr_resp': 'c', 'thisN': 34, 'thisTrialN': 2, 'thisRepN': 8}>
+112.1277 	DATA 	Keypress: v
+112.1367 	EXP 	fixation: autoDraw = False
+112.1367 	EXP 	line1: autoDraw = False
+112.1367 	EXP 	line2: autoDraw = False
+112.1367 	EXP 	line3: autoDraw = False
+112.1367 	EXP 	line4: autoDraw = False
+112.1367 	EXP 	probe: autoDraw = False
+112.1367 	EXP 	fixation: autoDraw = True
+113.1276 	EXP 	line1: autoDraw = True
+113.1276 	EXP 	line2: autoDraw = True
+113.1276 	EXP 	line3: autoDraw = True
+113.1276 	EXP 	line4: autoDraw = True
+113.1431 	EXP 	fixation: autoDraw = False
+114.1270 	INFO 	Keyboard events cleared
+114.1257 	EXP 	probe: autoDraw = True
+114.9337 	EXP 	New trial (rep=8, index=3): <Trial 35 (3 in rep 8) data={'pos': -150, 'corr_resp': 'z', 'thisN': 35, 'thisTrialN': 3, 'thisRepN': 8}>
+114.9369 	DATA 	Keypress: c
+114.9455 	EXP 	fixation: autoDraw = False
+114.9455 	EXP 	line1: autoDraw = False
+114.9455 	EXP 	line2: autoDraw = False
+114.9455 	EXP 	line3: autoDraw = False
+114.9455 	EXP 	line4: autoDraw = False
+114.9455 	EXP 	probe: autoDraw = False
+114.9455 	EXP 	fixation: autoDraw = True
+115.9437 	EXP 	line1: autoDraw = True
+115.9437 	EXP 	line2: autoDraw = True
+115.9437 	EXP 	line3: autoDraw = True
+115.9437 	EXP 	line4: autoDraw = True
+115.9580 	EXP 	fixation: autoDraw = False
+116.9433 	INFO 	Keyboard events cleared
+116.9423 	EXP 	probe: autoDraw = True
+117.8004 	EXP 	New trial (rep=9, index=0): <Trial 36 (0 in rep 9) data={'pos': -50, 'corr_resp': 'x', 'thisN': 36, 'thisTrialN': 0, 'thisRepN': 9}>
+117.8031 	DATA 	Keypress: z
+117.8112 	EXP 	fixation: autoDraw = False
+117.8112 	EXP 	line1: autoDraw = False
+117.8112 	EXP 	line2: autoDraw = False
+117.8112 	EXP 	line3: autoDraw = False
+117.8112 	EXP 	line4: autoDraw = False
+117.8112 	EXP 	probe: autoDraw = False
+117.8112 	EXP 	fixation: autoDraw = True
+118.8090 	EXP 	fixation: autoDraw = False
+118.8090 	EXP 	line1: autoDraw = True
+118.8090 	EXP 	line2: autoDraw = True
+118.8090 	EXP 	line3: autoDraw = True
+118.8090 	EXP 	line4: autoDraw = True
+119.8133 	INFO 	Keyboard events cleared
+119.8119 	EXP 	probe: autoDraw = True
+120.5012 	EXP 	New trial (rep=9, index=1): <Trial 37 (1 in rep 9) data={'pos': 150, 'corr_resp': 'v', 'thisN': 37, 'thisTrialN': 1, 'thisRepN': 9}>
+120.5038 	DATA 	Keypress: x
+120.5118 	EXP 	fixation: autoDraw = False
+120.5118 	EXP 	line1: autoDraw = False
+120.5118 	EXP 	line2: autoDraw = False
+120.5118 	EXP 	line3: autoDraw = False
+120.5118 	EXP 	line4: autoDraw = False
+120.5118 	EXP 	probe: autoDraw = False
+120.5118 	EXP 	fixation: autoDraw = True
+121.5118 	EXP 	fixation: autoDraw = False
+121.5118 	EXP 	line1: autoDraw = True
+121.5118 	EXP 	line2: autoDraw = True
+121.5118 	EXP 	line3: autoDraw = True
+121.5118 	EXP 	line4: autoDraw = True
+122.5106 	INFO 	Keyboard events cleared
+122.5096 	EXP 	probe: autoDraw = True
+123.2617 	EXP 	New trial (rep=9, index=2): <Trial 38 (2 in rep 9) data={'pos': 50, 'corr_resp': 'c', 'thisN': 38, 'thisTrialN': 2, 'thisRepN': 9}>
+123.2654 	DATA 	Keypress: v
+123.2740 	EXP 	fixation: autoDraw = False
+123.2740 	EXP 	line1: autoDraw = False
+123.2740 	EXP 	line2: autoDraw = False
+123.2740 	EXP 	line3: autoDraw = False
+123.2740 	EXP 	line4: autoDraw = False
+123.2740 	EXP 	probe: autoDraw = False
+123.2740 	EXP 	fixation: autoDraw = True
+124.2649 	EXP 	line1: autoDraw = True
+124.2649 	EXP 	line2: autoDraw = True
+124.2649 	EXP 	line3: autoDraw = True
+124.2649 	EXP 	line4: autoDraw = True
+124.2793 	EXP 	fixation: autoDraw = False
+125.2687 	INFO 	Keyboard events cleared
+125.2672 	EXP 	probe: autoDraw = True
+125.9639 	EXP 	New trial (rep=9, index=3): <Trial 39 (3 in rep 9) data={'pos': -150, 'corr_resp': 'z', 'thisN': 39, 'thisTrialN': 3, 'thisRepN': 9}>
+125.9676 	DATA 	Keypress: c
+125.9758 	EXP 	fixation: autoDraw = False
+125.9758 	EXP 	line1: autoDraw = False
+125.9758 	EXP 	line2: autoDraw = False
+125.9758 	EXP 	line3: autoDraw = False
+125.9758 	EXP 	line4: autoDraw = False
+125.9758 	EXP 	probe: autoDraw = False
+125.9758 	EXP 	fixation: autoDraw = True
+126.9742 	EXP 	fixation: autoDraw = False
+126.9742 	EXP 	line1: autoDraw = True
+126.9742 	EXP 	line2: autoDraw = True
+126.9742 	EXP 	line3: autoDraw = True
+126.9742 	EXP 	line4: autoDraw = True
+127.9749 	INFO 	Keyboard events cleared
+127.9745 	EXP 	probe: autoDraw = True
+128.7053 	EXP 	New trial (rep=10, index=0): <Trial 40 (0 in rep 10) data={'pos': -50, 'corr_resp': 'x', 'thisN': 40, 'thisTrialN': 0, 'thisRepN': 10}>
+128.7080 	DATA 	Keypress: z
+128.7165 	EXP 	fixation: autoDraw = False
+128.7165 	EXP 	line1: autoDraw = False
+128.7165 	EXP 	line2: autoDraw = False
+128.7165 	EXP 	line3: autoDraw = False
+128.7165 	EXP 	line4: autoDraw = False
+128.7165 	EXP 	probe: autoDraw = False
+128.7165 	EXP 	fixation: autoDraw = True
+129.7135 	EXP 	fixation: autoDraw = False
+129.7135 	EXP 	line1: autoDraw = True
+129.7135 	EXP 	line2: autoDraw = True
+129.7135 	EXP 	line3: autoDraw = True
+129.7135 	EXP 	line4: autoDraw = True
+130.7119 	INFO 	Keyboard events cleared
+130.7109 	EXP 	probe: autoDraw = True
+131.4121 	EXP 	New trial (rep=10, index=1): <Trial 41 (1 in rep 10) data={'pos': 150, 'corr_resp': 'v', 'thisN': 41, 'thisTrialN': 1, 'thisRepN': 10}>
+131.4158 	DATA 	Keypress: x
+131.4243 	EXP 	fixation: autoDraw = False
+131.4243 	EXP 	line1: autoDraw = False
+131.4243 	EXP 	line2: autoDraw = False
+131.4243 	EXP 	line3: autoDraw = False
+131.4243 	EXP 	line4: autoDraw = False
+131.4243 	EXP 	probe: autoDraw = False
+131.4243 	EXP 	fixation: autoDraw = True
+132.4296 	EXP 	fixation: autoDraw = False
+132.4296 	EXP 	line1: autoDraw = True
+132.4296 	EXP 	line2: autoDraw = True
+132.4296 	EXP 	line3: autoDraw = True
+132.4296 	EXP 	line4: autoDraw = True
+133.4205 	INFO 	Keyboard events cleared
+133.4185 	EXP 	probe: autoDraw = True
+134.2585 	EXP 	New trial (rep=10, index=2): <Trial 42 (2 in rep 10) data={'pos': 50, 'corr_resp': 'c', 'thisN': 42, 'thisTrialN': 2, 'thisRepN': 10}>
+134.2613 	DATA 	Keypress: v
+134.2701 	EXP 	fixation: autoDraw = False
+134.2701 	EXP 	line1: autoDraw = False
+134.2701 	EXP 	line2: autoDraw = False
+134.2701 	EXP 	line3: autoDraw = False
+134.2701 	EXP 	line4: autoDraw = False
+134.2701 	EXP 	probe: autoDraw = False
+134.2701 	EXP 	fixation: autoDraw = True
+135.2605 	EXP 	line1: autoDraw = True
+135.2605 	EXP 	line2: autoDraw = True
+135.2605 	EXP 	line3: autoDraw = True
+135.2605 	EXP 	line4: autoDraw = True
+135.2750 	EXP 	fixation: autoDraw = False
+136.2633 	INFO 	Keyboard events cleared
+136.2622 	EXP 	probe: autoDraw = True
+136.9828 	EXP 	New trial (rep=10, index=3): <Trial 43 (3 in rep 10) data={'pos': -150, 'corr_resp': 'z', 'thisN': 43, 'thisTrialN': 3, 'thisRepN': 10}>
+136.9861 	DATA 	Keypress: c
+136.9943 	EXP 	fixation: autoDraw = False
+136.9943 	EXP 	line1: autoDraw = False
+136.9943 	EXP 	line2: autoDraw = False
+136.9943 	EXP 	line3: autoDraw = False
+136.9943 	EXP 	line4: autoDraw = False
+136.9943 	EXP 	probe: autoDraw = False
+136.9943 	EXP 	fixation: autoDraw = True
+137.9854 	EXP 	line1: autoDraw = True
+137.9854 	EXP 	line2: autoDraw = True
+137.9854 	EXP 	line3: autoDraw = True
+137.9854 	EXP 	line4: autoDraw = True
+137.9987 	EXP 	fixation: autoDraw = False
+138.9803 	INFO 	Keyboard events cleared
+138.9791 	EXP 	probe: autoDraw = True
+139.7113 	EXP 	New trial (rep=11, index=0): <Trial 44 (0 in rep 11) data={'pos': -50, 'corr_resp': 'x', 'thisN': 44, 'thisTrialN': 0, 'thisRepN': 11}>
+139.7150 	DATA 	Keypress: z
+139.7236 	EXP 	fixation: autoDraw = False
+139.7236 	EXP 	line1: autoDraw = False
+139.7236 	EXP 	line2: autoDraw = False
+139.7236 	EXP 	line3: autoDraw = False
+139.7236 	EXP 	line4: autoDraw = False
+139.7236 	EXP 	probe: autoDraw = False
+139.7236 	EXP 	fixation: autoDraw = True
+140.7153 	EXP 	line1: autoDraw = True
+140.7153 	EXP 	line2: autoDraw = True
+140.7153 	EXP 	line3: autoDraw = True
+140.7153 	EXP 	line4: autoDraw = True
+140.7290 	EXP 	fixation: autoDraw = False
+141.7165 	INFO 	Keyboard events cleared
+141.7146 	EXP 	probe: autoDraw = True
+142.4498 	EXP 	New trial (rep=11, index=1): <Trial 45 (1 in rep 11) data={'pos': 150, 'corr_resp': 'v', 'thisN': 45, 'thisTrialN': 1, 'thisRepN': 11}>
+142.4525 	DATA 	Keypress: x
+142.4603 	EXP 	fixation: autoDraw = False
+142.4603 	EXP 	line1: autoDraw = False
+142.4603 	EXP 	line2: autoDraw = False
+142.4603 	EXP 	line3: autoDraw = False
+142.4603 	EXP 	line4: autoDraw = False
+142.4603 	EXP 	probe: autoDraw = False
+142.4603 	EXP 	fixation: autoDraw = True
+143.4490 	EXP 	line1: autoDraw = True
+143.4490 	EXP 	line2: autoDraw = True
+143.4490 	EXP 	line3: autoDraw = True
+143.4490 	EXP 	line4: autoDraw = True
+143.4625 	EXP 	fixation: autoDraw = False
+144.4471 	INFO 	Keyboard events cleared
+144.4459 	EXP 	probe: autoDraw = True
+145.2866 	EXP 	New trial (rep=11, index=2): <Trial 46 (2 in rep 11) data={'pos': 50, 'corr_resp': 'c', 'thisN': 46, 'thisTrialN': 2, 'thisRepN': 11}>
+145.2900 	DATA 	Keypress: v
+145.2987 	EXP 	fixation: autoDraw = False
+145.2987 	EXP 	line1: autoDraw = False
+145.2987 	EXP 	line2: autoDraw = False
+145.2987 	EXP 	line3: autoDraw = False
+145.2987 	EXP 	line4: autoDraw = False
+145.2987 	EXP 	probe: autoDraw = False
+145.2987 	EXP 	fixation: autoDraw = True
+146.2939 	EXP 	line1: autoDraw = True
+146.2939 	EXP 	line2: autoDraw = True
+146.2939 	EXP 	line3: autoDraw = True
+146.2939 	EXP 	line4: autoDraw = True
+146.3079 	EXP 	fixation: autoDraw = False
+147.2971 	INFO 	Keyboard events cleared
+147.2957 	EXP 	probe: autoDraw = True
+147.9917 	EXP 	New trial (rep=11, index=3): <Trial 47 (3 in rep 11) data={'pos': -150, 'corr_resp': 'z', 'thisN': 47, 'thisTrialN': 3, 'thisRepN': 11}>
+147.9946 	DATA 	Keypress: c
+148.0029 	EXP 	fixation: autoDraw = False
+148.0029 	EXP 	line1: autoDraw = False
+148.0029 	EXP 	line2: autoDraw = False
+148.0029 	EXP 	line3: autoDraw = False
+148.0029 	EXP 	line4: autoDraw = False
+148.0029 	EXP 	probe: autoDraw = False
+148.0029 	EXP 	fixation: autoDraw = True
+148.9919 	EXP 	line1: autoDraw = True
+148.9919 	EXP 	line2: autoDraw = True
+148.9919 	EXP 	line3: autoDraw = True
+148.9919 	EXP 	line4: autoDraw = True
+149.0061 	EXP 	fixation: autoDraw = False
+149.9981 	INFO 	Keyboard events cleared
+149.9969 	EXP 	probe: autoDraw = True
+150.6891 	DEBUG 	Read csv file with pandas: /Users/shrutigupta/Downloads/sequence condition(Sheet1).csv
+150.6902 	DEBUG 	Clearing unnamed columns from /Users/shrutigupta/Downloads/sequence condition(Sheet1).csv
+150.6908 	EXP 	Imported /Users/shrutigupta/Downloads/sequence condition(Sheet1).csv as conditions, 4 conditions, 2 params
+150.6952 	EXP 	New trial (rep=0, index=0): <Trial 0 (0 in rep 0) data={'pos': 150, 'corr_resp': 'v', 'thisN': 0, 'thisTrialN': 0, 'thisRepN': 0}>
+150.6982 	DATA 	Keypress: z
+150.7066 	EXP 	fixation: autoDraw = False
+150.7066 	EXP 	line1: autoDraw = False
+150.7066 	EXP 	line2: autoDraw = False
+150.7066 	EXP 	line3: autoDraw = False
+150.7066 	EXP 	line4: autoDraw = False
+150.7066 	EXP 	probe: autoDraw = False
+150.7066 	EXP 	fixation: autoDraw = True
+151.6897 	EXP 	line1: autoDraw = True
+151.6897 	EXP 	line2: autoDraw = True
+151.6897 	EXP 	line3: autoDraw = True
+151.6897 	EXP 	line4: autoDraw = True
+151.7026 	EXP 	fixation: autoDraw = False
+152.6876 	INFO 	Keyboard events cleared
+152.6859 	EXP 	probe: autoDraw = True
+154.7414 	EXP 	New trial (rep=0, index=1): <Trial 1 (1 in rep 0) data={'pos': -50, 'corr_resp': 'x', 'thisN': 1, 'thisTrialN': 1, 'thisRepN': 0}>
+154.7445 	DATA 	Keypress: v
+154.7527 	EXP 	fixation: autoDraw = False
+154.7527 	EXP 	line1: autoDraw = False
+154.7527 	EXP 	line2: autoDraw = False
+154.7527 	EXP 	line3: autoDraw = False
+154.7527 	EXP 	line4: autoDraw = False
+154.7527 	EXP 	probe: autoDraw = False
+154.7527 	EXP 	fixation: autoDraw = True
+155.7383 	EXP 	line1: autoDraw = True
+155.7383 	EXP 	line2: autoDraw = True
+155.7383 	EXP 	line3: autoDraw = True
+155.7383 	EXP 	line4: autoDraw = True
+155.7517 	EXP 	fixation: autoDraw = False
+156.7513 	INFO 	Keyboard events cleared
+156.7498 	EXP 	probe: autoDraw = True
+157.5211 	EXP 	New trial (rep=1, index=2): <Trial 2 (2 in rep 1) data={'pos': 150, 'corr_resp': 'v', 'thisN': 2, 'thisTrialN': 2, 'thisRepN': 1}>
+157.5239 	DATA 	Keypress: x
+157.5320 	EXP 	fixation: autoDraw = False
+157.5320 	EXP 	line1: autoDraw = False
+157.5320 	EXP 	line2: autoDraw = False
+157.5320 	EXP 	line3: autoDraw = False
+157.5320 	EXP 	line4: autoDraw = False
+157.5320 	EXP 	probe: autoDraw = False
+157.5320 	EXP 	fixation: autoDraw = True
+158.5235 	EXP 	line1: autoDraw = True
+158.5235 	EXP 	line2: autoDraw = True
+158.5235 	EXP 	line3: autoDraw = True
+158.5235 	EXP 	line4: autoDraw = True
+158.5365 	EXP 	fixation: autoDraw = False
+159.5270 	INFO 	Keyboard events cleared
+159.5259 	EXP 	probe: autoDraw = True
+164.8838 	EXP 	New trial (rep=0, index=3): <Trial 3 (3 in rep 0) data={'pos': 50, 'corr_resp': 'c', 'thisN': 3, 'thisTrialN': 3, 'thisRepN': 0}>
+164.8872 	DATA 	Keypress: v
+164.8962 	EXP 	fixation: autoDraw = False
+164.8962 	EXP 	line1: autoDraw = False
+164.8962 	EXP 	line2: autoDraw = False
+164.8962 	EXP 	line3: autoDraw = False
+164.8962 	EXP 	line4: autoDraw = False
+164.8962 	EXP 	probe: autoDraw = False
+164.8962 	EXP 	fixation: autoDraw = True
+165.8864 	EXP 	line1: autoDraw = True
+165.8864 	EXP 	line2: autoDraw = True
+165.8864 	EXP 	line3: autoDraw = True
+165.8864 	EXP 	line4: autoDraw = True
+165.9004 	EXP 	fixation: autoDraw = False
+166.8900 	INFO 	Keyboard events cleared
+166.8895 	EXP 	probe: autoDraw = True
+175.2420 	EXP 	New trial (rep=1, index=4): <Trial 4 (4 in rep 1) data={'pos': -50, 'corr_resp': 'x', 'thisN': 4, 'thisTrialN': 4, 'thisRepN': 1}>
+175.2451 	DATA 	Keypress: c
+175.2532 	EXP 	fixation: autoDraw = False
+175.2532 	EXP 	line1: autoDraw = False
+175.2532 	EXP 	line2: autoDraw = False
+175.2532 	EXP 	line3: autoDraw = False
+175.2532 	EXP 	line4: autoDraw = False
+175.2532 	EXP 	probe: autoDraw = False
+175.2532 	EXP 	fixation: autoDraw = True
+176.2434 	EXP 	line1: autoDraw = True
+176.2434 	EXP 	line2: autoDraw = True
+176.2434 	EXP 	line3: autoDraw = True
+176.2434 	EXP 	line4: autoDraw = True
+176.2573 	EXP 	fixation: autoDraw = False
+177.2501 	INFO 	Keyboard events cleared
+177.2482 	EXP 	probe: autoDraw = True
+179.5439 	EXP 	New trial (rep=0, index=5): <Trial 5 (5 in rep 0) data={'pos': -150, 'corr_resp': 'z', 'thisN': 5, 'thisTrialN': 5, 'thisRepN': 0}>
+179.5471 	DATA 	Keypress: x
+179.5553 	EXP 	fixation: autoDraw = False
+179.5553 	EXP 	line1: autoDraw = False
+179.5553 	EXP 	line2: autoDraw = False
+179.5553 	EXP 	line3: autoDraw = False
+179.5553 	EXP 	line4: autoDraw = False
+179.5553 	EXP 	probe: autoDraw = False
+179.5553 	EXP 	fixation: autoDraw = True
+180.5526 	EXP 	fixation: autoDraw = False
+180.5526 	EXP 	line1: autoDraw = True
+180.5526 	EXP 	line2: autoDraw = True
+180.5526 	EXP 	line3: autoDraw = True
+180.5526 	EXP 	line4: autoDraw = True
+181.5449 	INFO 	Keyboard events cleared
+181.5439 	EXP 	probe: autoDraw = True
+183.1998 	EXP 	New trial (rep=1, index=6): <Trial 6 (6 in rep 1) data={'pos': -150, 'corr_resp': 'z', 'thisN': 6, 'thisTrialN': 6, 'thisRepN': 1}>
+183.2026 	DATA 	Keypress: z
+183.2108 	EXP 	fixation: autoDraw = False
+183.2108 	EXP 	line1: autoDraw = False
+183.2108 	EXP 	line2: autoDraw = False
+183.2108 	EXP 	line3: autoDraw = False
+183.2108 	EXP 	line4: autoDraw = False
+183.2108 	EXP 	probe: autoDraw = False
+183.2108 	EXP 	fixation: autoDraw = True
+184.2020 	EXP 	line1: autoDraw = True
+184.2020 	EXP 	line2: autoDraw = True
+184.2020 	EXP 	line3: autoDraw = True
+184.2020 	EXP 	line4: autoDraw = True
+184.2155 	EXP 	fixation: autoDraw = False
+185.1982 	INFO 	Keyboard events cleared
+185.1968 	EXP 	probe: autoDraw = True
+188.5012 	EXP 	New trial (rep=1, index=7): <Trial 7 (7 in rep 1) data={'pos': 50, 'corr_resp': 'c', 'thisN': 7, 'thisTrialN': 7, 'thisRepN': 1}>
+188.5087 	DATA 	Keypress: z
+188.5171 	EXP 	fixation: autoDraw = False
+188.5171 	EXP 	line1: autoDraw = False
+188.5171 	EXP 	line2: autoDraw = False
+188.5171 	EXP 	line3: autoDraw = False
+188.5171 	EXP 	line4: autoDraw = False
+188.5171 	EXP 	probe: autoDraw = False
+188.5171 	EXP 	fixation: autoDraw = True
+189.5014 	EXP 	line1: autoDraw = True
+189.5014 	EXP 	line2: autoDraw = True
+189.5014 	EXP 	line3: autoDraw = True
+189.5014 	EXP 	line4: autoDraw = True
+189.5149 	EXP 	fixation: autoDraw = False
+190.5001 	INFO 	Keyboard events cleared
+190.4989 	EXP 	probe: autoDraw = True
+192.8273 	EXP 	New trial (rep=2, index=8): <Trial 8 (8 in rep 2) data={'pos': 50, 'corr_resp': 'c', 'thisN': 8, 'thisTrialN': 8, 'thisRepN': 2}>
+192.8310 	DATA 	Keypress: c
+192.8398 	EXP 	fixation: autoDraw = False
+192.8398 	EXP 	line1: autoDraw = False
+192.8398 	EXP 	line2: autoDraw = False
+192.8398 	EXP 	line3: autoDraw = False
+192.8398 	EXP 	line4: autoDraw = False
+192.8398 	EXP 	probe: autoDraw = False
+192.8398 	EXP 	fixation: autoDraw = True
+193.8267 	EXP 	line1: autoDraw = True
+193.8267 	EXP 	line2: autoDraw = True
+193.8267 	EXP 	line3: autoDraw = True
+193.8267 	EXP 	line4: autoDraw = True
+193.8407 	EXP 	fixation: autoDraw = False
+194.8334 	INFO 	Keyboard events cleared
+194.8321 	EXP 	probe: autoDraw = True
+195.6357 	EXP 	New trial (rep=2, index=9): <Trial 9 (9 in rep 2) data={'pos': 150, 'corr_resp': 'v', 'thisN': 9, 'thisTrialN': 9, 'thisRepN': 2}>
+195.6384 	DATA 	Keypress: c
+195.6467 	EXP 	fixation: autoDraw = False
+195.6467 	EXP 	line1: autoDraw = False
+195.6467 	EXP 	line2: autoDraw = False
+195.6467 	EXP 	line3: autoDraw = False
+195.6467 	EXP 	line4: autoDraw = False
+195.6467 	EXP 	probe: autoDraw = False
+195.6467 	EXP 	fixation: autoDraw = True
+196.6424 	EXP 	line1: autoDraw = True
+196.6424 	EXP 	line2: autoDraw = True
+196.6424 	EXP 	line3: autoDraw = True
+196.6424 	EXP 	line4: autoDraw = True
+196.6571 	EXP 	fixation: autoDraw = False
+197.6448 	INFO 	Keyboard events cleared
+197.6439 	EXP 	probe: autoDraw = True
+199.9107 	EXP 	New trial (rep=3, index=10): <Trial 10 (10 in rep 3) data={'pos': 150, 'corr_resp': 'v', 'thisN': 10, 'thisTrialN': 10, 'thisRepN': 3}>
+199.9146 	DATA 	Keypress: v
+199.9230 	EXP 	fixation: autoDraw = False
+199.9230 	EXP 	line1: autoDraw = False
+199.9230 	EXP 	line2: autoDraw = False
+199.9230 	EXP 	line3: autoDraw = False
+199.9230 	EXP 	line4: autoDraw = False
+199.9230 	EXP 	probe: autoDraw = False
+199.9230 	EXP 	fixation: autoDraw = True
+200.9113 	EXP 	line1: autoDraw = True
+200.9113 	EXP 	line2: autoDraw = True
+200.9113 	EXP 	line3: autoDraw = True
+200.9113 	EXP 	line4: autoDraw = True
+200.9252 	EXP 	fixation: autoDraw = False
+201.9096 	INFO 	Keyboard events cleared
+201.9085 	EXP 	probe: autoDraw = True
+204.1754 	EXP 	New trial (rep=3, index=11): <Trial 11 (11 in rep 3) data={'pos': 50, 'corr_resp': 'c', 'thisN': 11, 'thisTrialN': 11, 'thisRepN': 3}>
+204.1789 	DATA 	Keypress: v
+204.1871 	EXP 	fixation: autoDraw = False
+204.1871 	EXP 	line1: autoDraw = False
+204.1871 	EXP 	line2: autoDraw = False
+204.1871 	EXP 	line3: autoDraw = False
+204.1871 	EXP 	line4: autoDraw = False
+204.1871 	EXP 	probe: autoDraw = False
+204.1871 	EXP 	fixation: autoDraw = True
+205.1740 	EXP 	line1: autoDraw = True
+205.1740 	EXP 	line2: autoDraw = True
+205.1740 	EXP 	line3: autoDraw = True
+205.1740 	EXP 	line4: autoDraw = True
+205.1880 	EXP 	fixation: autoDraw = False
+206.1784 	INFO 	Keyboard events cleared
+206.1772 	EXP 	probe: autoDraw = True
+206.8970 	EXP 	New trial (rep=2, index=12): <Trial 12 (12 in rep 2) data={'pos': -150, 'corr_resp': 'z', 'thisN': 12, 'thisTrialN': 12, 'thisRepN': 2}>
+206.9004 	DATA 	Keypress: c
+206.9084 	EXP 	fixation: autoDraw = False
+206.9084 	EXP 	line1: autoDraw = False
+206.9084 	EXP 	line2: autoDraw = False
+206.9084 	EXP 	line3: autoDraw = False
+206.9084 	EXP 	line4: autoDraw = False
+206.9084 	EXP 	probe: autoDraw = False
+206.9084 	EXP 	fixation: autoDraw = True
+207.8955 	EXP 	line1: autoDraw = True
+207.8955 	EXP 	line2: autoDraw = True
+207.8955 	EXP 	line3: autoDraw = True
+207.8955 	EXP 	line4: autoDraw = True
+207.9093 	EXP 	fixation: autoDraw = False
+208.8971 	INFO 	Keyboard events cleared
+208.8957 	EXP 	probe: autoDraw = True
+209.6992 	EXP 	New trial (rep=4, index=13): <Trial 13 (13 in rep 4) data={'pos': 150, 'corr_resp': 'v', 'thisN': 13, 'thisTrialN': 13, 'thisRepN': 4}>
+209.7025 	DATA 	Keypress: z
+209.7116 	EXP 	fixation: autoDraw = False
+209.7116 	EXP 	line1: autoDraw = False
+209.7116 	EXP 	line2: autoDraw = False
+209.7116 	EXP 	line3: autoDraw = False
+209.7116 	EXP 	line4: autoDraw = False
+209.7116 	EXP 	probe: autoDraw = False
+209.7116 	EXP 	fixation: autoDraw = True
+210.7038 	EXP 	line1: autoDraw = True
+210.7038 	EXP 	line2: autoDraw = True
+210.7038 	EXP 	line3: autoDraw = True
+210.7038 	EXP 	line4: autoDraw = True
+210.7167 	EXP 	fixation: autoDraw = False
+211.7004 	INFO 	Keyboard events cleared
+211.6990 	EXP 	probe: autoDraw = True
+212.5192 	EXP 	New trial (rep=3, index=14): <Trial 14 (14 in rep 3) data={'pos': -150, 'corr_resp': 'z', 'thisN': 14, 'thisTrialN': 14, 'thisRepN': 3}>
+212.5220 	DATA 	Keypress: v
+212.5307 	EXP 	fixation: autoDraw = False
+212.5307 	EXP 	line1: autoDraw = False
+212.5307 	EXP 	line2: autoDraw = False
+212.5307 	EXP 	line3: autoDraw = False
+212.5307 	EXP 	line4: autoDraw = False
+212.5307 	EXP 	probe: autoDraw = False
+212.5307 	EXP 	fixation: autoDraw = True
+213.5227 	EXP 	line1: autoDraw = True
+213.5227 	EXP 	line2: autoDraw = True
+213.5227 	EXP 	line3: autoDraw = True
+213.5227 	EXP 	line4: autoDraw = True
+213.5355 	EXP 	fixation: autoDraw = False
+214.5318 	INFO 	Keyboard events cleared
+214.5311 	EXP 	probe: autoDraw = True
+215.2848 	EXP 	New trial (rep=2, index=15): <Trial 15 (15 in rep 2) data={'pos': -50, 'corr_resp': 'x', 'thisN': 15, 'thisTrialN': 15, 'thisRepN': 2}>
+215.2875 	DATA 	Keypress: z
+215.2956 	EXP 	fixation: autoDraw = False
+215.2956 	EXP 	line1: autoDraw = False
+215.2956 	EXP 	line2: autoDraw = False
+215.2956 	EXP 	line3: autoDraw = False
+215.2956 	EXP 	line4: autoDraw = False
+215.2956 	EXP 	probe: autoDraw = False
+215.2956 	EXP 	fixation: autoDraw = True
+216.2917 	EXP 	line1: autoDraw = True
+216.2917 	EXP 	line2: autoDraw = True
+216.2917 	EXP 	line3: autoDraw = True
+216.2917 	EXP 	line4: autoDraw = True
+216.3061 	EXP 	fixation: autoDraw = False
+217.2898 	INFO 	Keyboard events cleared
+217.2891 	EXP 	probe: autoDraw = True
+218.0883 	EXP 	New trial (rep=4, index=16): <Trial 16 (16 in rep 4) data={'pos': 50, 'corr_resp': 'c', 'thisN': 16, 'thisTrialN': 16, 'thisRepN': 4}>
+218.0909 	DATA 	Keypress: x
+218.0990 	EXP 	fixation: autoDraw = False
+218.0990 	EXP 	line1: autoDraw = False
+218.0990 	EXP 	line2: autoDraw = False
+218.0990 	EXP 	line3: autoDraw = False
+218.0990 	EXP 	line4: autoDraw = False
+218.0990 	EXP 	probe: autoDraw = False
+218.0990 	EXP 	fixation: autoDraw = True
+219.0927 	EXP 	line1: autoDraw = True
+219.0927 	EXP 	line2: autoDraw = True
+219.0927 	EXP 	line3: autoDraw = True
+219.0927 	EXP 	line4: autoDraw = True
+219.1065 	EXP 	fixation: autoDraw = False
+220.0916 	INFO 	Keyboard events cleared
+220.0906 	EXP 	probe: autoDraw = True
+220.9802 	EXP 	New trial (rep=5, index=17): <Trial 17 (17 in rep 5) data={'pos': 150, 'corr_resp': 'v', 'thisN': 17, 'thisTrialN': 17, 'thisRepN': 5}>
+220.9840 	DATA 	Keypress: c
+220.9918 	EXP 	fixation: autoDraw = False
+220.9918 	EXP 	line1: autoDraw = False
+220.9918 	EXP 	line2: autoDraw = False
+220.9918 	EXP 	line3: autoDraw = False
+220.9918 	EXP 	line4: autoDraw = False
+220.9918 	EXP 	probe: autoDraw = False
+220.9918 	EXP 	fixation: autoDraw = True
+221.9880 	EXP 	line1: autoDraw = True
+221.9880 	EXP 	line2: autoDraw = True
+221.9880 	EXP 	line3: autoDraw = True
+221.9880 	EXP 	line4: autoDraw = True
+222.0013 	EXP 	fixation: autoDraw = False
+222.9859 	INFO 	Keyboard events cleared
+222.9843 	EXP 	probe: autoDraw = True
+223.8826 	EXP 	New trial (rep=5, index=18): <Trial 18 (18 in rep 5) data={'pos': 50, 'corr_resp': 'c', 'thisN': 18, 'thisTrialN': 18, 'thisRepN': 5}>
+223.8854 	DATA 	Keypress: v
+223.8933 	EXP 	fixation: autoDraw = False
+223.8933 	EXP 	line1: autoDraw = False
+223.8933 	EXP 	line2: autoDraw = False
+223.8933 	EXP 	line3: autoDraw = False
+223.8933 	EXP 	line4: autoDraw = False
+223.8933 	EXP 	probe: autoDraw = False
+223.8933 	EXP 	fixation: autoDraw = True
+224.8840 	EXP 	line1: autoDraw = True
+224.8840 	EXP 	line2: autoDraw = True
+224.8840 	EXP 	line3: autoDraw = True
+224.8840 	EXP 	line4: autoDraw = True
+224.8974 	EXP 	fixation: autoDraw = False
+225.8906 	INFO 	Keyboard events cleared
+225.8896 	EXP 	probe: autoDraw = True
+226.8546 	EXP 	New trial (rep=3, index=19): <Trial 19 (19 in rep 3) data={'pos': -50, 'corr_resp': 'x', 'thisN': 19, 'thisTrialN': 19, 'thisRepN': 3}>
+226.8572 	DATA 	Keypress: c
+226.8657 	EXP 	fixation: autoDraw = False
+226.8657 	EXP 	line1: autoDraw = False
+226.8657 	EXP 	line2: autoDraw = False
+226.8657 	EXP 	line3: autoDraw = False
+226.8657 	EXP 	line4: autoDraw = False
+226.8657 	EXP 	probe: autoDraw = False
+226.8657 	EXP 	fixation: autoDraw = True
+227.8586 	EXP 	line1: autoDraw = True
+227.8586 	EXP 	line2: autoDraw = True
+227.8586 	EXP 	line3: autoDraw = True
+227.8586 	EXP 	line4: autoDraw = True
+227.8743 	EXP 	fixation: autoDraw = False
+228.8659 	INFO 	Keyboard events cleared
+228.8652 	EXP 	probe: autoDraw = True
+229.5703 	EXP 	New trial (rep=4, index=20): <Trial 20 (20 in rep 4) data={'pos': -150, 'corr_resp': 'z', 'thisN': 20, 'thisTrialN': 20, 'thisRepN': 4}>
+229.5774 	DATA 	Keypress: x
+229.5864 	EXP 	fixation: autoDraw = False
+229.5864 	EXP 	line1: autoDraw = False
+229.5864 	EXP 	line2: autoDraw = False
+229.5864 	EXP 	line3: autoDraw = False
+229.5864 	EXP 	line4: autoDraw = False
+229.5864 	EXP 	probe: autoDraw = False
+229.5864 	EXP 	fixation: autoDraw = True
+230.5733 	EXP 	line1: autoDraw = True
+230.5733 	EXP 	line2: autoDraw = True
+230.5733 	EXP 	line3: autoDraw = True
+230.5733 	EXP 	line4: autoDraw = True
+230.5870 	EXP 	fixation: autoDraw = False
+231.5700 	INFO 	Keyboard events cleared
+231.5696 	EXP 	probe: autoDraw = True
+232.4204 	EXP 	New trial (rep=4, index=21): <Trial 21 (21 in rep 4) data={'pos': -50, 'corr_resp': 'x', 'thisN': 21, 'thisTrialN': 21, 'thisRepN': 4}>
+232.4241 	DATA 	Keypress: z
+232.4330 	EXP 	fixation: autoDraw = False
+232.4330 	EXP 	line1: autoDraw = False
+232.4330 	EXP 	line2: autoDraw = False
+232.4330 	EXP 	line3: autoDraw = False
+232.4330 	EXP 	line4: autoDraw = False
+232.4330 	EXP 	probe: autoDraw = False
+232.4330 	EXP 	fixation: autoDraw = True
+233.4201 	EXP 	line1: autoDraw = True
+233.4201 	EXP 	line2: autoDraw = True
+233.4201 	EXP 	line3: autoDraw = True
+233.4201 	EXP 	line4: autoDraw = True
+233.4337 	EXP 	fixation: autoDraw = False
+234.4227 	INFO 	Keyboard events cleared
+234.4223 	EXP 	probe: autoDraw = True
+235.0873 	EXP 	New trial (rep=6, index=22): <Trial 22 (22 in rep 6) data={'pos': 150, 'corr_resp': 'v', 'thisN': 22, 'thisTrialN': 22, 'thisRepN': 6}>
+235.0907 	DATA 	Keypress: x
+235.0995 	EXP 	fixation: autoDraw = False
+235.0995 	EXP 	line1: autoDraw = False
+235.0995 	EXP 	line2: autoDraw = False
+235.0995 	EXP 	line3: autoDraw = False
+235.0995 	EXP 	line4: autoDraw = False
+235.0995 	EXP 	probe: autoDraw = False
+235.0995 	EXP 	fixation: autoDraw = True
+236.0942 	EXP 	line1: autoDraw = True
+236.0942 	EXP 	line2: autoDraw = True
+236.0942 	EXP 	line3: autoDraw = True
+236.0942 	EXP 	line4: autoDraw = True
+236.1122 	EXP 	fixation: autoDraw = False
+237.0933 	INFO 	Keyboard events cleared
+237.0920 	EXP 	probe: autoDraw = True
+238.0186 	EXP 	New trial (rep=5, index=23): <Trial 23 (23 in rep 5) data={'pos': -150, 'corr_resp': 'z', 'thisN': 23, 'thisTrialN': 23, 'thisRepN': 5}>
+238.0216 	DATA 	Keypress: v
+238.0294 	EXP 	fixation: autoDraw = False
+238.0294 	EXP 	line1: autoDraw = False
+238.0294 	EXP 	line2: autoDraw = False
+238.0294 	EXP 	line3: autoDraw = False
+238.0294 	EXP 	line4: autoDraw = False
+238.0294 	EXP 	probe: autoDraw = False
+238.0294 	EXP 	fixation: autoDraw = True
+239.0178 	EXP 	line1: autoDraw = True
+239.0178 	EXP 	line2: autoDraw = True
+239.0178 	EXP 	line3: autoDraw = True
+239.0178 	EXP 	line4: autoDraw = True
+239.0318 	EXP 	fixation: autoDraw = False
+240.0331 	INFO 	Keyboard events cleared
+240.0326 	EXP 	probe: autoDraw = True
+240.7107 	EXP 	New trial (rep=6, index=24): <Trial 24 (24 in rep 6) data={'pos': 50, 'corr_resp': 'c', 'thisN': 24, 'thisTrialN': 24, 'thisRepN': 6}>
+240.7145 	DATA 	Keypress: z
+240.7229 	EXP 	fixation: autoDraw = False
+240.7229 	EXP 	line1: autoDraw = False
+240.7229 	EXP 	line2: autoDraw = False
+240.7229 	EXP 	line3: autoDraw = False
+240.7229 	EXP 	line4: autoDraw = False
+240.7229 	EXP 	probe: autoDraw = False
+240.7229 	EXP 	fixation: autoDraw = True
+241.7081 	EXP 	line1: autoDraw = True
+241.7081 	EXP 	line2: autoDraw = True
+241.7081 	EXP 	line3: autoDraw = True
+241.7081 	EXP 	line4: autoDraw = True
+241.7224 	EXP 	fixation: autoDraw = False
+242.7185 	INFO 	Keyboard events cleared
+242.7171 	EXP 	probe: autoDraw = True
+244.2461 	EXP 	New trial (rep=7, index=25): <Trial 25 (25 in rep 7) data={'pos': 150, 'corr_resp': 'v', 'thisN': 25, 'thisTrialN': 25, 'thisRepN': 7}>
+244.2588 	DATA 	Keypress: c
+244.2679 	EXP 	fixation: autoDraw = False
+244.2679 	EXP 	line1: autoDraw = False
+244.2679 	EXP 	line2: autoDraw = False
+244.2679 	EXP 	line3: autoDraw = False
+244.2679 	EXP 	line4: autoDraw = False
+244.2679 	EXP 	probe: autoDraw = False
+244.2679 	EXP 	fixation: autoDraw = True
+245.2554 	EXP 	line1: autoDraw = True
+245.2554 	EXP 	line2: autoDraw = True
+245.2554 	EXP 	line3: autoDraw = True
+245.2554 	EXP 	line4: autoDraw = True
+245.2677 	EXP 	fixation: autoDraw = False
+246.2520 	INFO 	Keyboard events cleared
+246.2504 	EXP 	probe: autoDraw = True
+247.1420 	EXP 	New trial (rep=5, index=26): <Trial 26 (26 in rep 5) data={'pos': -50, 'corr_resp': 'x', 'thisN': 26, 'thisTrialN': 26, 'thisRepN': 5}>
+247.1449 	DATA 	Keypress: v
+247.1531 	EXP 	fixation: autoDraw = False
+247.1531 	EXP 	line1: autoDraw = False
+247.1531 	EXP 	line2: autoDraw = False
+247.1531 	EXP 	line3: autoDraw = False
+247.1531 	EXP 	line4: autoDraw = False
+247.1531 	EXP 	probe: autoDraw = False
+247.1531 	EXP 	fixation: autoDraw = True
+248.1474 	EXP 	line1: autoDraw = True
+248.1474 	EXP 	line2: autoDraw = True
+248.1474 	EXP 	line3: autoDraw = True
+248.1474 	EXP 	line4: autoDraw = True
+248.1609 	EXP 	fixation: autoDraw = False
+249.1528 	INFO 	Keyboard events cleared
+249.1514 	EXP 	probe: autoDraw = True
+250.0936 	EXP 	New trial (rep=7, index=27): <Trial 27 (27 in rep 7) data={'pos': 50, 'corr_resp': 'c', 'thisN': 27, 'thisTrialN': 27, 'thisRepN': 7}>
+250.0967 	DATA 	Keypress: x
+250.1050 	EXP 	fixation: autoDraw = False
+250.1050 	EXP 	line1: autoDraw = False
+250.1050 	EXP 	line2: autoDraw = False
+250.1050 	EXP 	line3: autoDraw = False
+250.1050 	EXP 	line4: autoDraw = False
+250.1050 	EXP 	probe: autoDraw = False
+250.1050 	EXP 	fixation: autoDraw = True
+251.0945 	EXP 	line1: autoDraw = True
+251.0945 	EXP 	line2: autoDraw = True
+251.0945 	EXP 	line3: autoDraw = True
+251.0945 	EXP 	line4: autoDraw = True
+251.1094 	EXP 	fixation: autoDraw = False
+252.0938 	INFO 	Keyboard events cleared
+252.0928 	EXP 	probe: autoDraw = True
+252.8101 	EXP 	New trial (rep=6, index=28): <Trial 28 (28 in rep 6) data={'pos': -50, 'corr_resp': 'x', 'thisN': 28, 'thisTrialN': 28, 'thisRepN': 6}>
+252.8136 	DATA 	Keypress: v
+252.8222 	EXP 	fixation: autoDraw = False
+252.8222 	EXP 	line1: autoDraw = False
+252.8222 	EXP 	line2: autoDraw = False
+252.8222 	EXP 	line3: autoDraw = False
+252.8222 	EXP 	line4: autoDraw = False
+252.8222 	EXP 	probe: autoDraw = False
+252.8222 	EXP 	fixation: autoDraw = True
+253.8306 	EXP 	fixation: autoDraw = False
+253.8306 	EXP 	line1: autoDraw = True
+253.8306 	EXP 	line2: autoDraw = True
+253.8306 	EXP 	line3: autoDraw = True
+253.8306 	EXP 	line4: autoDraw = True
+254.8107 	INFO 	Keyboard events cleared
+254.8098 	EXP 	probe: autoDraw = True
+255.4490 	EXP 	New trial (rep=8, index=29): <Trial 29 (29 in rep 8) data={'pos': 50, 'corr_resp': 'c', 'thisN': 29, 'thisTrialN': 29, 'thisRepN': 8}>
+255.4518 	DATA 	Keypress: x
+255.4595 	EXP 	fixation: autoDraw = False
+255.4595 	EXP 	line1: autoDraw = False
+255.4595 	EXP 	line2: autoDraw = False
+255.4595 	EXP 	line3: autoDraw = False
+255.4595 	EXP 	line4: autoDraw = False
+255.4595 	EXP 	probe: autoDraw = False
+255.4595 	EXP 	fixation: autoDraw = True
+256.4638 	EXP 	line1: autoDraw = True
+256.4638 	EXP 	line2: autoDraw = True
+256.4638 	EXP 	line3: autoDraw = True
+256.4638 	EXP 	line4: autoDraw = True
+256.4815 	EXP 	fixation: autoDraw = False
+257.4578 	INFO 	Keyboard events cleared
+257.4569 	EXP 	probe: autoDraw = True
+258.2343 	EXP 	New trial (rep=8, index=30): <Trial 30 (30 in rep 8) data={'pos': 150, 'corr_resp': 'v', 'thisN': 30, 'thisTrialN': 30, 'thisRepN': 8}>
+258.2375 	DATA 	Keypress: c
+258.2458 	EXP 	fixation: autoDraw = False
+258.2458 	EXP 	line1: autoDraw = False
+258.2458 	EXP 	line2: autoDraw = False
+258.2458 	EXP 	line3: autoDraw = False
+258.2458 	EXP 	line4: autoDraw = False
+258.2458 	EXP 	probe: autoDraw = False
+258.2458 	EXP 	fixation: autoDraw = True
+259.2404 	EXP 	line1: autoDraw = True
+259.2404 	EXP 	line2: autoDraw = True
+259.2404 	EXP 	line3: autoDraw = True
+259.2404 	EXP 	line4: autoDraw = True
+259.2548 	EXP 	fixation: autoDraw = False
+260.2414 	INFO 	Keyboard events cleared
+260.2402 	EXP 	probe: autoDraw = True
+261.0929 	EXP 	New trial (rep=6, index=31): <Trial 31 (31 in rep 6) data={'pos': -150, 'corr_resp': 'z', 'thisN': 31, 'thisTrialN': 31, 'thisRepN': 6}>
+261.0964 	DATA 	Keypress: v
+261.1047 	EXP 	fixation: autoDraw = False
+261.1047 	EXP 	line1: autoDraw = False
+261.1047 	EXP 	line2: autoDraw = False
+261.1047 	EXP 	line3: autoDraw = False
+261.1047 	EXP 	line4: autoDraw = False
+261.1047 	EXP 	probe: autoDraw = False
+261.1047 	EXP 	fixation: autoDraw = True
+262.0992 	EXP 	line1: autoDraw = True
+262.0992 	EXP 	line2: autoDraw = True
+262.0992 	EXP 	line3: autoDraw = True
+262.0992 	EXP 	line4: autoDraw = True
+262.1122 	EXP 	fixation: autoDraw = False
+263.1050 	INFO 	Keyboard events cleared
+263.1039 	EXP 	probe: autoDraw = True
+264.7776 	EXP 	New trial (rep=7, index=32): <Trial 32 (32 in rep 7) data={'pos': -50, 'corr_resp': 'x', 'thisN': 32, 'thisTrialN': 32, 'thisRepN': 7}>
+264.7814 	DATA 	Keypress: z
+264.7897 	EXP 	fixation: autoDraw = False
+264.7897 	EXP 	line1: autoDraw = False
+264.7897 	EXP 	line2: autoDraw = False
+264.7897 	EXP 	line3: autoDraw = False
+264.7897 	EXP 	line4: autoDraw = False
+264.7897 	EXP 	probe: autoDraw = False
+264.7897 	EXP 	fixation: autoDraw = True
+265.7789 	EXP 	line1: autoDraw = True
+265.7789 	EXP 	line2: autoDraw = True
+265.7789 	EXP 	line3: autoDraw = True
+265.7789 	EXP 	line4: autoDraw = True
+265.7932 	EXP 	fixation: autoDraw = False
+266.7861 	INFO 	Keyboard events cleared
+266.7849 	EXP 	probe: autoDraw = True
+267.5204 	EXP 	New trial (rep=9, index=33): <Trial 33 (33 in rep 9) data={'pos': 50, 'corr_resp': 'c', 'thisN': 33, 'thisTrialN': 33, 'thisRepN': 9}>
+267.5233 	DATA 	Keypress: x
+267.5317 	EXP 	fixation: autoDraw = False
+267.5317 	EXP 	line1: autoDraw = False
+267.5317 	EXP 	line2: autoDraw = False
+267.5317 	EXP 	line3: autoDraw = False
+267.5317 	EXP 	line4: autoDraw = False
+267.5317 	EXP 	probe: autoDraw = False
+267.5317 	EXP 	fixation: autoDraw = True
+268.5158 	EXP 	line1: autoDraw = True
+268.5158 	EXP 	line2: autoDraw = True
+268.5158 	EXP 	line3: autoDraw = True
+268.5158 	EXP 	line4: autoDraw = True
+268.5296 	EXP 	fixation: autoDraw = False
+269.5285 	INFO 	Keyboard events cleared
+269.5273 	EXP 	probe: autoDraw = True
+271.0663 	EXP 	New trial (rep=8, index=34): <Trial 34 (34 in rep 8) data={'pos': -50, 'corr_resp': 'x', 'thisN': 34, 'thisTrialN': 34, 'thisRepN': 8}>
+271.0689 	DATA 	Keypress: c
+271.0773 	EXP 	fixation: autoDraw = False
+271.0773 	EXP 	line1: autoDraw = False
+271.0773 	EXP 	line2: autoDraw = False
+271.0773 	EXP 	line3: autoDraw = False
+271.0773 	EXP 	line4: autoDraw = False
+271.0773 	EXP 	probe: autoDraw = False
+271.0773 	EXP 	fixation: autoDraw = True
+272.0647 	EXP 	line1: autoDraw = True
+272.0647 	EXP 	line2: autoDraw = True
+272.0647 	EXP 	line3: autoDraw = True
+272.0647 	EXP 	line4: autoDraw = True
+272.0784 	EXP 	fixation: autoDraw = False
+273.0763 	INFO 	Keyboard events cleared
+273.0753 	EXP 	probe: autoDraw = True
+273.9861 	EXP 	New trial (rep=7, index=35): <Trial 35 (35 in rep 7) data={'pos': -150, 'corr_resp': 'z', 'thisN': 35, 'thisTrialN': 35, 'thisRepN': 7}>
+273.9891 	DATA 	Keypress: x
+273.9978 	EXP 	fixation: autoDraw = False
+273.9978 	EXP 	line1: autoDraw = False
+273.9978 	EXP 	line2: autoDraw = False
+273.9978 	EXP 	line3: autoDraw = False
+273.9978 	EXP 	line4: autoDraw = False
+273.9978 	EXP 	probe: autoDraw = False
+273.9978 	EXP 	fixation: autoDraw = True
+274.9940 	EXP 	fixation: autoDraw = False
+274.9940 	EXP 	line1: autoDraw = True
+274.9940 	EXP 	line2: autoDraw = True
+274.9940 	EXP 	line3: autoDraw = True
+274.9940 	EXP 	line4: autoDraw = True
+275.9958 	INFO 	Keyboard events cleared
+275.9946 	EXP 	probe: autoDraw = True
+279.7420 	EXP 	New trial (rep=10, index=36): <Trial 36 (36 in rep 10) data={'pos': 50, 'corr_resp': 'c', 'thisN': 36, 'thisTrialN': 36, 'thisRepN': 10}>
+279.7455 	DATA 	Keypress: z
+279.7536 	EXP 	fixation: autoDraw = False
+279.7536 	EXP 	line1: autoDraw = False
+279.7536 	EXP 	line2: autoDraw = False
+279.7536 	EXP 	line3: autoDraw = False
+279.7536 	EXP 	line4: autoDraw = False
+279.7536 	EXP 	probe: autoDraw = False
+279.7536 	EXP 	fixation: autoDraw = True
+280.7413 	EXP 	line1: autoDraw = True
+280.7413 	EXP 	line2: autoDraw = True
+280.7413 	EXP 	line3: autoDraw = True
+280.7413 	EXP 	line4: autoDraw = True
+280.7556 	EXP 	fixation: autoDraw = False
+281.7490 	INFO 	Keyboard events cleared
+281.7479 	EXP 	probe: autoDraw = True
+282.6606 	EXP 	New trial (rep=9, index=37): <Trial 37 (37 in rep 9) data={'pos': 150, 'corr_resp': 'v', 'thisN': 37, 'thisTrialN': 37, 'thisRepN': 9}>
+282.6647 	DATA 	Keypress: c
+282.6732 	EXP 	fixation: autoDraw = False
+282.6732 	EXP 	line1: autoDraw = False
+282.6732 	EXP 	line2: autoDraw = False
+282.6732 	EXP 	line3: autoDraw = False
+282.6732 	EXP 	line4: autoDraw = False
+282.6732 	EXP 	probe: autoDraw = False
+282.6732 	EXP 	fixation: autoDraw = True
+283.6635 	EXP 	line1: autoDraw = True
+283.6635 	EXP 	line2: autoDraw = True
+283.6635 	EXP 	line3: autoDraw = True
+283.6635 	EXP 	line4: autoDraw = True
+283.6783 	EXP 	fixation: autoDraw = False
+284.6682 	INFO 	Keyboard events cleared
+284.6670 	EXP 	probe: autoDraw = True
+285.3694 	EXP 	New trial (rep=10, index=38): <Trial 38 (38 in rep 10) data={'pos': 150, 'corr_resp': 'v', 'thisN': 38, 'thisTrialN': 38, 'thisRepN': 10}>
+285.3726 	DATA 	Keypress: v
+285.3808 	EXP 	fixation: autoDraw = False
+285.3808 	EXP 	line1: autoDraw = False
+285.3808 	EXP 	line2: autoDraw = False
+285.3808 	EXP 	line3: autoDraw = False
+285.3808 	EXP 	line4: autoDraw = False
+285.3808 	EXP 	probe: autoDraw = False
+285.3808 	EXP 	fixation: autoDraw = True
+286.3665 	EXP 	line1: autoDraw = True
+286.3665 	EXP 	line2: autoDraw = True
+286.3665 	EXP 	line3: autoDraw = True
+286.3665 	EXP 	line4: autoDraw = True
+286.3800 	EXP 	fixation: autoDraw = False
+287.3760 	INFO 	Keyboard events cleared
+287.3748 	EXP 	probe: autoDraw = True
+299.4200 	EXP 	New trial (rep=9, index=39): <Trial 39 (39 in rep 9) data={'pos': -50, 'corr_resp': 'x', 'thisN': 39, 'thisTrialN': 39, 'thisRepN': 9}>
+299.4229 	DATA 	Keypress: v
+299.4313 	EXP 	fixation: autoDraw = False
+299.4313 	EXP 	line1: autoDraw = False
+299.4313 	EXP 	line2: autoDraw = False
+299.4313 	EXP 	line3: autoDraw = False
+299.4313 	EXP 	line4: autoDraw = False
+299.4313 	EXP 	probe: autoDraw = False
+299.4313 	EXP 	fixation: autoDraw = True
+300.4273 	EXP 	line1: autoDraw = True
+300.4273 	EXP 	line2: autoDraw = True
+300.4273 	EXP 	line3: autoDraw = True
+300.4273 	EXP 	line4: autoDraw = True
+300.4418 	EXP 	fixation: autoDraw = False
+301.4258 	INFO 	Keyboard events cleared
+301.4250 	EXP 	probe: autoDraw = True
+302.6686 	EXP 	New trial (rep=8, index=40): <Trial 40 (40 in rep 8) data={'pos': -150, 'corr_resp': 'z', 'thisN': 40, 'thisTrialN': 40, 'thisRepN': 8}>
+302.6716 	DATA 	Keypress: x
+302.6799 	EXP 	fixation: autoDraw = False
+302.6799 	EXP 	line1: autoDraw = False
+302.6799 	EXP 	line2: autoDraw = False
+302.6799 	EXP 	line3: autoDraw = False
+302.6799 	EXP 	line4: autoDraw = False
+302.6799 	EXP 	probe: autoDraw = False
+302.6799 	EXP 	fixation: autoDraw = True
+303.6726 	EXP 	line1: autoDraw = True
+303.6726 	EXP 	line2: autoDraw = True
+303.6726 	EXP 	line3: autoDraw = True
+303.6726 	EXP 	line4: autoDraw = True
+303.6867 	EXP 	fixation: autoDraw = False
+304.6713 	INFO 	Keyboard events cleared
+304.6704 	EXP 	probe: autoDraw = True
+305.6058 	EXP 	New trial (rep=9, index=41): <Trial 41 (41 in rep 9) data={'pos': -150, 'corr_resp': 'z', 'thisN': 41, 'thisTrialN': 41, 'thisRepN': 9}>
+305.6084 	DATA 	Keypress: z
+305.6168 	EXP 	fixation: autoDraw = False
+305.6168 	EXP 	line1: autoDraw = False
+305.6168 	EXP 	line2: autoDraw = False
+305.6168 	EXP 	line3: autoDraw = False
+305.6168 	EXP 	line4: autoDraw = False
+305.6168 	EXP 	probe: autoDraw = False
+305.6168 	EXP 	fixation: autoDraw = True
+306.6121 	EXP 	line1: autoDraw = True
+306.6121 	EXP 	line2: autoDraw = True
+306.6121 	EXP 	line3: autoDraw = True
+306.6121 	EXP 	line4: autoDraw = True
+306.6259 	EXP 	fixation: autoDraw = False
+307.6081 	INFO 	Keyboard events cleared
+307.6071 	EXP 	probe: autoDraw = True
+308.4199 	DATA 	Keypress: z
+308.4354 	EXP 	New trial (rep=10, index=42): <Trial 42 (42 in rep 10) data={'pos': -50, 'corr_resp': 'x', 'thisN': 42, 'thisTrialN': 42, 'thisRepN': 10}>
+308.4451 	EXP 	fixation: autoDraw = False
+308.4451 	EXP 	line1: autoDraw = False
+308.4451 	EXP 	line2: autoDraw = False
+308.4451 	EXP 	line3: autoDraw = False
+308.4451 	EXP 	line4: autoDraw = False
+308.4451 	EXP 	probe: autoDraw = False
+308.4451 	EXP 	fixation: autoDraw = True
+309.4411 	EXP 	line1: autoDraw = True
+309.4411 	EXP 	line2: autoDraw = True
+309.4411 	EXP 	line3: autoDraw = True
+309.4411 	EXP 	line4: autoDraw = True
+309.4589 	EXP 	fixation: autoDraw = False
+310.4411 	INFO 	Keyboard events cleared
+310.4396 	EXP 	probe: autoDraw = True
+312.7359 	EXP 	New trial (rep=10, index=43): <Trial 43 (43 in rep 10) data={'pos': -150, 'corr_resp': 'z', 'thisN': 43, 'thisTrialN': 43, 'thisRepN': 10}>
+312.7386 	DATA 	Keypress: x
+312.7470 	EXP 	fixation: autoDraw = False
+312.7470 	EXP 	line1: autoDraw = False
+312.7470 	EXP 	line2: autoDraw = False
+312.7470 	EXP 	line3: autoDraw = False
+312.7470 	EXP 	line4: autoDraw = False
+312.7470 	EXP 	probe: autoDraw = False
+312.7470 	EXP 	fixation: autoDraw = True
+313.7442 	EXP 	fixation: autoDraw = False
+313.7442 	EXP 	line1: autoDraw = True
+313.7442 	EXP 	line2: autoDraw = True
+313.7442 	EXP 	line3: autoDraw = True
+313.7442 	EXP 	line4: autoDraw = True
+314.7369 	INFO 	Keyboard events cleared
+314.7360 	EXP 	probe: autoDraw = True
+315.4664 	EXP 	New trial (rep=11, index=44): <Trial 44 (44 in rep 11) data={'pos': -50, 'corr_resp': 'x', 'thisN': 44, 'thisTrialN': 44, 'thisRepN': 11}>
+315.4693 	DATA 	Keypress: z
+315.4781 	EXP 	fixation: autoDraw = False
+315.4781 	EXP 	line1: autoDraw = False
+315.4781 	EXP 	line2: autoDraw = False
+315.4781 	EXP 	line3: autoDraw = False
+315.4781 	EXP 	line4: autoDraw = False
+315.4781 	EXP 	probe: autoDraw = False
+315.4781 	EXP 	fixation: autoDraw = True
+316.4664 	EXP 	line1: autoDraw = True
+316.4664 	EXP 	line2: autoDraw = True
+316.4664 	EXP 	line3: autoDraw = True
+316.4664 	EXP 	line4: autoDraw = True
+316.4800 	EXP 	fixation: autoDraw = False
+317.4651 	INFO 	Keyboard events cleared
+317.4634 	EXP 	probe: autoDraw = True
+319.4901 	EXP 	New trial (rep=11, index=45): <Trial 45 (45 in rep 11) data={'pos': 150, 'corr_resp': 'v', 'thisN': 45, 'thisTrialN': 45, 'thisRepN': 11}>
+319.4928 	DATA 	Keypress: x
+319.5014 	EXP 	fixation: autoDraw = False
+319.5014 	EXP 	line1: autoDraw = False
+319.5014 	EXP 	line2: autoDraw = False
+319.5014 	EXP 	line3: autoDraw = False
+319.5014 	EXP 	line4: autoDraw = False
+319.5014 	EXP 	probe: autoDraw = False
+319.5014 	EXP 	fixation: autoDraw = True
+320.4936 	EXP 	line1: autoDraw = True
+320.4936 	EXP 	line2: autoDraw = True
+320.4936 	EXP 	line3: autoDraw = True
+320.4936 	EXP 	line4: autoDraw = True
+320.5077 	EXP 	fixation: autoDraw = False
+321.4883 	INFO 	Keyboard events cleared
+321.4879 	EXP 	probe: autoDraw = True
+322.3493 	EXP 	New trial (rep=11, index=46): <Trial 46 (46 in rep 11) data={'pos': -150, 'corr_resp': 'z', 'thisN': 46, 'thisTrialN': 46, 'thisRepN': 11}>
+322.3520 	DATA 	Keypress: v
+322.3601 	EXP 	fixation: autoDraw = False
+322.3601 	EXP 	line1: autoDraw = False
+322.3601 	EXP 	line2: autoDraw = False
+322.3601 	EXP 	line3: autoDraw = False
+322.3601 	EXP 	line4: autoDraw = False
+322.3601 	EXP 	probe: autoDraw = False
+322.3601 	EXP 	fixation: autoDraw = True
+323.3630 	EXP 	line1: autoDraw = True
+323.3630 	EXP 	line2: autoDraw = True
+323.3630 	EXP 	line3: autoDraw = True
+323.3630 	EXP 	line4: autoDraw = True
+323.3796 	EXP 	fixation: autoDraw = False
+324.3547 	INFO 	Keyboard events cleared
+324.3542 	EXP 	probe: autoDraw = True
+325.1616 	EXP 	New trial (rep=11, index=47): <Trial 47 (47 in rep 11) data={'pos': 50, 'corr_resp': 'c', 'thisN': 47, 'thisTrialN': 47, 'thisRepN': 11}>
+325.1651 	DATA 	Keypress: z
+325.1736 	EXP 	fixation: autoDraw = False
+325.1736 	EXP 	line1: autoDraw = False
+325.1736 	EXP 	line2: autoDraw = False
+325.1736 	EXP 	line3: autoDraw = False
+325.1736 	EXP 	line4: autoDraw = False
+325.1736 	EXP 	probe: autoDraw = False
+325.1736 	EXP 	fixation: autoDraw = True
+326.1620 	EXP 	line1: autoDraw = True
+326.1620 	EXP 	line2: autoDraw = True
+326.1620 	EXP 	line3: autoDraw = True
+326.1620 	EXP 	line4: autoDraw = True
+326.1756 	EXP 	fixation: autoDraw = False
+327.1615 	INFO 	Keyboard events cleared
+327.1604 	EXP 	probe: autoDraw = True
+328.9234 	DATA 	Keypress: c
+328.9319 	EXP 	fixation: autoDraw = False
+328.9319 	EXP 	line1: autoDraw = False
+328.9319 	EXP 	line2: autoDraw = False
+328.9319 	EXP 	line3: autoDraw = False
+328.9319 	EXP 	line4: autoDraw = False
+328.9319 	EXP 	probe: autoDraw = False
+328.9370 	EXP 	motor sequence learning: status = STOPPED
+328.9744 	INFO 	saved data to '/Users/shrutigupta/Desktop/data/956527_motor sequence learning_2024-10-17_22h47.21.728.csv'
+328.9843 	INFO 	saved data to /Users/shrutigupta/Desktop/data/956527_motor sequence learning_2024-10-17_22h47.21.728.psydat
+329.0174 	EXP 	window1: mouseVisible = True
+329.4710 	DEBUG 	Saving data for motor sequence learning ExperimentHandler
