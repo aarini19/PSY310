@@ -1,0 +1,1172 @@
+42.5348 	DEBUG 	Fullscreen settings ignored as running in pilot mode.
+42.5367 	INFO 	Loaded monitor calibration from ['2024_08_09 11:23']
+42.8652 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=True, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x12d0fabf0>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x12d0fac50>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x12d0fb1c0>, gamma=None, gammaErrorPolicy='raise', infoMsg=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x12d0a6fe0>, multiSample=False, name='window1', numSamples=2, pos=[520.0, 300.0], screen=0, size=array([1600, 1200]), stencilBits=8, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=True, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+42.8653 	EXP 	window1: backgroundImage = ''
+42.8653 	EXP 	window1: backgroundFit = 'none'
+42.8656 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x12d0faad0>
+42.8658 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x12d0faad0>
+42.8695 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x12d0faad0>
+42.8705 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x12d0faad0>
+42.8804 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+42.8816 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+42.8826 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+42.8839 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+42.8853 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+42.8860 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+42.8870 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+42.8884 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+42.8888 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+42.8894 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+42.8904 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+42.8913 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+42.8923 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+42.8932 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+42.8941 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+42.8952 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+42.8962 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+42.8967 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+42.8976 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+42.9003 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+42.9010 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+42.9016 	DEBUG 	Uploading Texture Font fontname to graphics card
+42.9044 	DEBUG 	Upload of Texture Font fontname complete
+42.9064 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x12d0faad0>
+42.9066 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x12d0faad0>
+42.9075 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x12d0faad0>
+42.9085 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x12d0faad0>
+42.9145 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+42.9159 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+42.9173 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+42.9176 	DEBUG 	Uploading Texture Font fontname to graphics card
+42.9188 	DEBUG 	Upload of Texture Font fontname complete
+42.9213 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+42.9213 	EXP 	window1: recordFrameIntervals = False
+43.1675 	EXP 	window1: recordFrameIntervals = True
+43.4772 	WARNING 	t of last frame was 31.35ms (=1/31)
+43.5279 	WARNING 	t of last frame was 27.54ms (=1/36)
+44.3772 	WARNING 	Couldn't measure a consistent frame rate!
+  - Is your graphics card set to sync to vertical blank?
+  - Are you running other processes on your computer?
+
+44.3775 	EXP 	window1: mouseVisible = True
+44.3784 	EXP 	window1: mouseVisible = True
+44.3787 	EXP 	window1: mouseVisible = True
+44.3803 	EXP 	window1: mouseVisible = True
+44.3817 	EXP 	window1: mouseVisible = True
+44.3903 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+44.3912 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+44.3927 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+44.3946 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+44.3964 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+44.3981 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+44.3990 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+44.4006 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+44.4024 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+44.4040 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+44.4046 	DEBUG 	Uploading Texture Font fontname to graphics card
+44.4109 	DEBUG 	Upload of Texture Font fontname complete
+44.4133 	EXP 	window1: mouseVisible = True
+44.4135 	EXP 	window1: mouseVisible = True
+44.4145 	EXP 	window1: mouseVisible = True
+44.4154 	EXP 	window1: mouseVisible = True
+44.4457 	WARNING 	launchHubServer: If using the iohub mouse or eyetracker devices, fullScr should be True.
+50.8126 	INFO 	keyboard.Keyboard is using iohub backend.
+50.8126 	INFO 	keyboard.Keyboard is using iohub backend.
+50.9727 	EXP 	intentional binding: status = STARTED
+50.9732 	EXP 	window1: mouseVisible = True
+50.9805 	EXP 	Created polygon = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=0.0, draggable=False, fillColor=array([1, 1, 1]), fillColorSpace='rgb', fillRGB=array([1, 1, 1]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1, 1, 1]), lineWidth=1.0, name='polygon', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([0.2, 0.2]), units='height', vertices=ndarray(...), win=Window(...), windingRule=None)
+50.9807 	EXP 	window1: mouseVisible = True
+50.9843 	EXP 	Created polygon_2 = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=-1.0, draggable=False, fillColor=array([ 1.    ,  0.2549, -0.0431]), fillColorSpace='rgb', fillRGB=array([ 1.    ,  0.2549, -0.0431]), interpolate=True, lineColor=array([ 1.    ,  0.2549, -0.0431]), lineColorSpace='rgb', lineRGB=array([ 1.    ,  0.2549, -0.0431]), lineWidth=1.0, name='polygon_2', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([0.2, 0.2]), units='height', vertices=ndarray(...), win=Window(...), windingRule=None)
+51.0603 	EXP 	Sound sound_1 set volume 1.000
+51.0610 	EXP 	window1: mouseVisible = True
+51.1675 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text', opacity=1, ori=0.0, pos=array([0. , 0.3]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+51.1684 	EXP 	window1: mouseVisible = True
+51.1688 	EXP 	window1: mouseVisible = True
+51.1705 	EXP 	window1: mouseVisible = True
+51.1725 	EXP 	window1: mouseVisible = True
+51.1852 	EXP 	window1: mouseVisible = True
+51.1856 	EXP 	window1: mouseVisible = True
+51.1873 	EXP 	window1: mouseVisible = True
+51.1891 	EXP 	window1: mouseVisible = True
+51.2004 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+51.2040 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+51.2079 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+51.2110 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+51.2127 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+51.2142 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+51.2162 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+51.2192 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+51.2219 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+51.2237 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+51.2248 	DEBUG 	Uploading Texture Font fontname to graphics card
+51.2319 	DEBUG 	Upload of Texture Font fontname complete
+51.2353 	EXP 	window1: mouseVisible = True
+51.2356 	EXP 	window1: mouseVisible = True
+51.2371 	EXP 	window1: mouseVisible = True
+51.2386 	EXP 	window1: mouseVisible = True
+51.2488 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+51.2511 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+51.2540 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+51.2572 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+51.2592 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+51.2609 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+51.2614 	DEBUG 	Uploading Texture Font fontname to graphics card
+51.2665 	DEBUG 	Upload of Texture Font fontname complete
+51.2688 	EXP 	window1: mouseVisible = True
+51.2690 	EXP 	window1: mouseVisible = True
+51.2702 	EXP 	window1: mouseVisible = True
+51.2710 	EXP 	window1: mouseVisible = True
+51.2772 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+51.2791 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+51.2810 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+51.2823 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+51.2828 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+51.2834 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+51.2852 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+51.2864 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+51.2871 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+51.2878 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+51.2882 	DEBUG 	Uploading Texture Font fontname to graphics card
+51.2890 	DEBUG 	Upload of Texture Font fontname complete
+0.0314 	EXP 	textbox: autoLog = True
+0.0651 	DEBUG 	Read excel file with openpyxl: /Users/shrutigupta/Downloads/ib_cons.xlsx
+0.0666 	EXP 	Imported /Users/shrutigupta/Downloads/ib_cons.xlsx as conditions, 10 conditions, 3 params
+0.0685 	EXP 	New trial (rep=0, index=0): <Trial 0 (0 in rep 0) data={'delay': 0.4, 'freq': 400.0, 'condition': 'exp', 'thisN': 0, 'thisTrialN': 0, 'thisRepN': 0}>
+0.0865 	WARNING 	t of last frame was 55.03ms (=1/18)
+0.0865 	EXP 	polygon: autoDraw = True
+0.1095 	WARNING 	t of last frame was 23.07ms (=1/43)
+0.1308 	WARNING 	Multiple dropped frames have occurred - I'll stop bothering you about them!
+1.0021 	INFO 	Keyboard events cleared
+1.0007 	EXP 	polygon_2: autoDraw = True
+1.1002 	EXP 	polygon: autoDraw = False
+2.4186 	DATA 	Keypress: space
+2.4290 	EXP 	polygon: autoDraw = False
+2.4290 	EXP 	polygon_2: autoDraw = False
+2.7974 	EXP 	Sound sound_1 reached end of file
+2.8084 	EXP 	Sound sound_1 started
+3.1019 	EXP 	Sound sound_1 stopped
+3.1542 	EXP 	text: autoDraw = True
+3.1542 	EXP 	textbox: autoDraw = True
+5.8134 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.8141 	DEBUG 	Uploading Texture Font fontname to graphics card
+5.8180 	DEBUG 	Upload of Texture Font fontname complete
+5.8196 	DATA 	Keypress: 5
+5.9780 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+5.9784 	DEBUG 	Uploading Texture Font fontname to graphics card
+5.9806 	DEBUG 	Upload of Texture Font fontname complete
+5.9816 	DATA 	Keypress: 0
+6.1610 	DATA 	Keypress: 0
+7.1550 	DATA 	Mouse: Left button down, pos=(398,106)
+7.1582 	EXP 	New trial (rep=0, index=1): <Trial 1 (1 in rep 0) data={'delay': 0.7, 'freq': 400.0, 'condition': 'exp', 'thisN': 1, 'thisTrialN': 1, 'thisRepN': 0}>
+7.1714 	EXP 	text: autoDraw = False
+7.1714 	EXP 	textbox: autoDraw = False
+7.1714 	EXP 	polygon: autoDraw = True
+7.2719 	DATA 	Mouse:  Left button up, pos=(398,106)
+8.1592 	INFO 	Keyboard events cleared
+8.1586 	EXP 	polygon_2: autoDraw = True
+8.1760 	EXP 	polygon: autoDraw = False
+8.6387 	DATA 	Keypress: space
+8.6471 	EXP 	polygon: autoDraw = False
+8.6471 	EXP 	polygon_2: autoDraw = False
+9.3318 	EXP 	Sound sound_1 reached end of file
+9.3418 	EXP 	Sound sound_1 started
+9.6360 	EXP 	Sound sound_1 stopped
+9.6569 	EXP 	text: autoDraw = True
+9.6569 	EXP 	textbox: autoDraw = True
+11.6190 	DATA 	Keypress: 5
+11.8096 	DATA 	Keypress: 5
+11.8807 	DATA 	Keypress: 0
+12.4074 	DATA 	Mouse: Left button down, pos=(398,106)
+12.4276 	EXP 	New trial (rep=0, index=2): <Trial 2 (2 in rep 0) data={'delay': 0.4, 'freq': 1000.0, 'condition': 'unexp', 'thisN': 2, 'thisTrialN': 2, 'thisRepN': 0}>
+12.4407 	EXP 	text: autoDraw = False
+12.4407 	EXP 	textbox: autoDraw = False
+12.4407 	EXP 	polygon: autoDraw = True
+12.5572 	DATA 	Mouse:  Left button up, pos=(398,106)
+13.4464 	INFO 	Keyboard events cleared
+13.4447 	EXP 	polygon: autoDraw = False
+13.4447 	EXP 	polygon_2: autoDraw = True
+15.3894 	DATA 	Keypress: space
+15.3978 	EXP 	polygon: autoDraw = False
+15.3978 	EXP 	polygon_2: autoDraw = False
+15.7834 	EXP 	Sound sound_1 reached end of file
+15.7932 	EXP 	Sound sound_1 started
+16.0980 	EXP 	Sound sound_1 stopped
+16.1249 	EXP 	text: autoDraw = True
+16.1249 	EXP 	textbox: autoDraw = True
+20.5118 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+20.5124 	DEBUG 	Uploading Texture Font fontname to graphics card
+20.5136 	DEBUG 	Upload of Texture Font fontname complete
+20.5149 	DATA 	Keypress: 4
+20.6102 	DATA 	Keypress: 0
+20.7755 	DATA 	Keypress: 0
+21.3919 	DATA 	Mouse: Left button down, pos=(433,123)
+21.3942 	EXP 	New trial (rep=0, index=3): <Trial 3 (3 in rep 0) data={'delay': 0.1, 'freq': 400.0, 'condition': 'exp', 'thisN': 3, 'thisTrialN': 3, 'thisRepN': 0}>
+21.4075 	EXP 	text: autoDraw = False
+21.4075 	EXP 	textbox: autoDraw = False
+21.4075 	EXP 	polygon: autoDraw = True
+21.5108 	DATA 	Mouse:  Left button up, pos=(433,123)
+22.3946 	INFO 	Keyboard events cleared
+22.3933 	EXP 	polygon_2: autoDraw = True
+22.4104 	EXP 	polygon: autoDraw = False
+23.1413 	DATA 	Keypress: space
+23.1502 	EXP 	polygon: autoDraw = False
+23.1502 	EXP 	polygon_2: autoDraw = False
+23.2359 	EXP 	Sound sound_1 reached end of file
+23.2471 	EXP 	Sound sound_1 started
+23.5542 	EXP 	Sound sound_1 stopped
+23.5815 	EXP 	text: autoDraw = True
+23.5815 	EXP 	textbox: autoDraw = True
+26.2371 	DATA 	Keypress: 4
+26.7703 	DATA 	Keypress: 5
+26.9256 	DATA 	Keypress: 0
+28.3849 	DATA 	Mouse: Left button down, pos=(433,128)
+28.3876 	EXP 	New trial (rep=0, index=4): <Trial 4 (4 in rep 0) data={'delay': 0.7, 'freq': 400.0, 'condition': 'exp', 'thisN': 4, 'thisTrialN': 4, 'thisRepN': 0}>
+28.4006 	EXP 	text: autoDraw = False
+28.4006 	EXP 	textbox: autoDraw = False
+28.4006 	EXP 	polygon: autoDraw = True
+28.4807 	DATA 	Mouse:  Left button up, pos=(433,128)
+29.3962 	INFO 	Keyboard events cleared
+29.3941 	EXP 	polygon_2: autoDraw = True
+29.4267 	EXP 	polygon: autoDraw = False
+30.3129 	DATA 	Keypress: space
+30.3217 	EXP 	polygon: autoDraw = False
+30.3217 	EXP 	polygon_2: autoDraw = False
+31.0027 	EXP 	Sound sound_1 reached end of file
+31.0116 	EXP 	Sound sound_1 started
+31.3105 	EXP 	Sound sound_1 stopped
+31.3425 	EXP 	text: autoDraw = True
+31.3425 	EXP 	textbox: autoDraw = True
+32.7922 	DATA 	Keypress: 0
+32.8270 	DATA 	Keypress: 5
+33.0312 	DATA 	Keypress: 0
+34.5088 	DATA 	Keypress: backspace
+34.7928 	DATA 	Keypress: backspace
+35.0066 	DATA 	Keypress: backspace
+35.7801 	DATA 	Keypress: 5
+36.0063 	DATA 	Keypress: 0
+36.2212 	DATA 	Keypress: 0
+36.6804 	DATA 	Mouse: Left button down, pos=(433,129)
+36.6835 	EXP 	New trial (rep=0, index=5): <Trial 5 (5 in rep 0) data={'delay': 0.4, 'freq': 1000.0, 'condition': 'unexp', 'thisN': 5, 'thisTrialN': 5, 'thisRepN': 0}>
+36.6964 	EXP 	text: autoDraw = False
+36.6964 	EXP 	textbox: autoDraw = False
+36.6964 	EXP 	polygon: autoDraw = True
+36.8252 	DATA 	Mouse:  Left button up, pos=(433,129)
+37.6953 	INFO 	Keyboard events cleared
+37.6941 	EXP 	polygon: autoDraw = False
+37.6941 	EXP 	polygon_2: autoDraw = True
+39.6264 	DATA 	Keypress: space
+39.6352 	EXP 	polygon: autoDraw = False
+39.6352 	EXP 	polygon_2: autoDraw = False
+40.0199 	EXP 	Sound sound_1 reached end of file
+40.0280 	EXP 	Sound sound_1 started
+40.3382 	EXP 	Sound sound_1 stopped
+40.3622 	EXP 	text: autoDraw = True
+40.3622 	EXP 	textbox: autoDraw = True
+43.4778 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+43.4783 	DEBUG 	Uploading Texture Font fontname to graphics card
+43.4796 	DEBUG 	Upload of Texture Font fontname complete
+43.4807 	DATA 	Keypress: 6
+43.6017 	DATA 	Keypress: 0
+43.7674 	DATA 	Keypress: 0
+44.2507 	DATA 	Mouse: Left button down, pos=(433,129)
+44.3845 	DATA 	Mouse:  Left button up, pos=(433,129)
+45.8193 	DATA 	Mouse: Left button down, pos=(405,123)
+45.8404 	EXP 	New trial (rep=0, index=6): <Trial 6 (6 in rep 0) data={'delay': 0.7, 'freq': 1000.0, 'condition': 'unexp', 'thisN': 6, 'thisTrialN': 6, 'thisRepN': 0}>
+45.8535 	EXP 	text: autoDraw = False
+45.8535 	EXP 	textbox: autoDraw = False
+45.8535 	EXP 	polygon: autoDraw = True
+45.9028 	DATA 	Mouse:  Left button up, pos=(405,123)
+46.8451 	INFO 	Keyboard events cleared
+46.8438 	EXP 	polygon_2: autoDraw = True
+46.8613 	EXP 	polygon: autoDraw = False
+47.4776 	DATA 	Keypress: space
+47.4866 	EXP 	polygon: autoDraw = False
+47.4866 	EXP 	polygon_2: autoDraw = False
+48.1677 	EXP 	Sound sound_1 reached end of file
+48.1756 	EXP 	Sound sound_1 started
+48.4727 	EXP 	Sound sound_1 stopped
+48.4960 	EXP 	text: autoDraw = True
+48.4960 	EXP 	textbox: autoDraw = True
+50.9035 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+50.9041 	DEBUG 	Uploading Texture Font fontname to graphics card
+50.9061 	DEBUG 	Upload of Texture Font fontname complete
+50.9076 	DATA 	Keypress: 3
+51.0420 	DATA 	Keypress: 0
+51.1974 	DATA 	Keypress: 0
+52.0175 	DATA 	Mouse: Left button down, pos=(403,112)
+52.0201 	EXP 	New trial (rep=0, index=7): <Trial 7 (7 in rep 0) data={'delay': 0.1, 'freq': 1000.0, 'condition': 'unexp', 'thisN': 7, 'thisTrialN': 7, 'thisRepN': 0}>
+52.0333 	EXP 	text: autoDraw = False
+52.0333 	EXP 	textbox: autoDraw = False
+52.0333 	EXP 	polygon: autoDraw = True
+52.0985 	DATA 	Mouse:  Left button up, pos=(403,112)
+53.0306 	INFO 	Keyboard events cleared
+53.0286 	EXP 	polygon_2: autoDraw = True
+53.0445 	EXP 	polygon: autoDraw = False
+54.4595 	DATA 	Keypress: space
+54.4693 	EXP 	polygon: autoDraw = False
+54.4693 	EXP 	polygon_2: autoDraw = False
+54.5532 	EXP 	Sound sound_1 reached end of file
+54.5619 	EXP 	Sound sound_1 started
+54.8731 	EXP 	Sound sound_1 stopped
+54.8954 	EXP 	text: autoDraw = True
+54.8954 	EXP 	textbox: autoDraw = True
+57.4445 	DATA 	Keypress: 4
+57.5864 	DATA 	Keypress: 0
+57.7401 	DATA 	Keypress: 0
+58.1231 	DATA 	Mouse: Left button down, pos=(403,112)
+58.1256 	EXP 	New trial (rep=0, index=8): <Trial 8 (8 in rep 0) data={'delay': 0.1, 'freq': 400.0, 'condition': 'exp', 'thisN': 8, 'thisTrialN': 8, 'thisRepN': 0}>
+58.1395 	EXP 	text: autoDraw = False
+58.1395 	EXP 	textbox: autoDraw = False
+58.1395 	EXP 	polygon: autoDraw = True
+58.2431 	DATA 	Mouse:  Left button up, pos=(403,112)
+59.1292 	INFO 	Keyboard events cleared
+59.1278 	EXP 	polygon_2: autoDraw = True
+59.1442 	EXP 	polygon: autoDraw = False
+59.8928 	DATA 	Keypress: space
+59.9017 	EXP 	polygon: autoDraw = False
+59.9017 	EXP 	polygon_2: autoDraw = False
+59.9860 	EXP 	Sound sound_1 reached end of file
+59.9966 	EXP 	Sound sound_1 started
+60.3047 	EXP 	Sound sound_1 stopped
+60.3327 	EXP 	text: autoDraw = True
+60.3327 	EXP 	textbox: autoDraw = True
+62.9627 	DATA 	Keypress: 5
+63.1536 	DATA 	Keypress: 0
+63.3067 	DATA 	Keypress: 0
+64.1756 	DATA 	Keypress: backspace
+64.3727 	DATA 	Keypress: backspace
+64.5237 	DATA 	Keypress: backspace
+65.2722 	DATA 	Keypress: 3
+65.4676 	DATA 	Keypress: 0
+65.6795 	DATA 	Keypress: 0
+66.2957 	DATA 	Mouse: Left button down, pos=(403,112)
+66.2995 	EXP 	New trial (rep=0, index=9): <Trial 9 (9 in rep 0) data={'delay': 0.1, 'freq': 1000.0, 'condition': 'unexp', 'thisN': 9, 'thisTrialN': 9, 'thisRepN': 0}>
+66.3124 	EXP 	text: autoDraw = False
+66.3124 	EXP 	textbox: autoDraw = False
+66.3124 	EXP 	polygon: autoDraw = True
+66.4430 	DATA 	Mouse:  Left button up, pos=(403,112)
+67.3138 	INFO 	Keyboard events cleared
+67.3116 	EXP 	polygon_2: autoDraw = True
+67.3306 	EXP 	polygon: autoDraw = False
+68.8956 	DATA 	Keypress: space
+68.9049 	EXP 	polygon: autoDraw = False
+68.9049 	EXP 	polygon_2: autoDraw = False
+68.9850 	EXP 	Sound sound_1 reached end of file
+68.9941 	EXP 	Sound sound_1 started
+69.2902 	EXP 	Sound sound_1 stopped
+69.3189 	EXP 	text: autoDraw = True
+69.3189 	EXP 	textbox: autoDraw = True
+74.4403 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+74.4408 	DEBUG 	Uploading Texture Font fontname to graphics card
+74.4418 	DEBUG 	Upload of Texture Font fontname complete
+74.4430 	DATA 	Keypress: 7
+74.5760 	DATA 	Keypress: 0
+74.7488 	DATA 	Keypress: 0
+75.1759 	DATA 	Mouse: Left button down, pos=(403,112)
+75.1979 	EXP 	New trial (rep=1, index=0): <Trial 10 (0 in rep 1) data={'delay': 0.1, 'freq': 1000.0, 'condition': 'unexp', 'thisN': 10, 'thisTrialN': 0, 'thisRepN': 1}>
+75.2111 	EXP 	text: autoDraw = False
+75.2111 	EXP 	textbox: autoDraw = False
+75.2111 	EXP 	polygon: autoDraw = True
+75.2928 	DATA 	Mouse:  Left button up, pos=(403,112)
+76.2129 	INFO 	Keyboard events cleared
+76.2111 	EXP 	polygon: autoDraw = False
+76.2111 	EXP 	polygon_2: autoDraw = True
+76.6260 	DATA 	Keypress: space
+76.6349 	EXP 	polygon: autoDraw = False
+76.6349 	EXP 	polygon_2: autoDraw = False
+76.7228 	EXP 	Sound sound_1 reached end of file
+76.7337 	EXP 	Sound sound_1 started
+77.0374 	EXP 	Sound sound_1 stopped
+77.0635 	EXP 	text: autoDraw = True
+77.0635 	EXP 	textbox: autoDraw = True
+78.0503 	DATA 	Keypress: 4
+78.1953 	DATA 	Keypress: 0
+78.3828 	DATA 	Keypress: 0
+78.8250 	DATA 	Mouse: Left button down, pos=(403,112)
+78.8282 	EXP 	New trial (rep=1, index=1): <Trial 11 (1 in rep 1) data={'delay': 0.4, 'freq': 1000.0, 'condition': 'unexp', 'thisN': 11, 'thisTrialN': 1, 'thisRepN': 1}>
+78.8410 	EXP 	text: autoDraw = False
+78.8410 	EXP 	textbox: autoDraw = False
+78.8410 	EXP 	polygon: autoDraw = True
+78.9843 	DATA 	Mouse:  Left button up, pos=(403,112)
+79.8443 	INFO 	Keyboard events cleared
+79.8429 	EXP 	polygon: autoDraw = False
+79.8429 	EXP 	polygon_2: autoDraw = True
+80.2927 	DATA 	Keypress: space
+80.3016 	EXP 	polygon: autoDraw = False
+80.3016 	EXP 	polygon_2: autoDraw = False
+80.6849 	EXP 	Sound sound_1 reached end of file
+80.6954 	EXP 	Sound sound_1 started
+80.9883 	EXP 	Sound sound_1 stopped
+81.0130 	EXP 	text: autoDraw = True
+81.0130 	EXP 	textbox: autoDraw = True
+82.4055 	DATA 	Keypress: 5
+82.7056 	DATA 	Keypress: 6
+82.9027 	DATA 	Keypress: 0
+83.4307 	DATA 	Mouse: Left button down, pos=(403,112)
+83.4337 	EXP 	New trial (rep=1, index=2): <Trial 12 (2 in rep 1) data={'delay': 0.4, 'freq': 400.0, 'condition': 'exp', 'thisN': 12, 'thisTrialN': 2, 'thisRepN': 1}>
+83.4467 	EXP 	text: autoDraw = False
+83.4467 	EXP 	textbox: autoDraw = False
+83.4467 	EXP 	polygon: autoDraw = True
+83.5507 	DATA 	Mouse:  Left button up, pos=(403,112)
+84.4483 	INFO 	Keyboard events cleared
+84.4455 	EXP 	polygon: autoDraw = False
+84.4455 	EXP 	polygon_2: autoDraw = True
+91.5664 	DATA 	Keypress: space
+91.5753 	EXP 	polygon: autoDraw = False
+91.5753 	EXP 	polygon_2: autoDraw = False
+91.9521 	EXP 	Sound sound_1 reached end of file
+91.9621 	EXP 	Sound sound_1 started
+92.2732 	EXP 	Sound sound_1 stopped
+92.2967 	EXP 	text: autoDraw = True
+92.2967 	EXP 	textbox: autoDraw = True
+123.2690 	DATA 	Keypress: 6
+123.4574 	DATA 	Keypress: 0
+123.6354 	DATA 	Keypress: 0
+124.2127 	DATA 	Mouse: Left button down, pos=(403,112)
+124.2156 	EXP 	New trial (rep=1, index=3): <Trial 13 (3 in rep 1) data={'delay': 0.1, 'freq': 1000.0, 'condition': 'unexp', 'thisN': 13, 'thisTrialN': 3, 'thisRepN': 1}>
+124.2296 	EXP 	text: autoDraw = False
+124.2296 	EXP 	textbox: autoDraw = False
+124.2296 	EXP 	polygon: autoDraw = True
+124.3505 	DATA 	Mouse:  Left button up, pos=(403,112)
+125.2298 	INFO 	Keyboard events cleared
+125.2282 	EXP 	polygon_2: autoDraw = True
+125.2439 	EXP 	polygon: autoDraw = False
+125.6281 	DATA 	Keypress: space
+125.6366 	EXP 	polygon: autoDraw = False
+125.6366 	EXP 	polygon_2: autoDraw = False
+125.7226 	EXP 	Sound sound_1 reached end of file
+125.7336 	EXP 	Sound sound_1 started
+126.0373 	EXP 	Sound sound_1 stopped
+126.0637 	EXP 	text: autoDraw = True
+126.0637 	EXP 	textbox: autoDraw = True
+128.3670 	DATA 	Keypress: 3
+128.5454 	DATA 	Keypress: 5
+128.7063 	DATA 	Keypress: 0
+129.3019 	DATA 	Mouse: Left button down, pos=(403,112)
+129.3044 	EXP 	New trial (rep=1, index=4): <Trial 14 (4 in rep 1) data={'delay': 0.1, 'freq': 400.0, 'condition': 'exp', 'thisN': 14, 'thisTrialN': 4, 'thisRepN': 1}>
+129.3178 	EXP 	text: autoDraw = False
+129.3178 	EXP 	textbox: autoDraw = False
+129.3178 	EXP 	polygon: autoDraw = True
+129.4820 	DATA 	Mouse:  Left button up, pos=(403,112)
+130.3119 	INFO 	Keyboard events cleared
+130.3102 	EXP 	polygon_2: autoDraw = True
+130.3294 	EXP 	polygon: autoDraw = False
+130.7282 	DATA 	Keypress: space
+130.7544 	EXP 	polygon: autoDraw = False
+130.7544 	EXP 	polygon_2: autoDraw = False
+130.8329 	EXP 	Sound sound_1 reached end of file
+130.8419 	EXP 	Sound sound_1 started
+131.1380 	EXP 	Sound sound_1 stopped
+131.1651 	EXP 	text: autoDraw = True
+131.1651 	EXP 	textbox: autoDraw = True
+134.1133 	DATA 	Keypress: 3
+134.2694 	DATA 	Keypress: 0
+134.4250 	DATA 	Keypress: 0
+134.7244 	DATA 	Mouse: Left button down, pos=(403,112)
+134.7476 	EXP 	New trial (rep=1, index=5): <Trial 15 (5 in rep 1) data={'delay': 0.7, 'freq': 1000.0, 'condition': 'unexp', 'thisN': 15, 'thisTrialN': 5, 'thisRepN': 1}>
+134.7608 	EXP 	text: autoDraw = False
+134.7608 	EXP 	textbox: autoDraw = False
+134.7608 	EXP 	polygon: autoDraw = True
+134.8506 	DATA 	Mouse:  Left button up, pos=(403,112)
+135.7641 	INFO 	Keyboard events cleared
+135.7619 	EXP 	polygon: autoDraw = False
+135.7619 	EXP 	polygon_2: autoDraw = True
+136.1134 	DATA 	Keypress: space
+136.1226 	EXP 	polygon: autoDraw = False
+136.1226 	EXP 	polygon_2: autoDraw = False
+136.8016 	EXP 	Sound sound_1 reached end of file
+136.8103 	EXP 	Sound sound_1 started
+137.1036 	EXP 	Sound sound_1 stopped
+137.1332 	EXP 	text: autoDraw = True
+137.1332 	EXP 	textbox: autoDraw = True
+139.7825 	DATA 	Keypress: 6
+139.9648 	DATA 	Keypress: 0
+140.2013 	DATA 	Keypress: 0
+140.5741 	DATA 	Mouse: Left button down, pos=(403,112)
+140.5953 	EXP 	New trial (rep=1, index=6): <Trial 16 (6 in rep 1) data={'delay': 0.1, 'freq': 400.0, 'condition': 'exp', 'thisN': 16, 'thisTrialN': 6, 'thisRepN': 1}>
+140.6081 	EXP 	text: autoDraw = False
+140.6081 	EXP 	textbox: autoDraw = False
+140.6081 	EXP 	polygon: autoDraw = True
+140.6943 	DATA 	Mouse:  Left button up, pos=(403,112)
+141.5948 	INFO 	Keyboard events cleared
+141.5934 	EXP 	polygon_2: autoDraw = True
+141.6115 	EXP 	polygon: autoDraw = False
+142.1781 	DATA 	Keypress: space
+142.1868 	EXP 	polygon: autoDraw = False
+142.1868 	EXP 	polygon_2: autoDraw = False
+142.2728 	EXP 	Sound sound_1 reached end of file
+142.2812 	EXP 	Sound sound_1 started
+142.5880 	EXP 	Sound sound_1 stopped
+142.6149 	EXP 	text: autoDraw = True
+142.6149 	EXP 	textbox: autoDraw = True
+143.8669 	DATA 	Keypress: 5
+144.0159 	DATA 	Keypress: 0
+144.1907 	DATA 	Keypress: 0
+144.5865 	DATA 	Mouse: Left button down, pos=(396,110)
+144.5900 	EXP 	New trial (rep=1, index=7): <Trial 17 (7 in rep 1) data={'delay': 0.7, 'freq': 400.0, 'condition': 'exp', 'thisN': 17, 'thisTrialN': 7, 'thisRepN': 1}>
+144.6064 	EXP 	text: autoDraw = False
+144.6064 	EXP 	textbox: autoDraw = False
+144.6064 	EXP 	polygon: autoDraw = True
+144.7263 	DATA 	Mouse:  Left button up, pos=(395,109)
+145.5964 	INFO 	Keyboard events cleared
+145.5947 	EXP 	polygon_2: autoDraw = True
+145.6120 	EXP 	polygon: autoDraw = False
+146.2941 	DATA 	Keypress: space
+146.3028 	EXP 	polygon: autoDraw = False
+146.3028 	EXP 	polygon_2: autoDraw = False
+146.9844 	EXP 	Sound sound_1 reached end of file
+146.9946 	EXP 	Sound sound_1 started
+147.2880 	EXP 	Sound sound_1 stopped
+147.3136 	EXP 	text: autoDraw = True
+147.3136 	EXP 	textbox: autoDraw = True
+148.5058 	DATA 	Keypress: 4
+148.6628 	DATA 	Keypress: 0
+148.8036 	DATA 	Keypress: 0
+149.2242 	DATA 	Mouse: Left button down, pos=(393,109)
+149.2480 	EXP 	New trial (rep=1, index=8): <Trial 18 (8 in rep 1) data={'delay': 0.7, 'freq': 400.0, 'condition': 'exp', 'thisN': 18, 'thisTrialN': 8, 'thisRepN': 1}>
+149.2614 	EXP 	text: autoDraw = False
+149.2614 	EXP 	textbox: autoDraw = False
+149.2614 	EXP 	polygon: autoDraw = True
+149.3421 	DATA 	Mouse:  Left button up, pos=(393,109)
+150.2630 	INFO 	Keyboard events cleared
+150.2609 	EXP 	polygon_2: autoDraw = True
+150.2796 	EXP 	polygon: autoDraw = False
+248.3332 	DATA 	Keypress: space
+248.3421 	EXP 	polygon: autoDraw = False
+248.3421 	EXP 	polygon_2: autoDraw = False
+249.0186 	EXP 	Sound sound_1 reached end of file
+249.0276 	EXP 	Sound sound_1 started
+249.3373 	EXP 	Sound sound_1 stopped
+249.3636 	EXP 	text: autoDraw = True
+249.3636 	EXP 	textbox: autoDraw = True
+267.1755 	DATA 	Keypress: 4
+267.3248 	DATA 	Keypress: 0
+267.4649 	DATA 	Keypress: 0
+267.9002 	DATA 	Mouse: Left button down, pos=(393,109)
+267.9032 	EXP 	New trial (rep=1, index=9): <Trial 19 (9 in rep 1) data={'delay': 0.4, 'freq': 1000.0, 'condition': 'unexp', 'thisN': 19, 'thisTrialN': 9, 'thisRepN': 1}>
+267.9165 	EXP 	text: autoDraw = False
+267.9165 	EXP 	textbox: autoDraw = False
+267.9165 	EXP 	polygon: autoDraw = True
+268.0600 	DATA 	Mouse:  Left button up, pos=(393,109)
+268.9115 	INFO 	Keyboard events cleared
+268.9098 	EXP 	polygon_2: autoDraw = True
+268.9288 	EXP 	polygon: autoDraw = False
+269.2788 	DATA 	Keypress: space
+269.2875 	EXP 	polygon: autoDraw = False
+269.2875 	EXP 	polygon_2: autoDraw = False
+269.6682 	EXP 	Sound sound_1 reached end of file
+269.6764 	EXP 	Sound sound_1 started
+269.9862 	EXP 	Sound sound_1 stopped
+270.0118 	EXP 	text: autoDraw = True
+270.0118 	EXP 	textbox: autoDraw = True
+272.8038 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+272.8045 	DEBUG 	Uploading Texture Font fontname to graphics card
+272.8102 	DEBUG 	Upload of Texture Font fontname complete
+272.8122 	DATA 	Keypress: 8
+272.9515 	DATA 	Keypress: 0
+273.1099 	DATA 	Keypress: 0
+273.5161 	DATA 	Mouse: Left button down, pos=(393,109)
+273.5194 	EXP 	New trial (rep=2, index=0): <Trial 20 (0 in rep 2) data={'delay': 0.4, 'freq': 1000.0, 'condition': 'unexp', 'thisN': 20, 'thisTrialN': 0, 'thisRepN': 2}>
+273.5326 	EXP 	text: autoDraw = False
+273.5326 	EXP 	textbox: autoDraw = False
+273.5326 	EXP 	polygon: autoDraw = True
+273.6596 	DATA 	Mouse:  Left button up, pos=(393,109)
+274.5308 	INFO 	Keyboard events cleared
+274.5291 	EXP 	polygon_2: autoDraw = True
+274.5450 	EXP 	polygon: autoDraw = False
+275.2274 	DATA 	Keypress: space
+275.2364 	EXP 	polygon: autoDraw = False
+275.2364 	EXP 	polygon_2: autoDraw = False
+275.6166 	EXP 	Sound sound_1 reached end of file
+275.6251 	EXP 	Sound sound_1 started
+275.9215 	EXP 	Sound sound_1 stopped
+275.9439 	EXP 	text: autoDraw = True
+275.9439 	EXP 	textbox: autoDraw = True
+276.7727 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+276.7732 	DEBUG 	Uploading Texture Font fontname to graphics card
+276.7756 	DEBUG 	Upload of Texture Font fontname complete
+276.7768 	DATA 	Keypress: 2
+276.9228 	DATA 	Keypress: 0
+277.0615 	DATA 	Keypress: 0
+277.3979 	DATA 	Mouse: Left button down, pos=(393,109)
+277.4009 	EXP 	New trial (rep=2, index=1): <Trial 21 (1 in rep 2) data={'delay': 0.1, 'freq': 400.0, 'condition': 'exp', 'thisN': 21, 'thisTrialN': 1, 'thisRepN': 2}>
+277.4146 	EXP 	text: autoDraw = False
+277.4146 	EXP 	textbox: autoDraw = False
+277.4146 	EXP 	polygon: autoDraw = True
+277.5582 	DATA 	Mouse:  Left button up, pos=(393,109)
+278.4155 	INFO 	Keyboard events cleared
+278.4135 	EXP 	polygon_2: autoDraw = True
+278.4315 	EXP 	polygon: autoDraw = False
+280.3651 	DATA 	Keypress: space
+280.3747 	EXP 	polygon: autoDraw = False
+280.3747 	EXP 	polygon_2: autoDraw = False
+280.4545 	EXP 	Sound sound_1 reached end of file
+280.4642 	EXP 	Sound sound_1 started
+280.7575 	EXP 	Sound sound_1 stopped
+280.7891 	EXP 	text: autoDraw = True
+280.7891 	EXP 	textbox: autoDraw = True
+281.6517 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+281.6522 	DEBUG 	Uploading Texture Font fontname to graphics card
+281.6534 	DEBUG 	Upload of Texture Font fontname complete
+281.6553 	DATA 	Keypress: 1
+281.8022 	DATA 	Keypress: 0
+281.9468 	DATA 	Keypress: 0
+282.2830 	DATA 	Mouse: Left button down, pos=(393,109)
+282.2852 	EXP 	New trial (rep=2, index=2): <Trial 22 (2 in rep 2) data={'delay': 0.7, 'freq': 400.0, 'condition': 'exp', 'thisN': 22, 'thisTrialN': 2, 'thisRepN': 2}>
+282.2981 	EXP 	text: autoDraw = False
+282.2981 	EXP 	textbox: autoDraw = False
+282.2981 	EXP 	polygon: autoDraw = True
+282.4312 	DATA 	Mouse:  Left button up, pos=(393,109)
+283.2941 	INFO 	Keyboard events cleared
+283.2925 	EXP 	polygon_2: autoDraw = True
+283.3101 	EXP 	polygon: autoDraw = False
+283.8471 	DATA 	Keypress: space
+283.8560 	EXP 	polygon: autoDraw = False
+283.8560 	EXP 	polygon_2: autoDraw = False
+284.5360 	EXP 	Sound sound_1 reached end of file
+284.5445 	EXP 	Sound sound_1 started
+284.8368 	EXP 	Sound sound_1 stopped
+284.8625 	EXP 	text: autoDraw = True
+284.8625 	EXP 	textbox: autoDraw = True
+285.9766 	DATA 	Keypress: 5
+286.1267 	DATA 	Keypress: 0
+286.4607 	DATA 	Mouse: Left button down, pos=(393,109)
+286.4640 	EXP 	New trial (rep=2, index=3): <Trial 23 (3 in rep 2) data={'delay': 0.1, 'freq': 400.0, 'condition': 'exp', 'thisN': 23, 'thisTrialN': 3, 'thisRepN': 2}>
+286.4783 	EXP 	text: autoDraw = False
+286.4783 	EXP 	textbox: autoDraw = False
+286.4783 	EXP 	polygon: autoDraw = True
+286.5863 	DATA 	Mouse:  Left button up, pos=(393,109)
+287.4805 	INFO 	Keyboard events cleared
+287.4789 	EXP 	polygon: autoDraw = False
+287.4789 	EXP 	polygon_2: autoDraw = True
+287.7281 	DATA 	Keypress: space
+287.7368 	EXP 	polygon: autoDraw = False
+287.7368 	EXP 	polygon_2: autoDraw = False
+287.8321 	EXP 	Sound sound_1 reached end of file
+287.8413 	EXP 	Sound sound_1 started
+288.1371 	EXP 	Sound sound_1 stopped
+288.1639 	EXP 	text: autoDraw = True
+288.1639 	EXP 	textbox: autoDraw = True
+289.2434 	DATA 	Keypress: 4
+289.3203 	DATA 	Keypress: 0
+289.7030 	DATA 	Mouse: Left button down, pos=(393,109)
+289.7055 	EXP 	New trial (rep=2, index=4): <Trial 24 (4 in rep 2) data={'delay': 0.1, 'freq': 1000.0, 'condition': 'unexp', 'thisN': 24, 'thisTrialN': 4, 'thisRepN': 2}>
+289.7187 	EXP 	text: autoDraw = False
+289.7187 	EXP 	textbox: autoDraw = False
+289.7187 	EXP 	polygon: autoDraw = True
+289.8236 	DATA 	Mouse:  Left button up, pos=(393,109)
+290.7109 	INFO 	Keyboard events cleared
+290.7092 	EXP 	polygon_2: autoDraw = True
+290.7291 	EXP 	polygon: autoDraw = False
+290.9623 	DATA 	Keypress: space
+290.9713 	EXP 	polygon: autoDraw = False
+290.9713 	EXP 	polygon_2: autoDraw = False
+291.0473 	EXP 	Sound sound_1 reached end of file
+291.0567 	EXP 	Sound sound_1 started
+291.3550 	EXP 	Sound sound_1 stopped
+291.3840 	EXP 	text: autoDraw = True
+291.3840 	EXP 	textbox: autoDraw = True
+292.3435 	DATA 	Keypress: 5
+292.4674 	DATA 	Keypress: 0
+292.8339 	DATA 	Mouse: Left button down, pos=(393,109)
+292.8362 	EXP 	New trial (rep=2, index=5): <Trial 25 (5 in rep 2) data={'delay': 0.4, 'freq': 400.0, 'condition': 'exp', 'thisN': 25, 'thisTrialN': 5, 'thisRepN': 2}>
+292.8492 	EXP 	text: autoDraw = False
+292.8492 	EXP 	textbox: autoDraw = False
+292.8492 	EXP 	polygon: autoDraw = True
+292.9391 	DATA 	Mouse:  Left button up, pos=(393,109)
+293.8442 	INFO 	Keyboard events cleared
+293.8426 	EXP 	polygon_2: autoDraw = True
+293.8608 	EXP 	polygon: autoDraw = False
+294.0773 	DATA 	Keypress: space
+294.0860 	EXP 	polygon: autoDraw = False
+294.0860 	EXP 	polygon_2: autoDraw = False
+294.4678 	EXP 	Sound sound_1 reached end of file
+294.4764 	EXP 	Sound sound_1 started
+294.7702 	EXP 	Sound sound_1 stopped
+294.7933 	EXP 	text: autoDraw = True
+294.7933 	EXP 	textbox: autoDraw = True
+295.9156 	DATA 	Keypress: 7
+296.0374 	DATA 	Keypress: 0
+296.3756 	DATA 	Mouse: Left button down, pos=(393,109)
+296.3796 	EXP 	New trial (rep=2, index=6): <Trial 26 (6 in rep 2) data={'delay': 0.7, 'freq': 1000.0, 'condition': 'unexp', 'thisN': 26, 'thisTrialN': 6, 'thisRepN': 2}>
+296.3928 	EXP 	text: autoDraw = False
+296.3928 	EXP 	textbox: autoDraw = False
+296.3928 	EXP 	polygon: autoDraw = True
+296.4588 	DATA 	Mouse:  Left button up, pos=(393,109)
+297.3951 	INFO 	Keyboard events cleared
+297.3926 	EXP 	polygon: autoDraw = False
+297.3926 	EXP 	polygon_2: autoDraw = True
+297.6938 	DATA 	Keypress: space
+297.7025 	EXP 	polygon: autoDraw = False
+297.7025 	EXP 	polygon_2: autoDraw = False
+298.3822 	EXP 	Sound sound_1 reached end of file
+298.3933 	EXP 	Sound sound_1 started
+298.7010 	EXP 	Sound sound_1 stopped
+298.7294 	EXP 	text: autoDraw = True
+298.7294 	EXP 	textbox: autoDraw = True
+301.5038 	DATA 	Keypress: 6
+302.6611 	DATA 	Keypress: 0
+303.1314 	DATA 	Mouse: Left button down, pos=(393,109)
+303.1337 	EXP 	New trial (rep=2, index=7): <Trial 27 (7 in rep 2) data={'delay': 0.7, 'freq': 400.0, 'condition': 'exp', 'thisN': 27, 'thisTrialN': 7, 'thisRepN': 2}>
+303.1467 	EXP 	text: autoDraw = False
+303.1467 	EXP 	textbox: autoDraw = False
+303.1467 	EXP 	polygon: autoDraw = True
+303.2173 	DATA 	Mouse:  Left button up, pos=(393,109)
+304.1428 	INFO 	Keyboard events cleared
+304.1413 	EXP 	polygon_2: autoDraw = True
+304.1596 	EXP 	polygon: autoDraw = False
+305.2628 	DATA 	Keypress: space
+305.2723 	EXP 	polygon: autoDraw = False
+305.2723 	EXP 	polygon_2: autoDraw = False
+305.9487 	EXP 	Sound sound_1 reached end of file
+305.9575 	EXP 	Sound sound_1 started
+306.2522 	EXP 	Sound sound_1 stopped
+306.2823 	EXP 	text: autoDraw = True
+306.2823 	EXP 	textbox: autoDraw = True
+307.4391 	DATA 	Keypress: 4
+307.9692 	DATA 	Keypress: 0
+308.9402 	DATA 	Keypress: backspace
+309.2670 	DATA 	Keypress: 5
+309.6676 	DATA 	Mouse: Left button down, pos=(393,109)
+309.6704 	EXP 	New trial (rep=2, index=8): <Trial 28 (8 in rep 2) data={'delay': 0.1, 'freq': 1000.0, 'condition': 'unexp', 'thisN': 28, 'thisTrialN': 8, 'thisRepN': 2}>
+309.6834 	EXP 	text: autoDraw = False
+309.6834 	EXP 	textbox: autoDraw = False
+309.6834 	EXP 	polygon: autoDraw = True
+309.7540 	DATA 	Mouse:  Left button up, pos=(393,109)
+310.6795 	INFO 	Keyboard events cleared
+310.6774 	EXP 	polygon_2: autoDraw = True
+310.6941 	EXP 	polygon: autoDraw = False
+311.0266 	DATA 	Keypress: space
+311.0352 	EXP 	polygon: autoDraw = False
+311.0352 	EXP 	polygon_2: autoDraw = False
+311.1296 	EXP 	Sound sound_1 reached end of file
+311.1389 	EXP 	Sound sound_1 started
+311.4357 	EXP 	Sound sound_1 stopped
+311.4617 	EXP 	text: autoDraw = True
+311.4617 	EXP 	textbox: autoDraw = True
+312.1387 	DATA 	Keypress: 3
+312.3258 	DATA 	Keypress: 0
+312.6891 	DATA 	Mouse: Left button down, pos=(393,109)
+312.6921 	EXP 	New trial (rep=2, index=9): <Trial 29 (9 in rep 2) data={'delay': 0.4, 'freq': 1000.0, 'condition': 'unexp', 'thisN': 29, 'thisTrialN': 9, 'thisRepN': 2}>
+312.7048 	EXP 	text: autoDraw = False
+312.7048 	EXP 	textbox: autoDraw = False
+312.7048 	EXP 	polygon: autoDraw = True
+312.7899 	DATA 	Mouse:  Left button up, pos=(393,109)
+313.6968 	INFO 	Keyboard events cleared
+313.6948 	EXP 	polygon_2: autoDraw = True
+313.7125 	EXP 	polygon: autoDraw = False
+313.9443 	DATA 	Keypress: space
+313.9532 	EXP 	polygon: autoDraw = False
+313.9532 	EXP 	polygon_2: autoDraw = False
+314.3349 	EXP 	Sound sound_1 reached end of file
+314.3472 	EXP 	Sound sound_1 started
+314.6527 	EXP 	Sound sound_1 stopped
+314.6808 	EXP 	text: autoDraw = True
+314.6808 	EXP 	textbox: autoDraw = True
+315.5550 	DATA 	Keypress: 3
+316.6975 	DATA 	Keypress: 0
+317.1401 	DATA 	Mouse: Left button down, pos=(393,109)
+317.1432 	EXP 	New trial (rep=3, index=0): <Trial 30 (0 in rep 3) data={'delay': 0.4, 'freq': 1000.0, 'condition': 'unexp', 'thisN': 30, 'thisTrialN': 0, 'thisRepN': 3}>
+317.1560 	EXP 	text: autoDraw = False
+317.1560 	EXP 	textbox: autoDraw = False
+317.1560 	EXP 	polygon: autoDraw = True
+317.2481 	DATA 	Mouse:  Left button up, pos=(393,109)
+318.1456 	INFO 	Keyboard events cleared
+318.1437 	EXP 	polygon_2: autoDraw = True
+318.1615 	EXP 	polygon: autoDraw = False
+318.5948 	DATA 	Keypress: space
+318.6038 	EXP 	polygon: autoDraw = False
+318.6038 	EXP 	polygon_2: autoDraw = False
+318.9822 	EXP 	Sound sound_1 reached end of file
+318.9928 	EXP 	Sound sound_1 started
+319.2874 	EXP 	Sound sound_1 stopped
+319.3136 	EXP 	text: autoDraw = True
+319.3136 	EXP 	textbox: autoDraw = True
+320.2390 	DATA 	Keypress: 5
+320.4427 	DATA 	Keypress: 0
+320.8598 	DATA 	Mouse: Left button down, pos=(393,109)
+320.8626 	EXP 	New trial (rep=3, index=1): <Trial 31 (1 in rep 3) data={'delay': 0.7, 'freq': 1000.0, 'condition': 'unexp', 'thisN': 31, 'thisTrialN': 1, 'thisRepN': 3}>
+320.8760 	EXP 	text: autoDraw = False
+320.8760 	EXP 	textbox: autoDraw = False
+320.8760 	EXP 	polygon: autoDraw = True
+320.9402 	DATA 	Mouse:  Left button up, pos=(393,109)
+321.8791 	INFO 	Keyboard events cleared
+321.8768 	EXP 	polygon_2: autoDraw = True
+321.8927 	EXP 	polygon: autoDraw = False
+322.6608 	DATA 	Keypress: space
+322.6700 	EXP 	polygon: autoDraw = False
+322.6700 	EXP 	polygon_2: autoDraw = False
+323.3487 	EXP 	Sound sound_1 reached end of file
+323.3578 	EXP 	Sound sound_1 started
+323.6517 	EXP 	Sound sound_1 stopped
+323.6803 	EXP 	text: autoDraw = True
+323.6803 	EXP 	textbox: autoDraw = True
+325.0873 	DATA 	Keypress: 6
+325.2599 	DATA 	Keypress: 0
+325.7666 	DATA 	Mouse: Left button down, pos=(393,109)
+325.7698 	EXP 	New trial (rep=3, index=2): <Trial 32 (2 in rep 3) data={'delay': 0.7, 'freq': 400.0, 'condition': 'exp', 'thisN': 32, 'thisTrialN': 2, 'thisRepN': 3}>
+325.7828 	EXP 	text: autoDraw = False
+325.7828 	EXP 	textbox: autoDraw = False
+325.7828 	EXP 	polygon: autoDraw = True
+325.7906 	DATA 	Mouse:  Left button up, pos=(393,109)
+326.7793 	INFO 	Keyboard events cleared
+326.7771 	EXP 	polygon_2: autoDraw = True
+326.7938 	EXP 	polygon: autoDraw = False
+327.1764 	DATA 	Keypress: space
+327.1849 	EXP 	polygon: autoDraw = False
+327.1849 	EXP 	polygon_2: autoDraw = False
+327.8660 	EXP 	Sound sound_1 reached end of file
+327.8741 	EXP 	Sound sound_1 started
+328.1694 	EXP 	Sound sound_1 stopped
+328.1933 	EXP 	text: autoDraw = True
+328.1933 	EXP 	textbox: autoDraw = True
+330.1190 	DATA 	Keypress: 5
+330.3224 	DATA 	Keypress: 5
+330.5710 	DATA 	Mouse: Left button down, pos=(393,109)
+330.5736 	EXP 	New trial (rep=3, index=3): <Trial 33 (3 in rep 3) data={'delay': 0.1, 'freq': 1000.0, 'condition': 'unexp', 'thisN': 33, 'thisTrialN': 3, 'thisRepN': 3}>
+330.5869 	EXP 	text: autoDraw = False
+330.5869 	EXP 	textbox: autoDraw = False
+330.5869 	EXP 	polygon: autoDraw = True
+330.6597 	DATA 	Mouse:  Left button up, pos=(393,109)
+331.5799 	INFO 	Keyboard events cleared
+331.5780 	EXP 	polygon_2: autoDraw = True
+331.5944 	EXP 	polygon: autoDraw = False
+331.8614 	DATA 	Keypress: space
+331.8702 	EXP 	polygon: autoDraw = False
+331.8702 	EXP 	polygon_2: autoDraw = False
+331.9479 	EXP 	Sound sound_1 reached end of file
+331.9566 	EXP 	Sound sound_1 started
+332.2524 	EXP 	Sound sound_1 stopped
+332.2825 	EXP 	text: autoDraw = True
+332.2825 	EXP 	textbox: autoDraw = True
+333.5200 	DATA 	Keypress: 4
+333.6643 	DATA 	Keypress: 0
+334.0305 	DATA 	Mouse: Left button down, pos=(393,109)
+334.0547 	EXP 	New trial (rep=3, index=4): <Trial 34 (4 in rep 3) data={'delay': 0.7, 'freq': 400.0, 'condition': 'exp', 'thisN': 34, 'thisTrialN': 4, 'thisRepN': 3}>
+334.0676 	EXP 	text: autoDraw = False
+334.0676 	EXP 	textbox: autoDraw = False
+334.0676 	EXP 	polygon: autoDraw = True
+334.1365 	DATA 	Mouse:  Left button up, pos=(393,109)
+335.0631 	INFO 	Keyboard events cleared
+335.0603 	EXP 	polygon_2: autoDraw = True
+335.0798 	EXP 	polygon: autoDraw = False
+336.4323 	DATA 	Keypress: space
+336.4414 	EXP 	polygon: autoDraw = False
+336.4414 	EXP 	polygon_2: autoDraw = False
+337.1354 	EXP 	Sound sound_1 reached end of file
+337.1442 	EXP 	Sound sound_1 started
+337.4431 	EXP 	Sound sound_1 stopped
+337.4756 	EXP 	text: autoDraw = True
+337.4756 	EXP 	textbox: autoDraw = True
+338.0699 	DATA 	Keypress: 5
+338.2233 	DATA 	Keypress: 0
+338.3513 	DATA 	Keypress: 0
+338.7229 	DATA 	Mouse: Left button down, pos=(393,109)
+338.7264 	EXP 	New trial (rep=3, index=5): <Trial 35 (5 in rep 3) data={'delay': 0.1, 'freq': 1000.0, 'condition': 'unexp', 'thisN': 35, 'thisTrialN': 5, 'thisRepN': 3}>
+338.7396 	EXP 	text: autoDraw = False
+338.7396 	EXP 	textbox: autoDraw = False
+338.7396 	EXP 	polygon: autoDraw = True
+338.8508 	DATA 	Mouse:  Left button up, pos=(393,109)
+339.7345 	INFO 	Keyboard events cleared
+339.7331 	EXP 	polygon_2: autoDraw = True
+339.7600 	EXP 	polygon: autoDraw = False
+340.1333 	DATA 	Keypress: space
+340.1422 	EXP 	polygon: autoDraw = False
+340.1422 	EXP 	polygon_2: autoDraw = False
+340.2194 	EXP 	Sound sound_1 reached end of file
+340.2279 	EXP 	Sound sound_1 started
+340.5349 	EXP 	Sound sound_1 stopped
+340.5597 	EXP 	text: autoDraw = True
+340.5597 	EXP 	textbox: autoDraw = True
+341.6061 	DATA 	Keypress: 6
+341.7569 	DATA 	Keypress: 0
+341.8855 	DATA 	Keypress: 0
+342.2219 	DATA 	Mouse: Left button down, pos=(393,109)
+342.2255 	EXP 	New trial (rep=3, index=6): <Trial 36 (6 in rep 3) data={'delay': 0.4, 'freq': 400.0, 'condition': 'exp', 'thisN': 36, 'thisTrialN': 6, 'thisRepN': 3}>
+342.2382 	EXP 	text: autoDraw = False
+342.2382 	EXP 	textbox: autoDraw = False
+342.2382 	EXP 	polygon: autoDraw = True
+342.3483 	DATA 	Mouse:  Left button up, pos=(393,109)
+343.2287 	INFO 	Keyboard events cleared
+343.2267 	EXP 	polygon_2: autoDraw = True
+343.2424 	EXP 	polygon: autoDraw = False
+343.3106 	DATA 	Keypress: space
+343.3197 	EXP 	polygon: autoDraw = False
+343.3197 	EXP 	polygon_2: autoDraw = False
+343.7030 	EXP 	Sound sound_1 reached end of file
+343.7123 	EXP 	Sound sound_1 started
+344.0201 	EXP 	Sound sound_1 stopped
+344.0438 	EXP 	text: autoDraw = True
+344.0438 	EXP 	textbox: autoDraw = True
+345.0493 	DATA 	Keypress: 3
+345.1920 	DATA 	Keypress: 0
+345.4255 	DATA 	Keypress: 0
+346.0994 	DATA 	Mouse: Left button down, pos=(393,109)
+346.1022 	EXP 	New trial (rep=3, index=7): <Trial 37 (7 in rep 3) data={'delay': 0.1, 'freq': 400.0, 'condition': 'exp', 'thisN': 37, 'thisTrialN': 7, 'thisRepN': 3}>
+346.1161 	EXP 	text: autoDraw = False
+346.1161 	EXP 	textbox: autoDraw = False
+346.1161 	EXP 	polygon: autoDraw = True
+346.2045 	DATA 	Mouse:  Left button up, pos=(393,109)
+347.1124 	INFO 	Keyboard events cleared
+347.1096 	EXP 	polygon_2: autoDraw = True
+347.1289 	EXP 	polygon: autoDraw = False
+347.4444 	DATA 	Keypress: space
+347.4534 	EXP 	polygon: autoDraw = False
+347.4534 	EXP 	polygon_2: autoDraw = False
+347.5299 	EXP 	Sound sound_1 reached end of file
+347.5398 	EXP 	Sound sound_1 started
+347.8371 	EXP 	Sound sound_1 stopped
+347.8630 	EXP 	text: autoDraw = True
+347.8630 	EXP 	textbox: autoDraw = True
+348.5696 	DATA 	Keypress: 4
+348.6893 	DATA 	Keypress: 0
+348.8419 	DATA 	Keypress: 0
+349.1523 	DATA 	Mouse: Left button down, pos=(393,109)
+349.1743 	EXP 	New trial (rep=3, index=8): <Trial 38 (8 in rep 3) data={'delay': 0.4, 'freq': 1000.0, 'condition': 'unexp', 'thisN': 38, 'thisTrialN': 8, 'thisRepN': 3}>
+349.1868 	EXP 	text: autoDraw = False
+349.1868 	EXP 	textbox: autoDraw = False
+349.1868 	EXP 	polygon: autoDraw = True
+349.2907 	DATA 	Mouse:  Left button up, pos=(393,109)
+350.1813 	INFO 	Keyboard events cleared
+350.1797 	EXP 	polygon_2: autoDraw = True
+350.1956 	EXP 	polygon: autoDraw = False
+350.4431 	DATA 	Keypress: space
+350.4518 	EXP 	polygon: autoDraw = False
+350.4518 	EXP 	polygon_2: autoDraw = False
+350.8324 	EXP 	Sound sound_1 reached end of file
+350.8431 	EXP 	Sound sound_1 started
+351.1351 	EXP 	Sound sound_1 stopped
+351.1599 	EXP 	text: autoDraw = True
+351.1599 	EXP 	textbox: autoDraw = True
+352.1411 	DATA 	Keypress: 5
+352.2174 	DATA 	Keypress: 0
+352.3766 	DATA 	Keypress: 0
+352.7061 	DATA 	Mouse: Left button down, pos=(393,109)
+352.7097 	EXP 	New trial (rep=3, index=9): <Trial 39 (9 in rep 3) data={'delay': 0.1, 'freq': 400.0, 'condition': 'exp', 'thisN': 39, 'thisTrialN': 9, 'thisRepN': 3}>
+352.7237 	EXP 	text: autoDraw = False
+352.7237 	EXP 	textbox: autoDraw = False
+352.7237 	EXP 	polygon: autoDraw = True
+352.8079 	DATA 	Mouse:  Left button up, pos=(393,109)
+353.7279 	INFO 	Keyboard events cleared
+353.7261 	EXP 	polygon: autoDraw = False
+353.7261 	EXP 	polygon_2: autoDraw = True
+354.1927 	DATA 	Keypress: space
+354.2018 	EXP 	polygon: autoDraw = False
+354.2018 	EXP 	polygon_2: autoDraw = False
+354.2960 	EXP 	Sound sound_1 reached end of file
+354.3048 	EXP 	Sound sound_1 started
+354.6015 	EXP 	Sound sound_1 stopped
+354.6301 	EXP 	text: autoDraw = True
+354.6301 	EXP 	textbox: autoDraw = True
+355.7032 	DATA 	Keypress: 4
+355.8120 	DATA 	Keypress: 0
+355.9569 	DATA 	Keypress: 0
+356.2652 	DATA 	Mouse: Left button down, pos=(393,109)
+356.2687 	EXP 	New trial (rep=4, index=0): <Trial 40 (0 in rep 4) data={'delay': 0.4, 'freq': 400.0, 'condition': 'exp', 'thisN': 40, 'thisTrialN': 0, 'thisRepN': 4}>
+356.2820 	EXP 	text: autoDraw = False
+356.2820 	EXP 	textbox: autoDraw = False
+356.2820 	EXP 	polygon: autoDraw = True
+356.3509 	DATA 	Mouse:  Left button up, pos=(393,109)
+357.2774 	INFO 	Keyboard events cleared
+357.2756 	EXP 	polygon_2: autoDraw = True
+357.2924 	EXP 	polygon: autoDraw = False
+359.5792 	DATA 	Keypress: space
+359.5880 	EXP 	polygon: autoDraw = False
+359.5880 	EXP 	polygon_2: autoDraw = False
+359.9664 	EXP 	Sound sound_1 reached end of file
+359.9748 	EXP 	Sound sound_1 started
+360.2704 	EXP 	Sound sound_1 stopped
+360.2935 	EXP 	text: autoDraw = True
+360.2935 	EXP 	textbox: autoDraw = True
+362.7631 	DATA 	Keypress: 4
+362.9135 	DATA 	Keypress: 0
+363.0371 	DATA 	Keypress: 0
+363.3306 	DATA 	Mouse: Left button down, pos=(391,109)
+363.3537 	EXP 	New trial (rep=4, index=1): <Trial 41 (1 in rep 4) data={'delay': 0.1, 'freq': 1000.0, 'condition': 'unexp', 'thisN': 41, 'thisTrialN': 1, 'thisRepN': 4}>
+363.3668 	EXP 	text: autoDraw = False
+363.3668 	EXP 	textbox: autoDraw = False
+363.3668 	EXP 	polygon: autoDraw = True
+363.4177 	DATA 	Mouse:  Left button up, pos=(390,109)
+364.3616 	INFO 	Keyboard events cleared
+364.3596 	EXP 	polygon_2: autoDraw = True
+364.3789 	EXP 	polygon: autoDraw = False
+364.6778 	DATA 	Keypress: space
+364.6867 	EXP 	polygon: autoDraw = False
+364.6867 	EXP 	polygon_2: autoDraw = False
+364.7678 	EXP 	Sound sound_1 reached end of file
+364.7764 	EXP 	Sound sound_1 started
+365.0840 	EXP 	Sound sound_1 stopped
+365.1089 	EXP 	text: autoDraw = True
+365.1089 	EXP 	textbox: autoDraw = True
+365.8495 	DATA 	Keypress: 3
+366.5074 	DATA 	Keypress: 5
+366.6801 	DATA 	Keypress: 0
+367.4794 	DATA 	Mouse: Left button down, pos=(389,111)
+367.4815 	EXP 	New trial (rep=4, index=2): <Trial 42 (2 in rep 4) data={'delay': 0.4, 'freq': 1000.0, 'condition': 'unexp', 'thisN': 42, 'thisTrialN': 2, 'thisRepN': 4}>
+367.4946 	EXP 	text: autoDraw = False
+367.4946 	EXP 	textbox: autoDraw = False
+367.4946 	EXP 	polygon: autoDraw = True
+367.5843 	DATA 	Mouse:  Left button up, pos=(389,111)
+368.4924 	INFO 	Keyboard events cleared
+368.4907 	EXP 	polygon_2: autoDraw = True
+368.5096 	EXP 	polygon: autoDraw = False
+368.7931 	DATA 	Keypress: space
+368.8020 	EXP 	polygon: autoDraw = False
+368.8020 	EXP 	polygon_2: autoDraw = False
+369.1814 	EXP 	Sound sound_1 reached end of file
+369.1916 	EXP 	Sound sound_1 started
+369.4869 	EXP 	Sound sound_1 stopped
+369.5119 	EXP 	text: autoDraw = True
+369.5119 	EXP 	textbox: autoDraw = True
+369.9892 	DATA 	Keypress: 4
+370.1122 	DATA 	Keypress: 0
+370.2708 	DATA 	Keypress: 0
+370.5541 	DATA 	Mouse: Left button down, pos=(389,111)
+370.5767 	EXP 	New trial (rep=4, index=3): <Trial 43 (3 in rep 4) data={'delay': 0.1, 'freq': 400.0, 'condition': 'exp', 'thisN': 43, 'thisTrialN': 3, 'thisRepN': 4}>
+370.5894 	EXP 	text: autoDraw = False
+370.5894 	EXP 	textbox: autoDraw = False
+370.5894 	EXP 	polygon: autoDraw = True
+370.6808 	DATA 	Mouse:  Left button up, pos=(389,111)
+371.5927 	INFO 	Keyboard events cleared
+371.5920 	EXP 	polygon: autoDraw = False
+371.5920 	EXP 	polygon_2: autoDraw = True
+372.0109 	DATA 	Keypress: space
+372.0197 	EXP 	polygon: autoDraw = False
+372.0197 	EXP 	polygon_2: autoDraw = False
+372.0990 	EXP 	Sound sound_1 reached end of file
+372.1082 	EXP 	Sound sound_1 started
+372.4197 	EXP 	Sound sound_1 stopped
+372.4437 	EXP 	text: autoDraw = True
+372.4437 	EXP 	textbox: autoDraw = True
+373.4004 	DATA 	Keypress: 4
+373.5101 	DATA 	Keypress: 0
+373.6595 	DATA 	Keypress: 0
+373.9334 	DATA 	Mouse: Left button down, pos=(389,111)
+373.9358 	EXP 	New trial (rep=4, index=4): <Trial 44 (4 in rep 4) data={'delay': 0.7, 'freq': 400.0, 'condition': 'exp', 'thisN': 44, 'thisTrialN': 4, 'thisRepN': 4}>
+373.9527 	EXP 	text: autoDraw = False
+373.9527 	EXP 	textbox: autoDraw = False
+373.9527 	EXP 	polygon: autoDraw = True
+374.0210 	DATA 	Mouse:  Left button up, pos=(389,111)
+374.9448 	INFO 	Keyboard events cleared
+374.9433 	EXP 	polygon_2: autoDraw = True
+374.9611 	EXP 	polygon: autoDraw = False
+375.7451 	DATA 	Keypress: space
+375.7542 	EXP 	polygon: autoDraw = False
+375.7542 	EXP 	polygon_2: autoDraw = False
+376.4311 	EXP 	Sound sound_1 reached end of file
+376.4420 	EXP 	Sound sound_1 started
+376.7503 	EXP 	Sound sound_1 stopped
+376.7783 	EXP 	text: autoDraw = True
+376.7783 	EXP 	textbox: autoDraw = True
+377.5680 	DATA 	Keypress: 3
+377.8507 	DATA 	Keypress: 0
+378.1057 	DATA 	Keypress: 0
+378.4997 	DATA 	Mouse: Left button down, pos=(389,111)
+378.5228 	EXP 	New trial (rep=4, index=5): <Trial 45 (5 in rep 4) data={'delay': 0.4, 'freq': 1000.0, 'condition': 'unexp', 'thisN': 45, 'thisTrialN': 5, 'thisRepN': 4}>
+378.5362 	EXP 	text: autoDraw = False
+378.5362 	EXP 	textbox: autoDraw = False
+378.5362 	EXP 	polygon: autoDraw = True
+378.6380 	DATA 	Mouse:  Left button up, pos=(389,111)
+379.5292 	INFO 	Keyboard events cleared
+379.5277 	EXP 	polygon_2: autoDraw = True
+379.5434 	EXP 	polygon: autoDraw = False
+379.7783 	DATA 	Keypress: space
+379.7873 	EXP 	polygon: autoDraw = False
+379.7873 	EXP 	polygon_2: autoDraw = False
+380.1693 	EXP 	Sound sound_1 reached end of file
+380.1769 	EXP 	Sound sound_1 started
+380.4845 	EXP 	Sound sound_1 stopped
+380.5087 	EXP 	text: autoDraw = True
+380.5087 	EXP 	textbox: autoDraw = True
+381.3189 	DATA 	Keypress: 3
+381.6012 	DATA 	Keypress: 3
+383.0677 	DATA 	Keypress: 3
+383.3368 	DATA 	Keypress: space
+384.6405 	DATA 	Mouse: Left button down, pos=(389,111)
+384.6447 	EXP 	New trial (rep=4, index=6): <Trial 46 (6 in rep 4) data={'delay': 0.1, 'freq': 400.0, 'condition': 'exp', 'thisN': 46, 'thisTrialN': 6, 'thisRepN': 4}>
+384.6577 	EXP 	text: autoDraw = False
+384.6577 	EXP 	textbox: autoDraw = False
+384.6577 	EXP 	polygon: autoDraw = True
+384.7411 	DATA 	Mouse:  Left button up, pos=(389,111)
+385.6625 	INFO 	Keyboard events cleared
+385.6601 	EXP 	polygon: autoDraw = False
+385.6601 	EXP 	polygon_2: autoDraw = True
+386.8096 	DATA 	Keypress: space
+386.8184 	EXP 	polygon: autoDraw = False
+386.8184 	EXP 	polygon_2: autoDraw = False
+386.9127 	EXP 	Sound sound_1 reached end of file
+386.9202 	EXP 	Sound sound_1 started
+387.2189 	EXP 	Sound sound_1 stopped
+387.2434 	EXP 	text: autoDraw = True
+387.2434 	EXP 	textbox: autoDraw = True
+399.1005 	DATA 	Keypress: 4
+399.3618 	DATA 	Keypress: 0
+399.4841 	DATA 	Keypress: 0
+399.7969 	DATA 	Mouse: Left button down, pos=(384,107)
+399.8231 	EXP 	New trial (rep=4, index=7): <Trial 47 (7 in rep 4) data={'delay': 0.7, 'freq': 400.0, 'condition': 'exp', 'thisN': 47, 'thisTrialN': 7, 'thisRepN': 4}>
+399.8362 	EXP 	text: autoDraw = False
+399.8362 	EXP 	textbox: autoDraw = False
+399.8362 	EXP 	polygon: autoDraw = True
+399.8886 	DATA 	Mouse:  Left button up, pos=(384,107)
+400.8259 	INFO 	Keyboard events cleared
+400.8243 	EXP 	polygon_2: autoDraw = True
+400.8402 	EXP 	polygon: autoDraw = False
+401.0637 	DATA 	Keypress: space
+401.0731 	EXP 	polygon: autoDraw = False
+401.0731 	EXP 	polygon_2: autoDraw = False
+401.7643 	EXP 	Sound sound_1 reached end of file
+401.7726 	EXP 	Sound sound_1 started
+402.0682 	EXP 	Sound sound_1 stopped
+402.0923 	EXP 	text: autoDraw = True
+402.0923 	EXP 	textbox: autoDraw = True
+403.4171 	DATA 	Keypress: 3
+403.9185 	DATA 	Keypress: 4
+404.0972 	DATA 	Keypress: 0
+404.6305 	DATA 	Mouse: Left button down, pos=(384,108)
+404.6332 	EXP 	New trial (rep=4, index=8): <Trial 48 (8 in rep 4) data={'delay': 0.7, 'freq': 1000.0, 'condition': 'unexp', 'thisN': 48, 'thisTrialN': 8, 'thisRepN': 4}>
+404.6461 	EXP 	text: autoDraw = False
+404.6461 	EXP 	textbox: autoDraw = False
+404.6461 	EXP 	polygon: autoDraw = True
+404.7816 	DATA 	Mouse:  Left button up, pos=(384,108)
+405.6411 	INFO 	Keyboard events cleared
+405.6395 	EXP 	polygon_2: autoDraw = True
+405.6576 	EXP 	polygon: autoDraw = False
+406.0590 	DATA 	Keypress: space
+406.0681 	EXP 	polygon: autoDraw = False
+406.0681 	EXP 	polygon_2: autoDraw = False
+406.7462 	EXP 	Sound sound_1 reached end of file
+406.7559 	EXP 	Sound sound_1 started
+407.0501 	EXP 	Sound sound_1 stopped
+407.0791 	EXP 	text: autoDraw = True
+407.0791 	EXP 	textbox: autoDraw = True
+408.5798 	DATA 	Keypress: 6
+409.5626 	DATA 	Keypress: 5
+410.0805 	DATA 	Keypress: 0
+410.5862 	DATA 	Mouse: Left button down, pos=(384,108)
+410.5883 	EXP 	New trial (rep=4, index=9): <Trial 49 (9 in rep 4) data={'delay': 0.1, 'freq': 1000.0, 'condition': 'unexp', 'thisN': 49, 'thisTrialN': 9, 'thisRepN': 4}>
+410.6014 	EXP 	text: autoDraw = False
+410.6014 	EXP 	textbox: autoDraw = False
+410.6014 	EXP 	polygon: autoDraw = True
+410.6880 	DATA 	Mouse:  Left button up, pos=(384,108)
+411.5915 	INFO 	Keyboard events cleared
+411.5898 	EXP 	polygon_2: autoDraw = True
+411.6077 	EXP 	polygon: autoDraw = False
+413.6408 	DATA 	Keypress: space
+413.6496 	EXP 	polygon: autoDraw = False
+413.6496 	EXP 	polygon_2: autoDraw = False
+413.7386 	EXP 	Sound sound_1 reached end of file
+413.7509 	EXP 	Sound sound_1 started
+414.0502 	EXP 	Sound sound_1 stopped
+414.0824 	EXP 	text: autoDraw = True
+414.0824 	EXP 	textbox: autoDraw = True
+415.1978 	DATA 	Keypress: 7
+415.6100 	DATA 	Keypress: 0
+415.7237 	DATA 	Keypress: 0
+416.1004 	DATA 	Mouse: Left button down, pos=(384,108)
+416.1151 	EXP 	text: autoDraw = False
+416.1151 	EXP 	textbox: autoDraw = False
+416.1216 	EXP 	intentional binding: status = STOPPED
+416.1548 	INFO 	saved data to '/Users/shrutigupta/Desktop/data/989988_intentional binding_2024-11-13_18h26.23.913.csv'
+416.1587 	INFO 	saved data to /Users/shrutigupta/Desktop/data/989988_intentional binding_2024-11-13_18h26.23.913.psydat
+416.1986 	EXP 	window1: mouseVisible = True
+416.7175 	DEBUG 	Saving data for intentional binding ExperimentHandler
