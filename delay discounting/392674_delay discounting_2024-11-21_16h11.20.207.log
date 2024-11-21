@@ -1,0 +1,173 @@
+41.0047 	DEBUG 	Fullscreen settings ignored as running in pilot mode.
+41.0060 	INFO 	Loaded monitor calibration from ['2024_08_09 11:23']
+41.2991 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x130ae3670>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x130ae35e0>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x130ae3430>, gamma=None, gammaErrorPolicy='raise', infoMsg=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x130ad5090>, multiSample=False, name='window1', numSamples=2, pos=[520.0, 300.0], screen=0, size=array([1600, 1200]), stencilBits=0, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=True, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+41.2992 	EXP 	window1: backgroundImage = ''
+41.2993 	EXP 	window1: backgroundFit = 'none'
+41.2999 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x130ae37c0>
+41.3003 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x130ae37c0>
+41.3065 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x130ae37c0>
+41.3083 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x130ae37c0>
+41.3409 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+41.3427 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+41.3443 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+41.3463 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+41.3479 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+41.3489 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+41.3505 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+41.3523 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+41.3531 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+41.3538 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+41.3550 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+41.3562 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+41.3573 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+41.3585 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+41.3594 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+41.3606 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+41.3619 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+41.3628 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+41.3636 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+41.3651 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+41.3657 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+41.3687 	DEBUG 	Uploading Texture Font fontname to graphics card
+41.3717 	DEBUG 	Upload of Texture Font fontname complete
+41.3739 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x130ae37c0>
+41.3740 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x130ae37c0>
+41.3749 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x130ae37c0>
+41.3758 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x130ae37c0>
+41.3820 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+41.3835 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+41.3848 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+41.3852 	DEBUG 	Uploading Texture Font fontname to graphics card
+41.3858 	DEBUG 	Upload of Texture Font fontname complete
+41.3887 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+41.3887 	EXP 	window1: recordFrameIntervals = False
+41.6207 	EXP 	window1: recordFrameIntervals = True
+41.8814 	WARNING 	t of last frame was 26.65ms (=1/37)
+42.8157 	WARNING 	Couldn't measure a consistent frame rate!
+  - Is your graphics card set to sync to vertical blank?
+  - Are you running other processes on your computer?
+
+42.8173 	EXP 	window1: mouseVisible = False
+42.8180 	EXP 	window1: mouseVisible = False
+42.8183 	EXP 	window1: mouseVisible = False
+42.8197 	EXP 	window1: mouseVisible = False
+42.8211 	EXP 	window1: mouseVisible = False
+42.8300 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+42.8310 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+42.8325 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+42.8344 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+42.8360 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+42.8378 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+42.8386 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+42.8401 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+42.8417 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+42.8432 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+42.8437 	DEBUG 	Uploading Texture Font fontname to graphics card
+42.8503 	DEBUG 	Upload of Texture Font fontname complete
+42.8528 	EXP 	window1: mouseVisible = False
+42.8530 	EXP 	window1: mouseVisible = False
+42.8539 	EXP 	window1: mouseVisible = False
+42.8548 	EXP 	window1: mouseVisible = False
+42.8806 	WARNING 	launchHubServer: If using the iohub mouse or eyetracker devices, fullScr should be True.
+47.5734 	INFO 	keyboard.Keyboard is using iohub backend.
+47.5736 	INFO 	keyboard.Keyboard is using iohub backend.
+47.5737 	EXP 	delay discounting: status = STARTED
+47.5748 	EXP 	window1: mouseVisible = False
+47.5843 	EXP 	Created fixation = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=0.0, draggable=True, fillColor=array([1, 1, 1]), fillColorSpace='rgb', fillRGB=array([1, 1, 1]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1, 1, 1]), lineWidth=1.0, name='fixation', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([0.05, 0.05]), units='height', vertices=ndarray(...), win=Window(...), windingRule=None)
+47.5847 	EXP 	window1: mouseVisible = False
+47.5959 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+0.0456 	DEBUG 	Read excel file with openpyxl: /Users/shrutigupta/Downloads/discounting.xlsx
+0.0463 	EXP 	Imported /Users/shrutigupta/Downloads/discounting.xlsx as conditions, 7 conditions, 3 params
+0.0496 	EXP 	New trial (rep=0, index=0): <Trial 0 (0 in rep 0) data={'reward_today': 49.0, 'future_reward': 60.0, 'delay': 89.0, 'thisN': 0, 'thisTrialN': 0, 'thisRepN': 0}>
+0.1232 	WARNING 	t of last frame was 109.71ms (=1/9)
+0.1232 	EXP 	text: height = 0.05
+0.1232 	EXP 	text: height = 0.05
+0.1232 	EXP 	text: height = 0.05
+0.1232 	EXP 	text: text = 'GBP 49.0 today or  GBP 60.0 after 89.0 days'
+0.1232 	EXP 	fixation: autoDraw = True
+0.5573 	WARNING 	t of last frame was 26.21ms (=1/38)
+1.0155 	INFO 	Keyboard events cleared
+1.0144 	WARNING 	t of last frame was 23.95ms (=1/41)
+1.0144 	EXP 	text: autoDraw = True
+1.0404 	WARNING 	Multiple dropped frames have occurred - I'll stop bothering you about them!
+1.1340 	EXP 	fixation: autoDraw = False
+18.8179 	EXP 	New trial (rep=0, index=1): <Trial 1 (1 in rep 0) data={'reward_today': 40.0, 'future_reward': 55.0, 'delay': 62.0, 'thisN': 1, 'thisTrialN': 1, 'thisRepN': 0}>
+18.8525 	DATA 	Keypress: t
+18.8591 	EXP 	fixation: autoDraw = False
+18.8591 	EXP 	text: autoDraw = False
+18.8591 	EXP 	text: height = 0.05
+18.8591 	EXP 	text: height = 0.05
+18.8591 	EXP 	text: height = 0.05
+18.8591 	EXP 	text: text = 'GBP 40.0 today or  GBP 55.0 after 62.0 days'
+18.8591 	EXP 	fixation: autoDraw = True
+19.8252 	INFO 	Keyboard events cleared
+19.8231 	EXP 	text: autoDraw = True
+19.8583 	EXP 	fixation: autoDraw = False
+22.2753 	EXP 	New trial (rep=0, index=2): <Trial 2 (2 in rep 0) data={'reward_today': 27.0, 'future_reward': 50.0, 'delay': 21.0, 'thisN': 2, 'thisTrialN': 2, 'thisRepN': 0}>
+22.2891 	DATA 	Keypress: t
+22.2942 	EXP 	fixation: autoDraw = False
+22.2942 	EXP 	text: autoDraw = False
+22.2942 	EXP 	text: height = 0.05
+22.2942 	EXP 	text: height = 0.05
+22.2942 	EXP 	text: height = 0.05
+22.2942 	EXP 	text: text = 'GBP 27.0 today or  GBP 50.0 after 21.0 days'
+22.2942 	EXP 	fixation: autoDraw = True
+23.2852 	INFO 	Keyboard events cleared
+23.2837 	EXP 	text: autoDraw = True
+23.3017 	EXP 	fixation: autoDraw = False
+24.3652 	DATA 	Keypress: t
+24.3794 	EXP 	New trial (rep=0, index=3): <Trial 3 (3 in rep 0) data={'reward_today': 78.0, 'future_reward': 80.0, 'delay': 162.0, 'thisN': 3, 'thisTrialN': 3, 'thisRepN': 0}>
+24.3927 	EXP 	fixation: autoDraw = False
+24.3927 	EXP 	text: autoDraw = False
+24.3927 	EXP 	text: height = 0.05
+24.3927 	EXP 	text: height = 0.05
+24.3927 	EXP 	text: height = 0.05
+24.3927 	EXP 	text: text = 'GBP 78.0 today or  GBP 80.0 after 162.0 days'
+24.3927 	EXP 	fixation: autoDraw = True
+25.3897 	INFO 	Keyboard events cleared
+25.3886 	EXP 	text: autoDraw = True
+25.4027 	EXP 	fixation: autoDraw = False
+26.4795 	EXP 	New trial (rep=0, index=4): <Trial 4 (4 in rep 0) data={'reward_today': 67.0, 'future_reward': 75.0, 'delay': 119.0, 'thisN': 4, 'thisTrialN': 4, 'thisRepN': 0}>
+26.4867 	DATA 	Keypress: l
+26.4967 	EXP 	fixation: autoDraw = False
+26.4967 	EXP 	text: autoDraw = False
+26.4967 	EXP 	text: height = 0.05
+26.4967 	EXP 	text: height = 0.05
+26.4967 	EXP 	text: height = 0.05
+26.4967 	EXP 	text: text = 'GBP 67.0 today or  GBP 75.0 after 119.0 days'
+26.4967 	EXP 	fixation: autoDraw = True
+27.4905 	INFO 	Keyboard events cleared
+27.4898 	EXP 	text: autoDraw = True
+27.5066 	EXP 	fixation: autoDraw = False
+28.3976 	EXP 	New trial (rep=0, index=5): <Trial 5 (5 in rep 0) data={'reward_today': 11.0, 'future_reward': 30.0, 'delay': 7.0, 'thisN': 5, 'thisTrialN': 5, 'thisRepN': 0}>
+28.4072 	DATA 	Keypress: l
+28.4123 	EXP 	fixation: autoDraw = False
+28.4123 	EXP 	text: autoDraw = False
+28.4123 	EXP 	text: height = 0.05
+28.4123 	EXP 	text: height = 0.05
+28.4123 	EXP 	text: height = 0.05
+28.4123 	EXP 	text: text = 'GBP 11.0 today or  GBP 30.0 after 7.0 days'
+28.4123 	EXP 	fixation: autoDraw = True
+29.4045 	INFO 	Keyboard events cleared
+29.4035 	EXP 	text: autoDraw = True
+29.4182 	EXP 	fixation: autoDraw = False
+30.7362 	EXP 	New trial (rep=0, index=6): <Trial 6 (6 in rep 0) data={'reward_today': 15.0, 'future_reward': 35.0, 'delay': 13.0, 'thisN': 6, 'thisTrialN': 6, 'thisRepN': 0}>
+30.7437 	DATA 	Keypress: t
+30.7522 	EXP 	fixation: autoDraw = False
+30.7522 	EXP 	text: autoDraw = False
+30.7522 	EXP 	text: height = 0.05
+30.7522 	EXP 	text: height = 0.05
+30.7522 	EXP 	text: height = 0.05
+30.7522 	EXP 	text: text = 'GBP 15.0 today or  GBP 35.0 after 13.0 days'
+30.7522 	EXP 	fixation: autoDraw = True
+31.7386 	INFO 	Keyboard events cleared
+31.7380 	EXP 	text: autoDraw = True
+31.7519 	EXP 	fixation: autoDraw = False
+33.2661 	DATA 	Keypress: t
+33.2748 	EXP 	fixation: autoDraw = False
+33.2748 	EXP 	text: autoDraw = False
+33.2793 	EXP 	delay discounting: status = STOPPED
+33.2840 	INFO 	saved data to '/Users/shrutigupta/Desktop/data/392674_delay discounting_2024-11-21_16h11.20.207.csv'
+33.2875 	INFO 	saved data to /Users/shrutigupta/Desktop/data/392674_delay discounting_2024-11-21_16h11.20.207.psydat
+33.3177 	EXP 	window1: mouseVisible = True
+33.5750 	DEBUG 	Saving data for delay discounting ExperimentHandler
