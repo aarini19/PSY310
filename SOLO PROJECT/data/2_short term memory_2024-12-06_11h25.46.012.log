@@ -1,0 +1,266 @@
+52.6916 	INFO 	Loaded monitor calibration from ['2024_08_09 11:23']
+52.7037 	WARNING 	User requested fullscreen with size [1024  768], but screen is actually [1440, 900]. Using actual size
+53.0169 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x138a42f20>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x138a42f80>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x138a43130>, gamma=None, gammaErrorPolicy='raise', infoMsg=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x138a04130>, multiSample=False, name='window1', numSamples=2, pos=[360.0, 225.0], screen=0, size=array([2880, 1800]), stencilBits=0, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=True, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+53.0170 	EXP 	window1: backgroundImage = ''
+53.0170 	EXP 	window1: backgroundFit = 'none'
+53.0173 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x138a42e00>
+53.0175 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x138a42e00>
+53.0221 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x138a42e00>
+53.0231 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x138a42e00>
+53.0810 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x138a42e00>
+53.0812 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x138a42e00>
+53.0822 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x138a42e00>
+53.0831 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x138a42e00>
+53.1012 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+53.1013 	EXP 	window1: recordFrameIntervals = False
+53.4274 	EXP 	window1: recordFrameIntervals = True
+53.6167 	EXP 	Screen (0) actual frame rate measured at 58.76Hz
+53.6169 	EXP 	window1: recordFrameIntervals = False
+53.6189 	EXP 	window1: mouseVisible = False
+60.3176 	INFO 	keyboard.Keyboard is using iohub backend.
+60.3176 	INFO 	keyboard.Keyboard is using iohub backend.
+60.3177 	INFO 	keyboard.Keyboard is using iohub backend.
+60.3177 	INFO 	keyboard.Keyboard is using iohub backend.
+60.3178 	INFO 	keyboard.Keyboard is using iohub backend.
+60.3178 	INFO 	keyboard.Keyboard is using iohub backend.
+60.3179 	EXP 	short term memory: status = STARTED
+60.3186 	EXP 	window1: mouseVisible = False
+60.5160 	EXP 	Created welcome = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='welcome', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+60.5162 	EXP 	window1: mouseVisible = False
+60.5179 	EXP 	Created textBlank = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='textBlank', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+60.5181 	EXP 	window1: mouseVisible = False
+60.5493 	EXP 	Created textinstructions = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Times New Roman', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='textinstructions', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+60.5495 	EXP 	window1: mouseVisible = False
+60.5507 	EXP 	Created textStudyTrials = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='textStudyTrials', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+60.5509 	EXP 	window1: mouseVisible = False
+60.5525 	EXP 	Created textBlank = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='textBlank', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+60.5528 	EXP 	window1: mouseVisible = False
+60.5580 	EXP 	Created textWaitScreen = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='textWaitScreen', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='Please notify the researcher.', units='height', win=Window(...), wrapWidth=1)
+60.5581 	EXP 	window1: mouseVisible = False
+60.5598 	EXP 	Created Blank = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='Blank', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+60.5600 	EXP 	window1: mouseVisible = False
+60.5709 	EXP 	Created textY_N_Screen = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='textY_N_Screen', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+60.5711 	EXP 	window1: mouseVisible = False
+60.5727 	EXP 	Created textBlank = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='textBlank', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+60.5729 	EXP 	window1: mouseVisible = False
+60.5740 	EXP 	Created textTestTrials = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='textTestTrials', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+60.5742 	EXP 	window1: mouseVisible = False
+60.5758 	EXP 	Created textBlank = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='textBlank', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+60.5760 	EXP 	window1: mouseVisible = False
+60.5826 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='text', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+0.0538 	INFO 	Keyboard events cleared
+0.0524 	EXP 	welcome: autoDraw = True
+6.7659 	DATA 	Keypress: space
+6.7771 	EXP 	welcome: autoDraw = False
+6.7771 	EXP 	textBlank: autoDraw = True
+7.2736 	INFO 	Keyboard events cleared
+7.2713 	EXP 	textBlank: autoDraw = False
+7.2713 	EXP 	textinstructions: autoDraw = True
+12.1412 	EXP 	Imported /Users/shrutigupta/Downloads/Word_stimuli.xlsx as conditions, 6 conditions, 2 params
+12.1420 	EXP 	New trial (rep=0, index=0): <Trial 0 (0 in rep 0) data={'WordItem': 'bottle', 'WordColor': 'red', 'thisN': 0, 'thisTrialN': 0, 'thisRepN': 0}>
+12.1519 	DATA 	Keypress: space
+12.1617 	EXP 	textinstructions: autoDraw = False
+12.1617 	EXP 	textStudyTrials: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+12.1617 	EXP 	textStudyTrials: height = 0.05
+12.1617 	EXP 	textStudyTrials: height = 0.05
+12.1617 	EXP 	textStudyTrials: height = 0.05
+12.1617 	EXP 	textStudyTrials: text = 'bottle'
+12.1617 	EXP 	textStudyTrials: autoDraw = True
+13.1468 	EXP 	textStudyTrials: autoDraw = False
+13.1468 	EXP 	textBlank: autoDraw = True
+13.6334 	EXP 	New trial (rep=0, index=1): <Trial 1 (1 in rep 0) data={'WordItem': 'anxiety', 'WordColor': 'blue', 'thisN': 1, 'thisTrialN': 1, 'thisRepN': 0}>
+13.6507 	EXP 	textBlank: autoDraw = False
+13.6507 	EXP 	textStudyTrials: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+13.6507 	EXP 	textStudyTrials: height = 0.05
+13.6507 	EXP 	textStudyTrials: height = 0.05
+13.6507 	EXP 	textStudyTrials: height = 0.05
+13.6507 	EXP 	textStudyTrials: text = 'anxiety'
+13.6507 	EXP 	textStudyTrials: autoDraw = True
+14.6497 	EXP 	textStudyTrials: autoDraw = False
+14.6497 	EXP 	textBlank: autoDraw = True
+15.1309 	EXP 	New trial (rep=0, index=2): <Trial 2 (2 in rep 0) data={'WordItem': 'sad', 'WordColor': 'blue', 'thisN': 2, 'thisTrialN': 2, 'thisRepN': 0}>
+15.1483 	EXP 	textBlank: autoDraw = False
+15.1483 	EXP 	textStudyTrials: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+15.1483 	EXP 	textStudyTrials: height = 0.05
+15.1483 	EXP 	textStudyTrials: height = 0.05
+15.1483 	EXP 	textStudyTrials: height = 0.05
+15.1483 	EXP 	textStudyTrials: text = 'sad'
+15.1483 	EXP 	textStudyTrials: autoDraw = True
+16.1490 	EXP 	textStudyTrials: autoDraw = False
+16.1490 	EXP 	textBlank: autoDraw = True
+16.6394 	EXP 	New trial (rep=0, index=3): <Trial 3 (3 in rep 0) data={'WordItem': 'psychology', 'WordColor': 'red', 'thisN': 3, 'thisTrialN': 3, 'thisRepN': 0}>
+16.6564 	EXP 	textBlank: autoDraw = False
+16.6564 	EXP 	textStudyTrials: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+16.6564 	EXP 	textStudyTrials: height = 0.05
+16.6564 	EXP 	textStudyTrials: height = 0.05
+16.6564 	EXP 	textStudyTrials: height = 0.05
+16.6564 	EXP 	textStudyTrials: text = 'psychology'
+16.6564 	EXP 	textStudyTrials: autoDraw = True
+17.6567 	EXP 	textStudyTrials: autoDraw = False
+17.6567 	EXP 	textBlank: autoDraw = True
+18.1305 	EXP 	New trial (rep=0, index=4): <Trial 4 (4 in rep 0) data={'WordItem': 'excitement', 'WordColor': 'blue', 'thisN': 4, 'thisTrialN': 4, 'thisRepN': 0}>
+18.1480 	EXP 	textBlank: autoDraw = False
+18.1480 	EXP 	textStudyTrials: foreColor = <psychopy.colors.Color: blue, alpha=1.0>
+18.1480 	EXP 	textStudyTrials: height = 0.05
+18.1480 	EXP 	textStudyTrials: height = 0.05
+18.1480 	EXP 	textStudyTrials: height = 0.05
+18.1480 	EXP 	textStudyTrials: text = 'excitement'
+18.1480 	EXP 	textStudyTrials: autoDraw = True
+19.1525 	EXP 	textStudyTrials: autoDraw = False
+19.1525 	EXP 	textBlank: autoDraw = True
+19.6400 	EXP 	New trial (rep=0, index=5): <Trial 5 (5 in rep 0) data={'WordItem': 'croissant', 'WordColor': 'red', 'thisN': 5, 'thisTrialN': 5, 'thisRepN': 0}>
+19.6575 	EXP 	textBlank: autoDraw = False
+19.6575 	EXP 	textStudyTrials: foreColor = <psychopy.colors.Color: red, alpha=1.0>
+19.6575 	EXP 	textStudyTrials: height = 0.05
+19.6575 	EXP 	textStudyTrials: height = 0.05
+19.6575 	EXP 	textStudyTrials: height = 0.05
+19.6575 	EXP 	textStudyTrials: text = 'croissant'
+19.6575 	EXP 	textStudyTrials: autoDraw = True
+20.6449 	EXP 	textStudyTrials: autoDraw = False
+20.6449 	EXP 	textBlank: autoDraw = True
+21.1474 	INFO 	Keyboard events cleared
+21.1452 	EXP 	textBlank: autoDraw = False
+21.1452 	EXP 	textWaitScreen: autoDraw = True
+29.7026 	DATA 	Keypress: 1
+29.7122 	EXP 	textWaitScreen: autoDraw = False
+29.7122 	EXP 	Blank: autoDraw = True
+30.2174 	INFO 	Keyboard events cleared
+30.2154 	EXP 	Blank: autoDraw = False
+30.2154 	EXP 	textY_N_Screen: autoDraw = True
+41.4675 	DATA 	Keypress: 1
+43.2575 	DATA 	Keypress: space
+43.2669 	EXP 	textY_N_Screen: autoDraw = False
+43.2669 	EXP 	textBlank: autoDraw = True
+43.7672 	EXP 	Imported /Users/shrutigupta/Downloads/Word_stimuli.xlsx as conditions, 11 conditions, 2 params
+43.7678 	EXP 	New trial (rep=0, index=0): <Trial 0 (0 in rep 0) data={'WordItem': 'depression', 'WordColor': None, 'thisN': 0, 'thisTrialN': 0, 'thisRepN': 0}>
+43.7953 	INFO 	Keyboard events cleared
+43.7855 	EXP 	textBlank: autoDraw = False
+43.7855 	EXP 	textTestTrials: height = 0.05
+43.7855 	EXP 	textTestTrials: height = 0.05
+43.7855 	EXP 	textTestTrials: height = 0.05
+43.7855 	EXP 	textTestTrials: text = 'depression'
+43.7855 	EXP 	textTestTrials: autoDraw = True
+47.1951 	DATA 	Keypress: n
+47.2056 	EXP 	textTestTrials: autoDraw = False
+47.2056 	EXP 	textBlank: autoDraw = True
+47.6955 	EXP 	New trial (rep=0, index=1): <Trial 1 (1 in rep 0) data={'WordItem': 'psychology', 'WordColor': 'red', 'thisN': 1, 'thisTrialN': 1, 'thisRepN': 0}>
+47.7137 	INFO 	Keyboard events cleared
+47.7119 	EXP 	textBlank: autoDraw = False
+47.7119 	EXP 	textTestTrials: height = 0.05
+47.7119 	EXP 	textTestTrials: height = 0.05
+47.7119 	EXP 	textTestTrials: height = 0.05
+47.7119 	EXP 	textTestTrials: text = 'psychology'
+47.7119 	EXP 	textTestTrials: autoDraw = True
+57.7578 	DATA 	Keypress: n
+57.7680 	EXP 	textTestTrials: autoDraw = False
+57.7680 	EXP 	textBlank: autoDraw = True
+58.2535 	EXP 	New trial (rep=0, index=2): <Trial 2 (2 in rep 0) data={'WordItem': 'fascinated', 'WordColor': None, 'thisN': 2, 'thisTrialN': 2, 'thisRepN': 0}>
+58.2715 	INFO 	Keyboard events cleared
+58.2708 	EXP 	textBlank: autoDraw = False
+58.2708 	EXP 	textBlank: autoDraw = False
+58.2708 	EXP 	textTestTrials: height = 0.05
+58.2708 	EXP 	textTestTrials: height = 0.05
+58.2708 	EXP 	textTestTrials: height = 0.05
+58.2708 	EXP 	textTestTrials: text = 'fascinated'
+58.2708 	EXP 	textTestTrials: autoDraw = True
+59.0069 	DATA 	Keypress: n
+59.0169 	EXP 	textTestTrials: autoDraw = False
+59.0169 	EXP 	textBlank: autoDraw = True
+59.5067 	EXP 	New trial (rep=0, index=3): <Trial 3 (3 in rep 0) data={'WordItem': 'sad', 'WordColor': 'blue', 'thisN': 3, 'thisTrialN': 3, 'thisRepN': 0}>
+59.5241 	INFO 	Keyboard events cleared
+59.5235 	EXP 	textBlank: autoDraw = False
+59.5235 	EXP 	textTestTrials: height = 0.05
+59.5235 	EXP 	textTestTrials: height = 0.05
+59.5235 	EXP 	textTestTrials: height = 0.05
+59.5235 	EXP 	textTestTrials: text = 'sad'
+59.5235 	EXP 	textTestTrials: autoDraw = True
+60.2755 	DATA 	Keypress: y
+60.2851 	EXP 	textTestTrials: autoDraw = False
+60.2851 	EXP 	textBlank: autoDraw = True
+60.7765 	EXP 	New trial (rep=0, index=4): <Trial 4 (4 in rep 0) data={'WordItem': 'bottle', 'WordColor': 'red', 'thisN': 4, 'thisTrialN': 4, 'thisRepN': 0}>
+60.7951 	INFO 	Keyboard events cleared
+60.7918 	EXP 	textBlank: autoDraw = False
+60.7918 	EXP 	textTestTrials: height = 0.05
+60.7918 	EXP 	textTestTrials: height = 0.05
+60.7918 	EXP 	textTestTrials: height = 0.05
+60.7918 	EXP 	textTestTrials: text = 'bottle'
+60.7918 	EXP 	textTestTrials: autoDraw = True
+61.8484 	DATA 	Keypress: y
+61.8620 	EXP 	textTestTrials: autoDraw = False
+61.8620 	EXP 	textBlank: autoDraw = True
+62.3535 	EXP 	New trial (rep=0, index=5): <Trial 5 (5 in rep 0) data={'WordItem': 'croissant', 'WordColor': 'red', 'thisN': 5, 'thisTrialN': 5, 'thisRepN': 0}>
+62.3725 	INFO 	Keyboard events cleared
+62.3695 	EXP 	textBlank: autoDraw = False
+62.3695 	EXP 	textTestTrials: height = 0.05
+62.3695 	EXP 	textTestTrials: height = 0.05
+62.3695 	EXP 	textTestTrials: height = 0.05
+62.3695 	EXP 	textTestTrials: text = 'croissant'
+62.3695 	EXP 	textTestTrials: autoDraw = True
+63.0232 	DATA 	Keypress: y
+63.0327 	EXP 	textTestTrials: autoDraw = False
+63.0327 	EXP 	textBlank: autoDraw = True
+63.5234 	EXP 	New trial (rep=0, index=6): <Trial 6 (6 in rep 0) data={'WordItem': 'television', 'WordColor': None, 'thisN': 6, 'thisTrialN': 6, 'thisRepN': 0}>
+63.5426 	INFO 	Keyboard events cleared
+63.5408 	EXP 	textBlank: autoDraw = False
+63.5408 	EXP 	textTestTrials: height = 0.05
+63.5408 	EXP 	textTestTrials: height = 0.05
+63.5408 	EXP 	textTestTrials: height = 0.05
+63.5408 	EXP 	textTestTrials: text = 'television'
+63.5408 	EXP 	textTestTrials: autoDraw = True
+64.1590 	DATA 	Keypress: n
+64.1690 	EXP 	textTestTrials: autoDraw = False
+64.1690 	EXP 	textBlank: autoDraw = True
+64.6658 	EXP 	New trial (rep=0, index=7): <Trial 7 (7 in rep 0) data={'WordItem': 'anxiety', 'WordColor': 'blue', 'thisN': 7, 'thisTrialN': 7, 'thisRepN': 0}>
+64.6858 	INFO 	Keyboard events cleared
+64.6841 	EXP 	textBlank: autoDraw = False
+64.6841 	EXP 	textTestTrials: height = 0.05
+64.6841 	EXP 	textTestTrials: height = 0.05
+64.6841 	EXP 	textTestTrials: height = 0.05
+64.6841 	EXP 	textTestTrials: text = 'anxiety'
+64.6841 	EXP 	textTestTrials: autoDraw = True
+65.2907 	DATA 	Keypress: y
+65.3007 	EXP 	textTestTrials: autoDraw = False
+65.3007 	EXP 	textBlank: autoDraw = True
+65.7881 	EXP 	New trial (rep=0, index=8): <Trial 8 (8 in rep 0) data={'WordItem': 'couch', 'WordColor': None, 'thisN': 8, 'thisTrialN': 8, 'thisRepN': 0}>
+65.8047 	INFO 	Keyboard events cleared
+65.8031 	EXP 	textBlank: autoDraw = False
+65.8031 	EXP 	textBlank: autoDraw = False
+65.8031 	EXP 	textTestTrials: height = 0.05
+65.8031 	EXP 	textTestTrials: height = 0.05
+65.8031 	EXP 	textTestTrials: height = 0.05
+65.8031 	EXP 	textTestTrials: text = 'couch'
+65.8031 	EXP 	textTestTrials: autoDraw = True
+66.4902 	DATA 	Keypress: n
+66.5032 	EXP 	textTestTrials: autoDraw = False
+66.5032 	EXP 	textBlank: autoDraw = True
+66.9978 	EXP 	New trial (rep=0, index=9): <Trial 9 (9 in rep 0) data={'WordItem': 'excitement', 'WordColor': 'blue', 'thisN': 9, 'thisTrialN': 9, 'thisRepN': 0}>
+67.0162 	INFO 	Keyboard events cleared
+67.0157 	EXP 	textBlank: autoDraw = False
+67.0157 	EXP 	textTestTrials: height = 0.05
+67.0157 	EXP 	textTestTrials: height = 0.05
+67.0157 	EXP 	textTestTrials: height = 0.05
+67.0157 	EXP 	textTestTrials: text = 'excitement'
+67.0157 	EXP 	textTestTrials: autoDraw = True
+67.7580 	DATA 	Keypress: y
+67.7675 	EXP 	textTestTrials: autoDraw = False
+67.7675 	EXP 	textBlank: autoDraw = True
+68.2636 	EXP 	New trial (rep=0, index=10): <Trial 10 (10 in rep 0) data={'WordItem': 'keyboard', 'WordColor': None, 'thisN': 10, 'thisTrialN': 10, 'thisRepN': 0}>
+68.2792 	INFO 	Keyboard events cleared
+68.2776 	EXP 	textBlank: autoDraw = False
+68.2776 	EXP 	textTestTrials: height = 0.05
+68.2776 	EXP 	textTestTrials: height = 0.05
+68.2776 	EXP 	textTestTrials: height = 0.05
+68.2776 	EXP 	textTestTrials: text = 'keyboard'
+68.2776 	EXP 	textTestTrials: autoDraw = True
+69.1743 	DATA 	Keypress: n
+69.1838 	EXP 	textTestTrials: autoDraw = False
+69.1838 	EXP 	textBlank: autoDraw = True
+69.6895 	EXP 	textBlank: autoDraw = False
+69.6895 	EXP 	text: autoDraw = True
+73.7666 	DATA 	Keypress: 1
+74.6774 	DATA 	Keypress: space
+74.6871 	EXP 	text: autoDraw = False
+74.6875 	EXP 	short term memory: status = STOPPED
+74.7036 	INFO 	saved data to '/Users/shrutigupta/Desktop/lab in psychology/SOLO PROJECT/data/2_short term memory_2024-12-06_11h25.46.012.csv'
+74.7056 	INFO 	saved data to /Users/shrutigupta/Desktop/lab in psychology/SOLO PROJECT/data/2_short term memory_2024-12-06_11h25.46.012.psydat
+75.2764 	EXP 	window1: mouseVisible = True
